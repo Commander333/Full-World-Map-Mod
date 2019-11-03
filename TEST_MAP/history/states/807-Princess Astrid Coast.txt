@@ -1,0 +1,9 @@
+state={
+	id=807
+	name="Princess Astrid Coast"
+	provinces={
+		13226 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

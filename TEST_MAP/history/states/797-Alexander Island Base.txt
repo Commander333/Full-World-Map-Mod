@@ -1,0 +1,9 @@
+state={
+	id=797
+	name="Alexander Island Base"
+	provinces={
+		13340 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

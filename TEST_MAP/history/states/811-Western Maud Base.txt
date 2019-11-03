@@ -1,0 +1,9 @@
+state={
+	id=811
+	name="Western Maud Base"
+	provinces={
+		13346 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

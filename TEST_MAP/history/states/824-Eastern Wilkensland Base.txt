@@ -1,0 +1,9 @@
+state={
+	id=824
+	name="Eastern Wilkensland Base"
+	provinces={
+		13355 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

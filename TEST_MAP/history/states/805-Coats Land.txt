@@ -1,0 +1,9 @@
+state={
+	id=805
+	name="Coats Land"
+	provinces={
+		13227 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=823
+	name="Central Wilkensland Base"
+	provinces={
+		13354 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

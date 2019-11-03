@@ -1,0 +1,9 @@
+state={
+	id=804
+	name="Bryan Base"
+	provinces={
+		13342 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

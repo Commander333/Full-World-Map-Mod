@@ -1,0 +1,9 @@
+state={
+	id=803
+	name="Eights Coast"
+	provinces={
+		13230 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

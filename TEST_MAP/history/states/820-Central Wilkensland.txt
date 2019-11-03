@@ -1,0 +1,9 @@
+state={
+	id=820
+	name="Central Wilkensland"
+	provinces={
+		13291 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

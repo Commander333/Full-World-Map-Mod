@@ -1,0 +1,9 @@
+state={
+	id=796
+	name="Alexander Island"
+	provinces={
+		13229 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

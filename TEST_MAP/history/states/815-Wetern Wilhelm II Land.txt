@@ -1,0 +1,9 @@
+state={
+	id=815
+	name="Western Wilhelm II Land"
+	provinces={
+		13224 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,9 @@
+state={
+	id=795
+	name="Palmer Land"
+	provinces={
+		13228 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
