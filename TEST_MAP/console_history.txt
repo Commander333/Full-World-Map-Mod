@@ -1,0 +1,13743 @@
+tdebug
+add_Core 28
+add_Core 8
+add_Core 99
+add_Core 85
+add_Core 86
+
+add_Core 72
+add_Core 188
+tag LIT
+setowner ARM 188
+annex ARM
+tag POL
+add_Core 762 GER
+add_core 94
+add_core 95
+add_core 96
+add_core 90
+add_core 91
+add_core 93
+tag BLR
+setowner ARm 194
+setowner ARM 194
+setowner ARM 241
+setowner ARM 204
+setowner ARM 206
+setowner ARM 207
+setowner ARM 228
+annex BLR
+annex ARM
+add-Core 89 POL
+add_Core 89 POL
+ag LIT
+add_Core 784 POL
+add_Core 11 SOV
+add_Core 189 SOV
+add_Core 12 SOV
+add_Core 13 SOV
+add_Core 190 SOV
+add_Core 191 SOV
+setowner ARM 11
+setowner ARM 189
+annex ARM
+tag LAT
+setowner ARM 96
+tag LAT
+annex ARM
+setowner ARM 12
+setowner ARM 190
+annex ARM
+tag EST
+setowner ARM 96
+annex ARM
+setowner ARM 13
+setowner ARM 191
+annex ARM
+setowner ARM 13
+setowner ARM 191
+annex ARM
+nocb
+tag LAT
+tag LIT
+tag SOV
+add_Core 229
+add_Core 231
+add_Core 230
+add_Core 742
+add_Core 405
+add_Core 406
+add_Core 407
+add_Core 587
+add_Core 402
+add_Core 404
+add_Core 583
+add_Core 588
+add_Core 590
+add_Core 404
+add_Core 589
+add_Core 586
+add_Core 732
+add_Core 585
+add_Core 405
+add_Core 584
+tag TMS
+
+add_Core 341 BUL
+add_Core 184 BUL
+add_Core 77 BUL
+tag GRE
+add_Core 187 TUR
+add_Core 164 TUR
+setowner ARM 164
+annex ARM
+add_Core 792
+add_Core 106
+setowner MAC 106
+tag MAC
+annex MAC
+add_Core 792
+tag ALB
+tag YUG
+setowner SLV 736
+annex SLV
+add_Core 45 HUN
+add_Core 76 HUN
+add_Core 104 CRO
+add_Core 163 CRO
+add_Core 163 ITA
+tag ITA
+add_Core 103
+add_Core 105
+tag SER
+tag YUG
+add_Core 764
+add_Core 108
+add_Core 107
+add_Core 104
+add_Core 103
+add_Core 109
+add_Core 102
+add_Core 163
+tag SLV
+tag BOS
+setowner SER 45
+annex CRO
+annex SER
+add_Core 116 ITA
+add_Core 1 ITA
+tag ITA
+tag SPR
+tag GER
+add_Core 74
+add_Core 69
+add_Core 74 AUS
+add_Core 69 GER
+add_Core 69 AUS
+add_Core 102
+add_Core 102 AUS
+add_Core 39
+add_Core 39 AUS
+add_Core 153
+add_Core 152
+add_Core 4
+add_Core 151
+add_Core 3
+tag POL
+setowner ARM 86
+setowner ARM 85
+setowner ARM 762
+annex ARM
+tag DEN
+setowner ARM 99
+annex ARM
+tag GER
+tag TUR
+tag XSM
+annex XSM
+annex SHX
+tag JAP
+add_Core 745
+add_Core 716
+add_Core 328
+add_Core 717
+add_Core 714
+add_Core 761
+add_Core 537
+add_Core 655
+add_Core 524
+add_Core 610
+add_Core 609
+add_Core 715
+add_Core 609
+add_Core 591
+add_Core 592
+add_Core 593
+add_Core 594
+add_Core 728
+add_Core 729
+add_Core 326
+add_Core 597
+add_Core 743
+add_Core 598
+add_Core 613
+add_Core 596
+add_Core 595
+add_Core 593
+tag GXC
+annex GXC
+annex YUN
+add_Core 336
+setowner ARM 336
+annex ARM
+tag ROM
+setowner ARM 76
+annex ARM
+tag BRA
+add_core 487
+add_core 688
+add_core 502 ARG
+add_core 488
+add_core 687
+add_core 309
+add_core 310
+tag PRU
+add_Core 305
+add_Core 649
+add_Core 486
+add_Core 306
+add_Core 493
+add_Core 489
+add_Core 307
+tag ARG
+add_core 300
+add_Core 507
+add_Core 279
+add_Core 506
+add_Core 302
+add_Core 301
+add_Core 688
+tag USA
+add_Core 483
+add_Core 484
+add_Core 473
+add_Core 471
+add_Core 472
+add_Core 469
+add_Core 467
+add_Core 682
+add_Core 331
+add_Core 332
+add_Core 466
+add_Core 688
+add_Core 468
+add_Core 465
+add_Core 464
+add_Core 276
+add_Core 683
+add_Core 470
+add_Core 739
+add_Core 740
+tag MEX
+tag CAN
+annex CAN
+pp
+annex CAN
+pp
+tag CZE
+add_Core 72
+tag GER
+tag CZE
+setowner ARM 74
+setowner ARM 69
+annex ARM
+tag GER
+tag ENG
+observe
+add_Core 656 IRQ
+add_Core 658 SAU
+add_Core 765 SAU
+
+add_Core 659
+add_Core 293
+add_Core 294
+annex OMA
+add_Core 183 TUR
+tag YP
+tag CYP
+setowner ARM 183
+annex ARM
+tag GER
+add_core 118 SPR
+setowner ARm 118
+setowner ARM 118
+annex ARm
+pp
+Focus.autocomplete
+Focus.nochecks
+research_on_icon_click
+ic
+allowtraits
+cp
+manpower 58903
+manpower 589030
+xp
+tdebug
+tag CZE
+add_Core 664 HUN
+add_Core 73 HUN
+setowner ARm 664
+setowner ARM 664
+setowner ARM 73
+annex ARn
+annex ARM
+tag GER
+tag CUB
+decision.nochecks
+set_ruling_party c
+add_party_popularity c 100
+Focus.autocomplete
+Focus.nochecks
+tag USA
+taG ENG
+observe
+annex VEN
+observe
+annex COL
+annex ECU
+annex PAR
+annex CHL
+annex UR
+annex URG
+taG FRA
+tag SOV
+Focus.autocomplete
+Focus.nochecks
+add_party_popularity c 100
+research_on_icon_click
+tag GER
+ic
+tag GER
+xp
+tag SOV
+manpower
+tag JAP
+manpower
+tag USA
+manpower
+tag USA
+tag ENG
+manpower
+tag ENG
+add_Core 119
+tag NIR
+
+annex NIR
+tag ITA
+manpower 19089132
+manpower 190891320
+manpower 1908913200
+manpower 1908913
+tag GER
+tag SOV
+tag TUR
+tag GER
+ic
+xp
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+manpower 12389
+manpower 123890
+manpower 12389
+manpower 123890
+
+manpower 123890
+yesman
+pp
+set_ruling_party n
+set_ruling_party d
+set_ruling_party c
+set_ruling_party d
+ic
+manpower
+tdebug
+tag FRA
+tag MIT
+add_Core 660
+add_Core 772
+add_Core 539
+add_Core 297
+ic
+manpower 13478321
+manpower 13478321000
+manpower 134783
+add_Core 538
+add_Core 718
+add_Core 546
+add_Core 769
+add_Core 768
+add_Core 295
+add_Core 558
+add_Core 776
+add_Core 777
+tag ENG
+tag GHA
+add_Core 274 MIT
+tag BEL
+tag SPR
+setowner ARM 776
+setowner ARM 777
+setowner ARM 660
+setowner ARM 772
+setowner ARM 539
+annex ARM
+annex CHA
+tag ENG
+setowner ARM 546
+setowner ARM 558
+setowner ARM 274
+annex ARM
+tag BEL
+
+setowner ARM 768
+setowner ARM 769
+setowner ARM 718
+setowner ARM 538
+setowner ARM 295
+annex ARM
+tag ARM
+tag ITA
+annex TUN
+tag GER
+tag MIT
+add_party_popularity f 100
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+tag GER
+add_Core 88 GLC
+add_Core 88 GAL
+tdebug
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+delall ENG
+delall SOV
+ic
+tag JAP
+Focus.autocomplete
+tag GER
+ic
+tag SOV
+ic
+tag GER
+manpower
+tag SOV
+ic
+tag GER
+tag SOV
+tag GER
+ic
+tag SOV
+tag GER
+ic
+Fuel 1
+Fuel 10000000000000
+Fuel 100000000
+Focus.autocomplete
+Focus.nocheckds
+Focus.nochecks
+tag SOV
+tag GER
+Focus.nocheckds
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+ic
+tag KAP
+tag JAP
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+tag ITA
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+tag GER
+tag ITA
+tag GER
+Focus.autocomplete
+tag HUN
+Focus.autocomplete
+manpower 138941
+Focus.autocomplete
+tag GER
+ic
+Focus.autocomplete
+Focus.autocomplete^^
+Focus.autocomplete
+ic
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+^tp
+tp
+delall CHI
+delall PRC
+tag JAP
+op
+ai
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+^^^pp
+pp
+setowner ARM 594
+annex ARM
+tag CHI
+pp 10
+tag JAP
+setowner ARM 598
+setowner ARM 597
+setowner ARM 614
+setowner ARM 608
+annex ARM
+ic
+
+tag GER
+ai
+tag SOV
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+tag POL
+tag ENG
+tag SOV
+Focus.autocomplete
+Focus.nochecks
+tdebug
+add_Core 89
+add_Core 78
+add_Core 755
+add_Core 766
+add_Core 93
+add_Core 91
+add_Core 94
+add_Core 95
+add_Core 96
+add_Core 97
+add_Core 784
+tag GER
+Focus.autocomplete
+Focus.nochecks
+tdebug
+tag SOV
+setowner LIT 766
+setowner LIT 78
+annex LIT
+annex LART
+annex LAT
+annex EST
+add_core 80
+setowner LIT 80
+annex LIT
+tag GER
+manpower
+tag FRA
+nocb
+tag GER
+nocb
+annex sER
+tag
+tag ITA
+annex CRO
+add_Core 163
+add_Core 103
+setowner ARM 163
+setowner ARM 103
+annex ARm
+tag GER
+ic
+tag ITA
+add_Core 44
+add_Core 792
+tag GER
+ic
+Focus.autocomplete
+tag TUR
+set-Ruling_party n
+set_Ruling_party n
+add_party_popularity n 100
+pp 150
+tag GER
+tag SPR
+tag ITA
+
+pp
+tag ROM
+pp
+manpower 23478
+manpower 234780
+tag HUN
+manpower 234780
+pp
+tag CRO
+tag JAP
+pp
+tag GER
+tag SLO
+tag CZE
+tag CHI
+add_party_popularity f 100
+tag MEN
+
+add_party_popularity f 100
+tag PRU
+tag SER
+tag SIA
+tag GER
+Focus.autocomplete
+
+Focus.autocomplete
+tp
+Focus.autocomplete
+setowner ARM 99
+annex ARm
+tp
+^tp
+tp
+setowner ARM 99
+annex ARM
+pp
+Focus.autocomplete
+Civilwar fascism SPR
+tag D01
+annex SPR
+tag GER
+ic
+tp
+Focus.autocomplete
+delalL SOV
+tag SOV
+tag GER
+yesman
+op
+tag SOV
+tag GER
+tp
+ai
+tp
+yesman
+delall MOn
+delall SOV
+delall SIK
+op
+yesman
+tag RKV
+tag GER
+tag RKV
+tag GER
+op
+st 100
+ws -10
+ws 10
+manpower 1230893
+pp
+ws 10
+pp
+research_on_icon_click
+tdebug
+add_Core 551 EGY
+add_Core 767 EGY
+add_Core 542 SAF
+annex BOT
+tag RHO
+tag ROD
+tag ZIM
+annex ZAM
+annex TNZ
+annex TZN
+annex MLW
+tag SUD
+add_autonomy SUD 1000
+pp
+add_party_popularity d 100
+event TUR.1 SUD
+event tur.1 SUD
+kill_country_leader
+kill_country_leader yes
+kill_country_leader_yes
+kill_country_leader = yes
+event tur,1
+event tur.1
+event TUR.1
+event turkey.1 SUD
+tdebug
+tag RHO
+tag ROD
+tag ZIM
+event turkey.1 ZIM
+add_party_popularity d 100
+add_autonomy ZIM 100
+add_autonomy ZIM 1000
+pp 150
+manpower 1480
+manpower 1480342
+manpower 148034
+ic
+Focus.autocomplete
+Focus.nochecks
+tag ZIM
+tag UGA
+manpower 148034
+add_autonomy UGA 1000
+pp 140
+add_party_popularity d 100
+tag UGA
+tag KEN
+add_party_popularity d 100
+add_autonomy KEN 1000
+pp 150
+add_autonomy KEN -1000
+manpower 148034
+tag KEN
+tag SUD
+add_autonomy SUD 1000
+add_autonomy SUD -1000
+tag KEN
+tag SUD
+manpower 148034
+tag ZIM
+tag UGA
+tag KEN
+tag EGY
+set_Ruling_party n
+set_Ruling_party f
+set_Ruling_party c
+set_Ruling_party d
+set_Ruling_party n
+
+set_Ruling_party d
+add_party_popularity d 100
+pp 100
+add_autonomy EGY 1000
+add_autonomy EGY -500
+manpower 148034
+tag EGY
+tdebug
+setowner ARM 551
+setowner ARM 767
+annex ARM
+tdebug
+tag SUD
+tag SAF
+add_party_popularity d 100
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+manpower 148034
+tag SAF
+tag ENG
+add_Core 119
+tdebug
+add_Core 134
+add_Core 135
+add_Core 113
+tag USA
+add_Core 473
+add_Core 474
+add_Core 471
+add_Core 739
+add_Core 740
+add_Core 484
+add_Core 483
+add_Core 464
+add_Core 331
+add_Core 332
+add_Core 466
+add_Core 276
+add_Core 682
+add_Core 683
+add_Core 467
+add_Core 472
+add_Core 470
+tag MEX
+tag CAN
+annex CAN
+add_Core 469 USA
+add_Core 468 USA
+add_Core 465 USA
+tag USA
+manpower
+tag GER
+st 100
+ws 100
+manpower
+add_Core 188
+add_Core 85
+add_Core 86
+add_Core 762
+add_Core 99
+tag DEN
+setowner ARM 99
+annex ARm
+tag POL
+setowner ARM 762
+setowner ARM 85
+setowner ARM 86
+annex ARm
+tag LIT
+setowner ARM 188
+annex ARM
+tag GER
+tag NIR
+annex IRE
+tag ENG
+add_Core 116 ITA
+add_Core 1 ITA
+tag MLT
+add_Core 44 ITA
+add_Core 106 GRE
+add_Core 104 CRO
+setowner ARM 736
+annex ARM
+add_Core 102 AUS
+add_Core 102 GER
+add_Core 102 YUG
+add_COre 163 ITA
+add_COre 163 CRO
+add_COre 163 YUG
+add_Core 105 ITA
+add_Core 103 ITA
+add_Core 104 YUG
+tp
+tag yug
+add_Core 184 BUL
+tag NG
+tag ENG
+add_Core 118 SPR
+xp
+annex NIG
+annex NGA
+annex GHA
+cp
+tdebug
+add_Core 716 JAP
+add_Core 328 JAP
+tag JAP
+add_Core 745
+add_Core 716
+add_Core 610
+add_Core 715
+add_Core 717
+add_Core 714
+add_Core 761
+add_Core 609
+add_Core 614
+add_Core 608
+add_Core 597
+add_Core 743
+add_Core 598
+add_Core 613
+add_Core 596
+add_Core 595
+add_Core 593
+add_Core 592
+add_Core 594
+add_Core 591
+add_Core 728
+add_Core 729
+add_Core 326
+tag GXC
+annex GXC
+annex SHX
+annex XSM
+annex YUN
+annex MAN
+manpower
+add_Core 474 MEX
+tag USA
+tag ENG
+setowner ARM 453
+setowner ARM 446
+setowner ARM 447
+annex ARM
+tag EGY
+tag ENG
+add_party_popularity d 100
+pp
+tp
+ic
+tag ENG
+manpower 123873
+ic
+Focus.autocomplete
+xp
+tdebug
+ic
+manpower
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+threat 999999999999
+ic
+yesman
+ic
+yesman
+tag AUS
+FOcus.autocomplete
+FOcus.nochecks
+ai
+Focus.autocomplete
+Focus.nochecks
+tdebug
+annex HUN
+annex GLC
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+add_Core 83 TRS
+add_Core 84 TRS
+add_Core 82 TRS
+add_Core 875 TRS
+annex CZE
+add_Core 786
+add_Core 69
+add_Core 74
+add_Core 784
+tag HUN
+tag CZE
+tag AUS
+annex HUN
+annex SLO
+annex SVK
+annex CZE
+annex GAL
+annex TRN
+annex TRS
+tdebug
+set_ruling_party paternal_autocrat
+add_party_popularity paternal_autocrat 100
+add_party_popularity social_conservative 30
+add_party_popularity social_democrat 20
+add_autonomy TRS -1000
+pp
+add_autonomy TRS -10000
+tag CZE
+add_party_popularity social_conservative 30
+set_ruling_party social_democrat
+add_party_popularity social_democrat 20
+tag HUN
+set_ruling_party paternal_autocrat
+add_party_popularity paternal_autocrat 100
+decision.nochecks
+add_party_popularity social_conservative 30
+tag TRS
+add_party_popularity social_conservative 30
+Focus.autocomplete
+Focus.nochecks
+manpower 1387123
+manpower 13871230000
+manpower 138712
+tag HUN
+manpower 138712
+tag SVK
+manpower 138712
+set_ruling_party social_democrat
+set_ruling_party social_liberal
+add_party_popularity social_liberal 100
+tag GAL
+add_party_popularity social_conservative 30
+manpower 138712
+tag CRO
+manpower 138712
+set_ruling_party social_democrat
+set_ruling_party social_conservative
+add_party_popularity social_conservative 100
+tag CZE
+manpower 138712
+tag AUS
+tdebug
+add_Core 783 ITA
+add_Core 783 SRI
+tdebug
+nocb
+tag ROM
+tdebug
+setowner RHI 84
+setowner RHN 84
+setowner RIN 84
+setowner SIK 84
+annex SIK
+tag AUS
+manpower
+st 100
+ws 40
+pp
+ic
+pp
+tag CRO
+pp 150
+tag AUS
+research_on_icon_click
+tag AUS
+xp
+tag BUL
+add_Core 1089
+add_Core 184
+add_Core 341
+add_Core 347
+add_Core 773
+add_Core 106 GRE
+add_Core 766 GRE
+tag ALB
+tag OTT
+add_Core 187
+add_Core 453
+add_Core 753
+pp
+add_party_popularity paternal_autocrat 100
+adadd_Core 680
+add_Core 680
+add_Core 554
+add_Core 553
+add_Core 552
+setowner SIK 552
+annex SIK
+add_Core 677
+add_Core 995
+add_Core 455
+add_Core 992
+add_Core 454
+add_Core 454 PAL
+add_Core 454 ISR
+add_Core 754
+add_Core 679
+add_Core 982
+add_Core 994
+tag SYR
+tp
+add_Core 413 KUR
+tag SAU
+add_Core 656
+add_Core 907
+add_Core 993
+add_Core 658
+add_Core 293
+add_Core 294
+add_Core 752
+add_Core 1024
+add_Core 981
+tag JBS
+annex JBS
+add_core 915 SAU
+add_core 991 SAU
+annex OMA
+annex YEM
+add_COre 659 SAU
+add_Core 994 SAU
+add_Core 994 add_Core 994
+add_Core 994
+tag SAU
+tag OTT
+add_Core 352
+add_Core 350
+add_Core 819
+tag KUR
+tag EGY
+tag OTT
+manpower 137891
+manpower 1378913
+tag SOV
+add_Core 236 SOV
+setowner SOV 236
+tag SOV
+annex SOV
+set_ruling_party totalist
+set_ruling_party syndicalist
+set_ruling_party Radical_socialist
+set_ruling_party totalist
+add_Core 217
+add_Core 401
+add_Core 237
+add_Core 787
+tag RUS
+add_COre 218
+add_COre 245
+add_COre 237
+add_COre 238
+add_COre 235
+add_COre 787
+add_COre 232
+add_COre 233
+add_COre 234
+add_Core 245 SOV
+add_Core 218 SOV
+add_Core 37 SOV
+add_Core 237 SOV
+add_Core 235 SOV
+add_Core 232 SOV
+add_Core 233 SOV
+add_Core 234 SOV
+add_Core 238 SOV
+add_Core 990
+add_Core 990 SOV
+add_Core 229
+add_Core 229 SOV
+add_Core 1081
+add_Core 1081 SOV
+add_Core 231
+add_Core 231 SOV
+add_Core 1080
+add_Core 1080 SOV
+tag GEO
+annex azR
+annex AZE
+add_Core 999 ARM
+annex DKB
+add_COre 732
+add_COre 732 SOV
+add_COre 405
+add_COre 405 SOV
+add_COre 584
+add_COre 584 SOV
+add_COre 585
+add_COre 585 SOV
+add_COre 586
+add_COre 586 SOV
+add_COre 589
+add_COre 589 SOV
+add_COre 404
+add_COre 404 SOV
+add_COre 810
+add_COre 810 SOV
+add_COre 402
+add_COre 402 SOV
+add_COre 587
+add_COre 587 SOV
+add_COre 406
+add_COre 406 SOV
+add_COre 407 SOV
+add_COre 407
+tag ALO
+annex ALO
+annex TRJ
+annex TRK
+add_core 652
+add_core 651
+add_core 398
+add_core 397
+add_core 262
+add_core 214
+add_core 216
+add_core 195
+add_core 219
+add_core 251
+add_core 249
+add_core 399
+add_core 400
+add_core 351
+add_core 248
+add_core 247
+add_core 246
+add_core 263
+add_core 208
+add_core 209
+add_core 210
+add_core 880
+add_core 880 BAT
+add_core 880 GER
+add_core 242
+add_core 243
+add_core 224
+add_core 222
+add_core 223
+add_core 205
+add_core 253
+add_core 252
+add_core 251
+add_core 255
+add_core 256
+add_core 257
+add_core 258
+add_core 254
+add_core 253
+add_core 252
+add_core 251
+add_core 264
+add_core 755
+add_core 220
+add_core 240
+tag RUS
+add_core 250
+add_core 239
+add_core 265
+add_core 582
+add_core 573
+add_core 581
+add_core 573
+add_core 590
+add_core 588
+add_core 40
+add_core 583
+add_core 572
+add_core 653
+add_core 580
+add_core 579
+add_core 577
+add_core 516
+add_core 578
+add_core 570
+add_core 571
+add_core 569
+add_core 568
+add_core 576
+add_core 567
+add_core 566
+add_core 565
+add_core 561
+add_core 560
+add_core 657
+add_core 562
+add_core 637
+add_core 644
+add_core 575
+add_COre 811 SOV
+add_COre 811 RUS
+add_Core 654 RUS
+add_Core 654
+tag RUS
+add_Core 244
+add_Core 260
+add_Core 405
+add_Core 403
+add_Core 574
+tag MON
+add_COre 563 RUS
+add_COre 563 SOV
+add_COre 564 RUS
+add_COre 564 SOV
+tag SQI
+set_ruling_party totalist
+set_ruling_party syndicalist
+set_ruling_party socialist
+setowner AZE 691
+setowner AZE 728
+setowner AZE 729
+setowner AZE 524
+setowner AZE 589
+setowner AZE 859
+annex AZE
+annex SQI
+annex AOG
+annex yu
+annex yun
+annex XSM
+annex QIE
+annex LEC
+setowner AZE 591
+annex AZE
+setowner AZE 996
+annex AZE
+annex FNG
+annex XSM
+tag SQI
+annex FNG
+setowner FNG616
+setowner FNG 616
+setowner FNG 604
+annex FNG
+setowner FNG 353
+annex FNG
+set_ruling_party totalist
+tag MON
+tag TIB
+annex TIB
+add_Core 693 PRC
+set-Ruling_party totalist
+set_Ruling_party totalist
+add_Core 693 QIE
+annex AOG
+add_Core 1060 KMT
+setowner CHI 595
+tag CHI
+annex CHI
+set_Ruling_party totalist
+set_Ruling_party syndicalist
+set_ruling_party totalist
+tag SOV
+annex QIE
+tdebug
+add_Core 1066
+add_Core 747
+add_Core 1046
+add_Core 1012
+add_Core 592
+add_Core 591
+add_Core 326
+add_Core 729
+add_Core 523
+setowner AZE 523
+annex AZE
+add_Core 802
+add_Core 801
+add_Core 1012
+add_Core 593
+add_Core 728
+add_Core 591
+add_Core 1056
+add_Core 594
+add_Core 1053
+add_Core 325
+add_Core 816
+add_Core 601
+add_Core 858
+add_Core 324
+add_core 748
+add_core 322
+add_core 1086
+add_core 693
+add_core 353
+add_core 604
+add_core 287
+add_core 617
+add_core 1085
+add_core 619
+add_core 1083
+add_core 618
+add_core 348
+add_core 774
+add_core 604
+add_core 353
+add_core 622
+add_core 283
+add_core 348
+add_core 616
+add_core 621
+add_core 612
+add_core 611
+add_core 610
+add_core 614
+add_core 608
+add_core 1062
+add_core 615
+add_core 1015
+add_core 799
+add_core 602
+add_core 603
+add_core 1052
+add_core 1013
+add_core 605
+add_core 620
+add_core 1048
+add_core 1045
+add_core 600
+add_core 800
+add_core 599
+add_core 1055
+add_core 1054
+add_core 1051
+add_core 1044
+add_core 613
+add_core 606
+add_core 1014
+tag QIE
+add_Core 1069
+add_Core 802
+add_Core 803
+add_Core 1067
+add_Core 1068
+add_Core 746
+add_Core 596
+add_Core 1049
+add_Core 1072
+add_Core 1060
+add_Core 1059
+add_Core 6077
+add_Core 607
+add_Core 1058
+add_Core 788
+add_Core 598
+add_Core 1047
+add_Core 1064
+add_Core 744
+add_Core 1065
+add_Core 996
+add_Core 597
+add_Core 1063
+add_Core 1061
+add_Core 745
+tag JAP
+add_Core 859 JAP
+add_Core 524 JAP
+add_COre 716 CHI
+tag CHI
+add_COre 715
+add_COre 886
+add_COre328
+add_COre 328
+add_COre 885
+add_COre 717
+add_COre 883
+add_COre 884
+add_COre 714
+tag QIE
+add_Core 591
+add_Core 728
+add_Core 996
+add_Core 1084
+add_Core 330
+add_Core 329
+add_COre 324
+add_COre 858
+add_core 1050 CHI
+add_Core 743 CHI
+add_Core 1075 CHI
+add_Core 609 CHI
+tag EA
+tag GEA
+Focus.autocomplete
+Focus.nochecks
+annex GEA
+add_Core 336 SIA
+add_Core 846 SIA
+add_core 333 DEI
+add_core 828 DEI
+add_Ore 646 JAP
+add_core 646 JAP
+add_core 684 JAP
+add_core 633 JAP
+add_Core 857
+add_Core 671
+add_Core 827
+add_Core 286
+add_Core 856
+add_Core 826
+add_Core 670
+add_COre 825
+add_COre 750
+tag SSIA
+tag SIA
+tag CAM
+add_Core 882 GEA
+add_core 831
+set_ruling_party totalist
+add_Party_popularity totalist 1010
+ic
+manpower 23467
+manpower 234672
+tag BUR
+add_Core 756
+set_ruling_party totalist
+add_party_popularity totalist 100
+add_COre 434
+add_COre 430
+add_COre 432
+tag BHC
+tag SHA
+tag PRC
+tag CHI
+annex QIE
+tag LEC
+set_ruling_party totalist
+add_party_popularity totalist 100
+tag BHU
+annex BHU
+add_Core 323 DEH
+add_Core 323 IND
+add_Core 323 IDI
+add_Core 323 BHC
+add_Core 814 BHE
+add_Core 814 DEH
+add_Core 814 BHC
+add_Core 887 BHC
+add_Core 887 DEH
+add_Core 815 DEH
+add_Core 815 BHC
+add_COre 888 CHI
+add_COre 888 QIE
+add_COre 888 DEH
+add_COre 888 BHC
+annex NEP
+setowner SIK 442
+setowner SIK 445
+annex SIK
+add_Core 444 AFG
+add_Core 320
+add_Core 320 BHC
+add_Core 321
+add_Core 321 BHC
+add_Core 893
+add_Core 429
+add_Core 427
+add_Core 424
+add_Core 425
+add_Core 868
+add_Core 425
+add_Core 423
+add_Core 867
+add_Core 422
+tag MAD
+annex MAD
+setowner SIK 321
+annex SIK
+tag BHC
+add_Core 424
+add_Core 425
+add_Core 423
+add_Core 867
+add_Core 868
+add_Core 427
+add_Core 429
+add_Core 893
+add_Core 1057
+add_Core 438
+add_Core 437
+add_Core 433
+add_Core 428
+add_Core 443
+add_Core 439
+add_Core 440
+add_Core 890
+add_Core 441
+add_Core 891
+setowner SIK 423
+setowner SIK 867
+setowner SIK 425
+setowner SIK 424
+setowner SIK 868
+setowner SIK 427
+annex SIK
+add_Core 426 DEH
+add_Core 889 DEH
+add_Core 436 DEH
+add_Core 431 DEH
+add_Core 435 DEH
+tag SOV
+add_Core 228
+add_Core 227
+add_Core 228 RUS
+add_Core 227 RUS
+add_Core 137
+add_Core 137 RUS
+add_Core 221
+add_Core 221 RUS
+add_Core 225
+add_Core 225 RUS
+add_Core 241
+add_Core 241 RUS
+tag UKR
+add_core 1088 POL
+add_Core 96 RUS
+add_Core 96 SOV
+tag LIT
+annex LIT
+add_Core 93 RUS
+add_Core 93 SOV
+add_Core 94 RUS
+add_Core 94 SOV
+tag UKR
+tag SOV
+add_Core 194
+add_Core 194 RUS
+add_Core 204
+add_Core 204 RUS
+add_Core 95
+add_Core 95 RUS
+add_Core 1087
+add_Core 1087 RUS
+add_Core 306
+add_Core 206
+add_Core 206 RUS
+add_Core 207
+add_Core 207 RUS
+tag WHR
+annex WHR
+tag LIT
+setowner SIK 96
+annex SIK
+add_Core 11 BAT
+add_Core 189 BAT
+tag RUS
+add_COre 880
+tag GER
+add_COre 11
+
+add_COre 12
+add_COre 13
+add_COre 189
+add_COre 190
+add_COre 191
+tag RUS
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+tag SOV
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+tag LIT
+tag RUS
+setower LIT 96
+setowner LIT 96
+tag LIT
+annex LIT
+tag GER
+add_Core 99
+tag DEN
+add_Core 37
+tag SOV
+tag SWI
+add_Core 760 FRA
+add_Core 761 ITA
+add_Core 761 SRI
+add_Core 151 GER
+add_Core 3 GER
+add_Core 760 FA
+add_Core 760 NFA
+add_Core 6 FLA
+add_Core 6 FLN
+add_Core 29 FLN
+add_Core 979 BEL
+add_Core 979 FLN
+add_COre 741 WLO
+add_COre 741 WLN
+add_COre 741 WAL
+setowner WAL 741
+tag WAL
+annex WAL
+add_Core 122
+add_COre 741 WLN
+add_COre 741 WLO
+add_COre 741 WON
+add_COre 741 WLL
+add_COre 980 WLL
+add_COre 741 WLL
+add_COre 980 BEL
+tag BEL
+setowner SIK 980
+annex SIK
+ic
+tag HOL
+add_party_popularity social_conservative 199
+add_Core 133 SCO
+add_Core 133 SCT
+add_Core 121 SCT
+add_Core 136 SCT
+add_Core 120 SCT
+tag GER
+manpower 1238789
+
+tag GER
+set_ruling_party national_populist
+set_ruling_party paternal_autocrat
+add_party_popularity paternal_autocrat 100
+add_party_popularity social_conservative 30
+add_party_popularity totalist 30
+tag SOV
+research_on_icon_click
+tag RUS
+annex SOV
+manpower 2476432
+ic
+ai
+tag CHI
+tdebug
+add_Core 1086 TIB
+add_Core 748 TIB
+add_Core 322 TIB
+add_Core 858 TIB
+add_Core 324 TIB
+add_Core 1085 SIK
+add_Core 287 SIK
+add_Core 619 SIK
+add_Core 617 SIK
+add_Core 1083 SIK
+add_Core 618 SIK
+add_Core 326 LEC
+add_Core 592 LEC
+add_Core 729 LEC
+add_Core 326
+add_Core 592
+add_Core 729
+add_party_popularity totalist 100
+nocb
+tag JAP
+set_ruling_party paternal_autocrat
+add_party_popularity paternal_autocrat 100
+manpower
+st 100
+tag BEH
+tag BHC
+set_ruling_party totalist
+set_ruling_party radical_socialist
+add_Core 936 FIN
+add_Core 937 FIN
+tag NOR
+tag FIN
+add_Core 215
+add_Core 213
+add_Core 722
+tag RUS
+add_Core 216 RUS
+add_Core 216 FN
+add_Core 216 FIN
+add_Core 216
+tag JAP
+tag GER
+tag AUS
+tag BRA
+add_COre 502 ARG
+add_COre 487
+add_COre 847
+add_COre 302
+add_Core 488
+add_Core 1036
+add_party_popularity social_conservative 100
+add_Core 1079
+add_Core 912
+add_Core 1039
+add_Core 1038
+add_Core 1037
+add_Core 309
+add_Core 310
+add_Core 687
+tag ARG
+add_Core 1029
+add_Core 512
+add_Core 507
+add_Core 279
+add_Core 874
+add_Core 506
+add_Core 873
+add_Core 848
+add_Core 688
+add_Core 1027
+add_Core 301
+add_Core 300
+tag URG
+annex URG
+annex FOP
+annex CHL
+annex PAR
+annex BOL
+add_Core 1073 ARG
+add_Core 305
+add_Core 851
+add_Core 486
+add_Core 307
+add_Core 850
+add_Core 849
+add_Core 695
+add_Core 489
+add_Core 306
+add_Core 852
+add_Core 493
+add_Core 853
+tag VEN
+annex VEN
+annex COL
+add_Core 649 PRU
+annex ECU
+tag PRU
+add_party_Popularity authoritarian_democrat 100
+add_party_Popularity totalist 49
+tag BRA
+tag ARG
+add_Core 474 MEX
+add_Core 474 GUA
+add_Core 475 GUA
+tag MEX
+add_Core 483 USA
+add_Core 484 USA
+tag USA
+tdebug
+add_Core 739
+add_Core 740
+add_Core 472
+add_Core 471
+add_Core 473
+add_Core 470
+add_Core 469
+add_Core 467
+add_Core 682
+add_Core 332
+add_Core 331
+add_Core 466
+setowner SIK 331
+annex SIK
+add_Core 368
+add_Core 568
+add_Core 468
+setowner SK 368
+setowner SIK 368
+setowner SIK 568
+annex SIK
+add_core 465
+add_core 464
+tag CAN
+anneadd_Core 276 USA
+add_Core 276 USA
+add_Core 683 USA
+ic
+manpower 12384122
+manpower 1238412200
+manpower 123841
+research_on_icon_click
+tag CAN
+pp 150
+tag CAN
+tp
+tag CUB
+add_Core 319
+add_Core 318
+add_Core 686
+tag HAI
+annex HAI
+annex DOM
+set_ruling_party totalist
+add_party_popularity totalist 1000
+tag USA
+tag AST
+set_ruling_party social_democrat
+set_ruling_party social_conservative
+add_party_popularity social_conservative 1000
+tag GRE
+set_ruling_party totalist
+set_ruling_party social_conservative
+add_party_popularity social_conservative 1000
+add_party_popularity totalist 49
+tag BUL
+add_party_popularity paternal_autocrat 100
+set_ruling_party paternal_autocrat
+add_party_popularity totalist 49
+tag POL
+set_ruling_party totalist
+add_party_popularity totalist 49
+set_ruling_party social_conservative
+add_party_popularity social_conservative 1000
+add_party_popularity totalist 49
+tag PAP
+setowner SIK 764
+annex SIK
+tag GER
+xp
+st 100
+Focus.autocomplete
+Focus.nochecks
+pp
+tag GER
+xp
+cp
+allowtraits
+annex GEA
+tag GER
+tag AUS
+cp
+setowner SOV 224
+tag SOV
+add_party_popularity totalist 1000
+st 100
+ws 100
+annex SOV
+tag RUS
+annex SOV
+tag FRA
+set_Ruling_party totalist
+add_party_popularity totalist 10000
+add_party_popularity social_conservative 49
+tag SRI
+set_Ruling_party totalist
+add_party_popularity totalist 10000
+add_party_popularity social_conservative 49
+tag ENG
+set_Ruling_party totalist
+add_party_popularity totalist 10000
+add_party_popularity social_conservative 49
+tag GER
+add_Core 116 ITA
+tp
+tag AUS
+tdebug
+tag SRI
+nocb
+annex SRI
+tag AUS
+tag SIC
+annex SIC
+tag SIC
+tag AUS
+tag ITA
+tag BUR
+tag AUS
+tag SOV
+tag AUS
+tag SOV
+annex RUS
+ic
+research_on_icon_click
+manpower
+tag SOV
+ic
+tag SOV
+xp
+allowtraits
+cp
+xp
+ic
+nocb
+tag PRC
+tag CHI
+tag SIA
+tag BUr
+tag SOV
+tag AUS
+ic
+Focus.autocomplete
+ic
+st 1000
+ws 100
+tag OTT
+set_ruling_party paternal_autocrat
+tag AUS
+set_ruling_party paternal_autocrat
+nocb
+tag SOV
+tag AUS
+tag DEH
+annex LIT
+add_party_popularity paternal_autocrat 100
+taG ENG
+tag AUS
+nocb
+tag GER
+nocb
+tag USA
+tag GER
+tag AUS
+nocb
+op
+delall SRI
+delall FRA
+delall SRI
+delall ENG
+op
+Focus.autocomplete
+annex TRS
+annex SVK
+ic
+st 100
+ic
+op
+tdebug
+tag GBP
+annex GBP
+set_ruling_party social_conservative
+add_party_popularity social_conservative 100
+tag FRA
+tag FRP
+set_ruling_party social_conservative
+add_party_popularity social_conservative 100
+annex FRP
+tag FRA
+add_party_popularity social_conservative 100
+set_ruling_party social_conservative
+tag AUS
+tag ENG
+tag GBp
+nocb
+tag FRA
+tag ITA
+annex SRD
+annex SIC
+annex PAP
+pp
+set_ruling_party social_conservative
+add_party_popularity social_conservative 100
+tag ENG
+
+tag GBP
+tag GER
+tdebug
+tag ITA
+ic
+tag FRA
+st 100
+manpower 123890
+tag GER
+tag AUS
+ic
+tag ITA
+tag ENG
+tag GBP
+tag AUS
+tag DEH
+tdebug
+add_Core 442 AFG
+add_Core 445 AFG
+tdebug
+tag AUS
+tag INC
+tag SOV
+tag AUS
+nocb
+tag SOV
+tdebug
+add_Core 200
+add_Core 821
+add_Core 226
+add_Core 203
+add_Core 193
+add_Core 203
+add_Core 202
+add_Core 201
+add_Core 792
+add_Core 199
+add_Core 791
+add_Core 192
+add_Core 197
+add_Core 198
+add_Core 196
+add_Core 259
+annex UKR
+tag AUS
+tag IRE
+nocb
+tag GBP
+tag AUS
+tag GBP
+tag AUS
+tag GER
+tag AUS
+nocb
+tag USA
+annex CSA
+annex CAL
+annex TEX
+tag AUS
+tag POL
+nocb
+tag FIN
+tag GER
+tag USA
+tag AUS
+ai
+Focus.autocomplete
+Focus.nochecks
+annex D01
+ai
+add_party_popularity n 100
+ai
+tag POL
+tdebug
+add_Core 762 GER
+add_Core 85 GER
+add_Core 86 GER
+add_Core 865 GER
+tag CZE
+add_Core 75
+dd_Core 887 AUS
+add_Core 887 AUS
+add_Core 887 GER
+add_Core 69 AUS
+add_Core 69 GER
+add_Core 886 AUS
+add_Core 886 GER
+add_Core 885 AUS
+add_Core 885 GER
+tag MRV
+add_Core 72 SLO
+add_Core 74 AUS
+add_Core 74 GER
+add_Core 888 AUS
+add_Core 888 GER
+add_Core 884 AUS
+add_Core 884 GER
+add_Core 804
+add_Core 99
+tag DEN
+tag GER
+annex DAN
+tag POL
+tag GAL
+annex GAL
+add_core 89
+add_core 91
+add_core 80
+add_core 830
+tag ROM
+add_Core 77 BUL
+add_Core 832 BUL
+add_Core 831 BUL
+tag BUK
+set_ruling_party f
+set_ruling_party d
+set_ruling_party c
+add_party_popularity c 100
+add_party_popularity n 40
+tag AUS
+add_COre 935
+add_COre 935 GER
+add_COre 934
+add_COre 934 GER
+add_COre 102
+add_COre 102 GER
+add_COre 736
+add_COre 736 GER
+add_COre 866
+add_COre 866 GER
+add_COre 39
+add_COre 39 GER
+add_COre 867
+add_COre 867 GER
+tag ITA
+add_Core 163 YUG
+add_Core 163 CRO
+add_COre 827
+add_COre 1
+tag SNM
+tag SMR
+tag ITA
+add_Core 993 AUS
+add_Core 867
+add_Core 993 GER
+tag YUG
+annex YUG
+add_Core 936 HUN
+add_Core 869 SER
+add_Core 104
+add_Core 1046
+add_Core 1048
+tag BOS
+add_COre 1047 CRO
+tag HUN
+add_Core 664
+add_Core 76
+add_Core 764 TRN
+add_Core 764 TRS
+add_Core 764 TRA
+add_Core 45
+add_Core 868
+zag SER
+tag SER
+tag SLO
+add_Core 73 HUN
+tag TRA
+tag ITA
+add_Core 116
+add_Core 115
+add_Core 156
+add_Core 991
+add_Core 992
+add_Core 117
+add_Core 986
+add_Core 994
+add_Core 894
+add_Core 39
+add_Core 160
+add_Core 159
+add_core 894 VEN
+add_core 894 VEC
+tag SWI
+add_COre 893 ITA
+tag VEN
+tag HUN
+add_COre 994 AUS
+tag ITA
+tag KTS
+add_Core 1060 GER
+add_Core 812 GER
+add_Core 8 GER
+add_Core 28 GER
+tag BEL
+add_core 35
+add_core 29
+add_Core 813
+add_Core 34
+tag HOL
+tag WLN
+tag WLO
+tag WLL
+add_Core 974
+add_Core 892
+add_Core 814 GER
+add_Core 814
+tag GER
+add-COre 810
+add_COre 810
+add_COre 994
+add_COre 4
+add_COre 152
+add_COre 153
+add_COre 807
+add_COre 806
+add_COre 151
+add_COre 826 AUS
+add_COre 826 GER
+add_COre 3
+tag SWI
+tag LIE
+annex LIE
+add_Core 341 BUL
+add_Core 184 BUL
+add_Core 106 GRE
+add_Core 1045 GRE
+tag ALB
+add_Core 878
+add_Core 941
+tag KOS
+add_Core 871 GRE
+add_Core 975 TUR
+add_Core 164 TUR
+add_Core 188 GER
+tag LIT
+tag FRA
+add_Core 14
+add_Core 892 BRT
+add_Core 17 BRT
+add_Core 814 BRT
+add_Core 816 BRT
+add_Core 817 BRT
+add_Core 815 BRT
+add_Core 735 BRT
+add_Core 823 BRT
+add_Core 821 BRT
+add_Core 822 BRT
+add_Core 825 FRA
+add_Core 825 BRT
+tag BRI
+tag BRT
+setowner ARM 821
+setowner ARM 822
+setowner ARM 823
+setowner ARM 735
+setowner ARM 892
+setowner ARM 17
+setowner ARM 814
+setowner ARM 815
+setowner ARM 816
+setowner ARM 817
+annex ARM
+add_Core 812 PRS
+add_Core 1060 PRS
+add_Core 804 PRS
+add_Core 99 PRS
+add_Core 188 PRS
+add_Core 85
+add_Core 85 PRS
+add_Core 86 PRS
+add_Core 865 PRS
+add_Core 762 PRS
+decision.nochecks
+add_Core 828 ITA
+add_Core 990
+add_Core 157
+add_Core 2
+add_Core 161
+add_Core 989
+add_Core 988
+add_Core 987
+add_Core 893
+add_COre 813
+add_COre 6
+add_COre 35
+add_COre 29
+tag BEL
+add_Core 6 BEL
+add_Core 1058
+add_Core 1059
+add_Core 1061
+add_Core 1062
+annex BEL
+annex HOL
+annex SWI
+annex AUS
+annex CZE
+add_Core 1
+add_Core 114
+add_Core 115
+add_Core 116
+add_Core 156
+add_Core 991
+add_Core 992
+add_Core 117
+add_Core 2
+add_Core 159
+add_Core 160
+add_Core 986
+add_Core 894
+annex VEC
+annex ITA
+tag FRA
+FOcus.autocomplete
+FOcus.nochecks
+FOcus.autocomplete
+FOcus.nochecks
+FOcus.autocomplete
+FOcus.nochecks
+tag TUR
+decision.nochecks
+
+tag GER
+annex DNZ
+annex DAN
+annex MCO
+setowner LUX 97
+setowner LUX 98
+setowner LUX 87
+annex LUX
+tag DAN
+set_ruling_party
+set_ruling_party f
+add_party_popularity f 100
+tdebug
+research_On_icon_click
+ic
+ai
+Focus.autocomplete
+Focus.nochecks
+add_Core 8
+add_Core 28
+add_Core 99
+add_Core 762
+add_Core 188
+add_Core 85
+add_Core 86
+add_core 74 AUS
+add_core 69 AUS
+add_core 102 AUS
+add_core 102 GER
+tag ITa
+add_Core 39
+add_Core 1
+add_Core 44
+add_Core 116
+setowner MLT 1166
+setowner MLT 116
+tag MLT
+annex MLT
+add_Core 736
+add_Core 103
+add_Core 163
+add_Core 103
+add_Core 105
+
+add_Core 665 LBA
+add_Core 458 LBA
+add_Core 271 AOI
+add_Core 550 AOI
+add_Core 268 AOI
+add_Core 559 AOI
+add_Core 269 AOI
+add_Core 271 AOI
+add_Core 269 ETH
+add_Core 268 ETH
+add_Core 550 ETH
+add_Core 559 ETH
+tag ENG
+tag SOM
+annex LBA
+annex ETH
+add_autonomy LBA 1000
+pp
+manpower 12378123
+manpower 12378123000
+manpower 1237812
+add_core 767 EGY
+add_core 551 EGY
+tag DEN
+setowner ARM 99
+annex ARM
+tag POL
+setowner ARM 85
+setowner ARM 86
+setowner ARM 762
+annex ARM
+tag SOV
+add_core 230
+add_core 231
+add_core 229
+add_core 228
+add_Core 96
+add_Core 784
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+add_core 96
+add_core 95
+add_core 94
+add_core 93
+add_core 92
+add_core 91
+add_core 89
+add_core 194
+add_core 204
+add_core 206
+add_core 241
+add_core 207
+add_core 227
+add_core 221
+add_core 226
+add_core 200
+add_core 196
+add_core 197
+add_core 203
+add_core 259
+add_core 193
+add_core 202
+add_core 201
+add_core 198
+add_core 199
+add_core 766
+add_core 78
+add_Core 584
+add_Core 405
+add_Core 585
+add_Core 742
+add_Core 732
+add_Core 586
+add_Core 404
+add_Core 402
+add_Core 587
+add_Core 406
+add_Core 407
+add_Core 590
+add_Core 583
+add_Core 588
+add_Core 589
+add_Core 655 JAP
+add_Core 537 JAP
+add_core 213 FIN
+add_core 215 FIN
+add_core 216 FIN
+tag UZB
+add_Core 225 SOV
+add_Core 192 SOV
+setowner ARM 188
+annex ARM
+setowner ARM 11
+setowner ARM 189
+annex ARM
+tag LAT
+setowner ARM 5
+annex ARM
+setowner ARM 12
+setowner ARM 190
+annex ARM
+tag EST
+setowner ARM 5
+annex ARM
+setowner ARM 191
+setowner ARM 13
+annex ARM
+ic
+ai
+tag LAT
+tag LIT
+tag POL
+setowner ARM 89
+setowner ARM 91
+setowner ARM 93
+setowner ARM 94
+setowner ARM 95
+setowner ARM 96
+setowner ARM 784
+annex ARM
+tag AUS
+tag YUG
+add_Core 109
+add_Core 103
+add_Core 104
+annex CRO
+tag YUG
+add_Core 105 ITA
+annex MNT
+add_Core 163 CRO
+add_Core 163 ITA
+tag BOS
+add_Core 104 CRO
+tag SER
+add_Core 45 HUN
+tag MAC
+add_Core 106 GRE
+setowner SER 45
+annex SER
+annex CRO
+tag SLV
+setowner SER 102
+annex SER
+add_Core 184 BUL
+tag GRE
+tag YUG
+tag ITA
+research_on_Icon_cllick
+research_on_Icon_click
+tag GER
+manpower
+tag GER
+Focus.autoocomplete
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+pp
+
+pp
+add_party_popularity f 100
+xp
+cp
+pp
+allowtraits
+cp
+xp
+tag ITA
+add_party_popularity f 100
+tag LBA
+add_party_popularity f 100
+pp 50
+Focus.autocomplete
+Focus.nochecks
+tag GER
+tag CZE
+add_Core 664 HUn
+add_Core 664 HUN
+add_Core 73 SLO
+add_Core 73 HUN
+add_Core 71 SLO
+add_Core 70 SLO
+setowner ARM 69
+setowner ARM 74
+annex ARM
+tag SLO
+tag CZE
+setowner SLO 73
+setowner SLO 664
+annex SLO
+tag ROM
+add_Core 77 BUL
+add_Core 76 HUN
+setowner ARM 76
+annex ARM
+setowner ARM 77
+annex ARM
+tag MDV
+tag MOL
+add_Core 766
+add_Core 78
+add_Core 192
+add_Core 198
+setowner ARM 766
+setowner ARM 78
+annex ARM
+tag ARG
+decision.nochecs
+decision.nochecks
+add_Core 502
+add_Core 300
+add_Core 301
+add_Core 688
+add_Core 302
+tag POR
+tag CHL
+annex CHL
+setowner ARM 688
+annex ARM
+add_Core 487 BRA
+annex PAR
+add_Core 488
+tag URG
+annex URG
+add_Core 305
+add_Core 486
+add_Core 307
+add_Core 489
+add_Core 493
+add_Core 306
+tAG col
+annex COL
+tag ECU
+annex ECU
+add_Core 649 PRU
+annex VEN
+tag HOn
+add_Core 316
+add_Core 311
+add_Core 474
+add_Core 475
+setowner BEL 311
+setowner BLZ 311
+tag BLZ
+annex BLZ
+annex GUA
+annex ELS
+annex NIC
+tag COS
+annex COS
+add_Core 484 USA
+add_Core 483 USA
+tag CUB
+set_ruling_party c
+add_party_popularity c 100
+tag HAI
+setowner ARM 686
+setowner ARM 689
+setowner ARM 693
+setowner ARM 690
+setowner ARM 694
+setowner ARM 308
+setowner ARM 694
+annex ARM
+setowner ARM 692
+annex ARM
+annex DOM
+annex HAI
+tag CAN
+tag USA
+add_Core 464
+add_Core 465
+add_Core 463
+add_Core 471
+add_Core 473
+add_Core 474
+add_Core 475
+setowner ARM 474
+setowner ARM 475
+annex ARMN
+annex ARM
+add_COre 740
+add_COre 739
+add_COre 469
+add_COre 467
+add_COre 468
+add_COre 470
+add_COre 682
+add_COre 276
+add_COre 466
+add_COre 331
+add_COre 332
+add_COre 730
+tag ENG
+tag CAN
+annex CAN
+add_core 683 USA
+add_core 472 USA
+tag SPR
+annex MOR
+ic
+tag POR
+add_Core 721 INS
+tag GXC
+tdebug
+setowner ARM 524
+annex ARM
+annex GXC
+setowner ARm 322
+setowner ARM 322
+annex ARM
+add_Core 524 JAP
+tag CHI
+tag PRC
+setowner ARM 524
+annex ARM
+tag YUN
+annex YUN
+annex SHX
+annex XSM
+add_Core 323 RAJ
+annex NEP
+add_Core 434 TIB
+add_Core 324 TIB
+add_Core 434 CHI
+add_Core 434 PRC
+add_Core 324 CHI
+add_Core 324 PRC
+annex RAJ
+tag BHU
+annex BHU
+annex BRM
+annex RAJ
+add_Core 440 RAJ
+add_Core 443 RAJ
+add_Core 444 RAJ
+add_Core 445 RAJ
+add_Core 442 RAJ
+add_Core 336 SIA
+tag JAP
+manpower
+ic
+pp
+
+add_Core 716
+add_Core 509
+add_Core 609
+add_Core 610
+add_Core 713
+add_Core 714
+add_Core 715
+add_Core 716
+add_Core 717
+add_Core 328
+add_Core 761
+add_Core 745
+tag MAN
+annex MAN
+add_Core 743
+add_Core 597
+add_Core 614
+add_Core 608
+add_Core 598
+add_Core 613
+add_Core 596
+add_Core 595
+add_Core 593
+add_Core 592
+add_Core 591
+add_Core 594
+add_Core 729
+add_Core 728
+add_Core 326
+research_On_icon_click
+tag SOV
+manpower
+st 100
+Focus.autocomplete
+Focus.nochecks
+tag SOV
+tag ITA
+tag GER
+tag SOV
+ai
+tag ITA
+setowner ARM 452
+annex ARM
+Focus.autocomplete
+pp
+Focus.autocomplete
+ic
+tag AOI
+add_autonomy LBA 1000
+add_autonomy LBA -1000
+add_autonomy LBA 200
+add_autonomy AOI 1000
+pp 50
+tag EGY
+set_ruling_party n
+add_party_popularity n 199
+tag ITA
+ai
+tag GER
+tag AOI
+add_party_popularity f 100
+tag ITA
+tag GER
+ic
+tag ROM
+nocb
+tag CZE
+tag ITA
+tag GER
+tag ITA
+tag GRE
+add_party_Popularity f 100
+add_autonomy GRE 1000
+tag GER
+tag ITA
+tag GER
+nocb
+threat 9999999
+threat 99999999999
+
+threat 9999999999999999999999999
+tag ENG
+tag GER
+i
+ic
+tp
+delall PRC
+delall CHI
+ai
+tag JAP
+op
+ai
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+annex CHI
+setowner ARM 594
+setowner ARM 598
+setowner ARM 597
+setowner ARM 614
+setowner ARM 608
+annex ARM
+ic
+tag CHI
+add_autonomy CHI 10000
+pp
+add_party_popularity f 199
+add_autonomy CHI 100
+tag GER
+ic
+ai
+tag CHI
+pp 100
+tag GER
+Focus.autocomplete
+tag ENG
+nocb
+tag SOV
+annex LIT
+annex EST
+tag GER
+manpower
+tag SOV
+nocb
+threat 9999999999999999999999
+
+threat 9999999999999999999999
+
+threat 9999999999999999999999
+
+threat 9999999999999999999999
+
+threat 9999999999999999999999
+
+threat 4
+tag FRA
+tag ENG
+tag GER
+tag ENG
+tag TUR
+tag SOV
+tag GER
+annex IRQ
+Focus.autocomplete
+tag FRA
+ic
+manpower 1237189
+tag GER
+Focus.autocomplete
+ic
+setowner ARM 99
+annex ARM
+tp
+yesman
+tp
+op
+yesman
+tp
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+setowner ARM 106
+setowner ARM 108
+annex ARM
+tag ITA
+annex CRO
+op
+setowner ARM 103
+setowner ARM 163
+annex ARM
+add_Core 103
+add_Core 163
+tag GER
+ic
+yeskman
+yesman
+nocb
+yesman
+Focus.autocomplete
+tp
+tag ITA
+tag GER
+tag SOV
+tp
+tag GER
+tag SOV
+tag GER
+tp
+delall SOV
+tag SOV
+tag GER
+yesman
+delall SOV
+op
+delall SOV
+tp
+delall AFG
+delall SIK
+delall MON
+tdebug
+delall CHI
+ai
+tag JAP
+annex SIK
+annex YUN
+pp 60
+tdebug
+add_Core 591
+add_Core 592
+add_Core 593
+add_Core 594
+add_Core 595
+add_Core 728
+add_Core 729
+add_Core 326
+add_Core 596
+add_Core 613
+add_Core 598
+add_Core 597
+add_Core 743
+add_Core 614
+add_Core 608
+tag SPR
+tdebug
+ai
+tdebug
+add_Core 698
+add_Core 697
+add_Core 178
+add_Core 178 POR
+tdebug
+tag ENG
+pp 14
+tag SPR
+tdebug
+civilwar fascism IRQ
+research_On_icon_click
+ic
+tag SPR
+ic
+tdebug
+xp
+manpowe 1237891
+manpower 1237891
+ic
+tdebug
+research_on_icon_click
+tag GER
+
+add_Core 802
+add_Core 8
+add_Core 28
+add_Core 804
+add_Core 99
+add_Core 85
+add_Core 86
+add_Core 798
+add_Core 188
+tag LIT
+setowner ARM 188
+annex ARm
+tag POL
+setowner ARM 85
+setowner ARM 86
+setowner ARM 798
+annex ARM
+tdebug
+add_core 35
+add_Core 6
+add_Core 34
+add_Core 8
+add_Core 28
+setowner LUX 8
+setowner LUX 28
+annex LUX
+ai
+manpowe 123781
+
+manpower 123781
+manpower 1237810
+set_ruling_party m
+set_ruling_party monarchist
+set_ruling_party monarchism
+set_ruling_party monarchist
+set_ruling_party monarch
+set_ruling_party monarchism
+add_party_popularity d 30
+add_party_popularity c 30
+add_Core 99 SCH
+tag DEN
+tag SCH
+pp 100
+ic
+tag BLX
+tag POL
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+annex LIT
+annex LAt
+annex EST
+annex POL
+annex SOV
+pp
+ai
+setowner ARM 137
+annex ARM
+pp
+tp
+nocb
+op
+delall SOV
+tag SOV
+tag GER
+add_Core 215 FIn
+add_Core 215 FIN
+add_Core 216 FIN
+event BP.germany 15
+event BP.germany 2
+event BP_germany.1
+event BP_germany.515
+event BP_germany.514
+event BP_germany.514a
+event BP_germany.514b
+event BP_germany.514c
+event BP_germany.515a
+event BP_germany.515b
+event BP_germany.515c
+tdebug
+setowner RKA 262
+tag RKA
+setowner RKA 214
+annex RKA
+tdebug
+add_Core 742
+add_Core 742 AFG
+add_Core 405
+ai
+add_core 584
+add_core 585
+add_Core 565
+setowner PRC 329
+annex PRC
+annex MON
+annex GRE
+annex ROM
+annex BUL
+annex UKR
+annex POL
+annex CZE
+annex SLo
+annex SER
+annex HUN
+annex ALB
+ai
+annex CHI
+setowner CHI 600
+tag CHI
+set_ruling_party socialist
+set_ruling_party socialism
+set_ruling_party collectivist
+annex CHI
+set_ruling_party libertarian_socialist
+set_ruling_party national_populist
+set_ruling_party nationalist
+tdebug
+add_Core 742 TRK
+add_Core 742
+add_Core 742 AFG
+add_Core 742
+add_Core 405
+add_Core 584
+add_Core 585
+setowner PRC 329
+annex PRC
+add_Ccore 565
+add_Core 565
+add_core 914
+add_Core 137
+add_Core 91 UKR
+add_Core 953
+add_Core 94
+add_core 241
+add_core 194
+add_core 204
+add_core 206
+add_core 207
+add_core 95
+add_core 97
+add_core 96
+add_core 11
+add_core 12
+add_core 13
+add_core 189
+add_core 190
+add_core 191
+add_core 914
+add_core 757
+add_core 758
+add_core 229
+add_core 904
+add_core 231
+add_core 858
+add_core 905
+st 100
+ws 100
+manpower
+manpower 10000000000000
+manpower
+add_core 905
+add_core 859
+add_core 857
+add_core 233
+add_core 860
+add_core 232
+tag LAT
+annex LAT
+add_Core 188 GER
+tag LIT
+annex LIT
+annex EST
+annex BLR
+setowner LIT 85
+setowner LIT 807
+annex LIT
+add_Core 67 GER
+add_Core 86 GER
+add_Core 752 GER
+add_Core 89 UKR
+tag UKR
+annex EST
+tag SOV
+add_Core 853
+add_Core 78
+add_Core 79
+add_Core 80
+add_Core 89
+add_Core 91
+add_Core 93
+add_Core 199
+add_Core 203
+add_core 230
+add_core 903
+add_core 200
+add_core 196
+add_core 197
+add_core 192
+add_core 198
+add_core 201
+add_core 203
+add_core 226
+add_core 798
+add_core 221
+add_core 259
+add_core 225
+add_core 193
+add_core 202
+tag UKR
+annex UKR
+tag ROM
+add_Core 76 HUN
+add_core 77 BUL
+add_core 861 BUL
+add_core 45 HUN
+add_Core 750
+tag SER
+add_Core 163 CRO
+add_Core 788 CRO
+add_Core 104 CRO
+add_Core 109 CRO
+add_Core 103 CRO
+setowner UKR 917
+annex UKR
+add_Core 72 SOV
+add_Core 942 BUL
+setowner MNT 767
+setowner CRO 102
+tag CRO
+annex CRO
+tag MNT
+annex MNT
+tag SER
+tag GER
+tag CRO
+add_Core 789
+tag SER
+add_Core 105 MNT
+add_Core 941 ALB
+setowner UKR 102
+setowner UKR 767
+annex UKR
+add_core 787 GRE
+add_core 106 GRE
+tag GRE
+add_Core 765
+setowner UKR 164
+annex UKR
+setowner UKR 341
+annex UKR
+add_Core 184 BUL
+add_Core 763 BUL
+add_Core 187 TUR
+add_Core 164 TUR
+tag ITA
+add_Core 116
+setowner UKR 116
+annex UKR
+add_Core 756
+add_Core 39
+add_Core 1
+add_Core 665 LBA
+add_Core 458 LBA
+tag FRA
+add_Core 755
+add_Core 35
+add_Core 938
+add_Core 806 GER
+add_Core 802
+add_Core 866
+add_Core 28 GER
+add_Core 34
+add_Core 6
+add_Core 867
+tag BEL
+add_Core 867
+add_Core 866
+tag HOL
+annex HOL
+tag RHI
+annex RHI
+add_Core 51
+add_Core 51 GER
+add_Core 42 GER
+add_Core 746 GER
+add_Core 806 GER
+add_Core 868 GER
+add_Core 8 GER
+add_Core 981 GER
+setowner BEL 746
+setowner BEL 806
+setowner BEL 42
+setowner BEL 981
+setowner BEL 868
+setowner BEL 938
+setowner BEL 35
+annex BEL
+annex LUX
+add_Core 969 BRA
+add_Core 309 BRA
+add_Core 310 BRA
+add_Core 071 BRA
+add_Core 971 BRA
+ai
+add_Core 687 BRA
+add_Core 970 BRA
+tag BRA
+setowner HOL 71
+annex HOL
+add_Core 487
+add_Core 502 ARG
+add_Core 488
+add_Core 691 PRU
+tag ARG
+add_Core 300
+add_Core 936
+add_Core 688
+add_Core 301
+add_Core 506
+add_Core 302
+add_Core 877
+add_Core 878
+add_Core 289
+add_Core 875
+add_Core 507
+tag URG
+annex URG
+add_Core 836 ARG
+annex CHL
+add_Core 279 ARG
+annex PAR
+annex BOL
+add_Core 753
+add_Core 899
+add_Core 490
+add_Core 305
+add_Core 649
+add_Core 486
+add_Core 307
+add_Core 900
+add_Core 389
+add_Core 489
+setowner UKR 389
+annex UKR
+add_Core 306
+add_Core 493
+tag VEN
+annex VEN
+annex COL
+annex ECU
+add_Core 483
+add_Core 484
+add_Core 464
+add_Core 465
+add_Core 468
+add_Core 472
+add_Core 470
+add_Core 471
+add_Core 739
+add_Core 740
+add_Core 473
+add_Core 469
+add_Core 683
+add_Core 467
+add_Core 682
+add_Core 276
+add_Core 824
+add_Core 466
+add_Core 826
+add_Core 818
+add_Core 916
+add_Core 33
+add_Core 331
+add_Core 332
+setowner UKR 33
+annex UKR
+tag CAN
+annex CAN
+add_Core 825 USA
+annex NFL
+setowner CAN 331
+setowner CAN 333
+setowner CAN 332
+tag CAN
+annex CAN
+add_Core 474 GUA
+add_Core 476 GUA
+add_Core 475 GUA
+setowner CAN 476
+annex CAN
+add_Core 476
+tag GUA
+add_Core 311
+tag CUB
+add_Core 689
+set_ruling_party libertarian
+set_ruling_party libertarian_socialist
+add_party_Popularity libertarian_socialist 100
+add_Core 693
+add_Core 690
+add_Core 319
+add_Core 318
+add_Core 686
+add_Core 694
+add_Core 308
+add_Core 692
+tag HAI
+annex HAI
+annex DOM
+tag KNE
+tag ENG
+add_Core 658 ARB
+add_Core 294 ARB
+add_Core 659 ARB
+add_Core 293 ARB
+add_Core 455 ARB
+add_Core 656 ARB
+add_Core 675 ARB
+add_Core 812 BRM
+add_Core 288 BRM
+add_Core 640 BRM
+add_Core 118 SPM
+tp
+add_Core 819 SIA
+add_Core 336 SIA
+add_Core 820 SIA
+add_Core 821 SIA
+tag JAP
+add_Core 537
+add_Core 655
+manpower 12378
+manpower 123780
+manpower 1237800
+
+manpower 1237800
+tag XSM
+annex XSM
+tag SIC
+tag SCH
+annex SCH
+annex yun
+tag SHX
+annex SHX
+add_Core 936
+tag ZHI
+annex ZHI
+setowner UKR 873
+annex UKR
+tag MAN
+setowner UKR 728
+setowner UKR 729
+annex UKR
+setowner UKR 591
+setowner UKR 893
+setowner UKR 592
+setowner UKR 594
+setowner UKR 599
+setowner UKR 593
+setowner UKR 594
+setowner UKR 595
+setowner UKR 596
+setowner UKR 613
+setowner UKR 895
+setowner UKR 934
+setowner UKR 600
+setowner UKR 984
+setowner UKR 602
+setowner UKR 892
+setowner UKR 620
+setowner UKR 891
+setowner UKR 890
+annex UKR
+setowner XSM 982
+setowner XSM 621
+setowner BEI 934
+setowner BEJ 934
+tag XSM
+annex XSM
+annex FNG
+annex MAN
+add_Core 890 CHI
+tag RUS
+add_Core 524 JAP
+tag CHI
+set_ruling_party social_democrat
+set_ruling_party libertarian_socialist
+party_popularity libertarian_socialist 100
+add_party_popularity libertarian_socialist 100
+party_popularity social_democrat 45
+add_party_popularity social_democrat 45
+nocb
+add_Core 287
+add_Core 619
+add_Core 975
+add_Core 617
+add_Core 619
+add_Core 618
+add_Core 873
+add_Core 322
+add_Core 434
+add_Core 324
+add_Core 324 TIB
+annex TIB
+annex SIK
+ic
+research_on_icon_click
+tag CHI
+tag JAP
+tag CHI
+tag JAP
+add_Core 828 KOR
+add_Core 827 KOR
+add_Core 829 KOR
+add_Core 525 KOR
+add_Core 527 DPK
+add_Core 527 PRK
+add_Core 527 KOR
+add_Core 832 KOR
+add_Core 830 KOR
+setowner SIK 609
+setowner SIK 610
+setowner SIK 716
+setowner SIK 793
+setowner SIK 879
+setowner SIK 880
+setowner SIK 717
+setowner SIK 872
+setowner SIK 871
+setowner SIK 929
+setowner SIK 715
+setowner SIK 714
+setowner SIK 870
+setowner SIK 611
+setowner SIK 612
+setowner SIK 932
+setowner SIK 608
+setowner SIK 614
+setowner SIK 869
+setowner SIK 894
+setowner SIK 597
+setowner SIK 598
+setowner SIK 593
+setowner SIK 594
+setowner SIK 595
+setowner SIK 596
+setowner SIK 591
+setowner SIK 592
+setowner SIK 593
+setowner SIK 594
+annex SIK
+setowner SIK 599
+setowner SIK 893
+setowner SIK 613
+setowner SIK 595
+setowner SIK 895
+annex SIK
+setowner SIK 729
+setowner SIK 728
+setowner SIK 326
+annex SIK
+setowner SIK 328
+setowner SIK 930
+annex SIK
+tag PRC
+tag CHI
+pp
+tag TRK
+annex TRK
+tag MOM
+tag MON
+set_ruling_party liberational_socialist
+set_ruling_party libertarian_socialist
+add_party_Popularity libertarian_socialist 100
+tag MON
+tag CHI
+tag SOV
+tag SIA
+set_ruling_party libertarian_socialist
+add_party_Popularity libertarian_socialist 100
+add_party_Popularity collectivist
+set_ruling_party collectivist
+add_party_Popularity collectivist 100
+setowner BRM 812
+setowner BRM 288
+tag BRM
+annex BRM
+setowner BRM 640
+annex BRM
+set_ruling_party collectivist
+add_party_Popularity collectivist 100
+tag PRC
+tag CHi
+add_party_Popularity collectivist 100
+set_ruling_party collectivist
+tag MON
+add_party_Popularity collectivist 100
+set_ruling_party collectivist
+tag SOV
+add_Core 64 GDP
+add_Core 64 GRP
+add_Core 65 GRP
+setowner GRP 87
+tag GRP
+set_ruling_party social_liberal
+add_party_popularity social_liberal 100
+add_Core 67
+add_Core 66
+add_Core 65
+add_Core 64
+add_Core 63
+add_Core 62
+add_Core 61
+add_core 5
+add_core 85
+add_core 86
+add_core 188
+add_core 99
+add_core 784
+add_core 58
+add_core 991
+add_core 915
+add_core 59
+add_core 54
+add_core 52
+add_core 53
+add_core 51
+add_core 50
+add_core 56
+add_core 57
+add_core 58
+add_core 55
+add_core 782
+add_core 783
+add_core 773
+add_core 60
+add_core 752
+add_core 807
+add_core 795
+add_Core 42
+add_Core 981
+add_Core 746
+add_Core 868
+add_Core 806
+add_Core 8
+annex GRP
+add_Core 772
+add_Core 4
+add_Core 153
+add_Core 937
+add_Core 913
+add_Core 912
+add_Core 152
+add_Core 153
+add_Core 803
+add_Core 937 AUS
+tag SWI
+tag AUS
+add_Core 767
+add_Core 102
+add_Core 775
+add_Core 69
+add_Core 74
+add_core 937 GER
+add_core 912 GER
+add_core 911 GER
+add_core 913 GER
+add_core 152 GER
+add_core 153 GER
+add_core 4 GER
+add_core 772 GER
+add_core 803 GER
+tag SER
+tag ARM
+annex ARM
+annex AZR
+annex GOR
+annex GEO
+setowner AZR 904
+setowner ARM 903
+tag AZR
+annex AZR
+annex ARM
+setowner ARM 903
+tag AZR
+tag ARM
+annex ARM
+setowner ARM 83
+setowner ARM 76
+setowner ARM 762
+setowner ARM 154
+annex ARM
+setowner ARM 77
+setowner ARM 861
+setowner ARM 78
+setowner ARM 80
+setowner ARM 79
+setowner ARM 853
+annex ARM
+tag ALB
+annex ALB
+tag ITA
+add_Core 163
+add_Core 103
+add_Core 789
+add_Core 796
+annex ALB
+add_Core 102 ITA
+add_Core 788 ITA
+add_Core 105
+add_Core 44
+add_Core 931
+add_Core 941
+setowner ARM 103
+setowner ARM 788
+setowner ARM 789
+setowner ARM 163
+setowner ARM 105
+setowner ARM 44
+setowner ARM 102
+annex ARM
+annex Mtag TUN
+tag TUN
+annex TUN
+setowner CRO 942
+setowner CRO 750
+setowner CRO 45
+setowner CRO 787
+setowner CRO 106
+annex CRO
+tag SLO
+add_Core 73 HUN
+add_Core 664 HUN
+setowner ARM 73
+setowner ARM  664
+setowner ARM 664
+annex ARM
+tag POL
+annex GRP
+tag KIE
+tag SHO
+annex SHO
+add_Core 991 GER
+add_Core 915 GER
+add_Core 58 GER
+add_Core 784 GER
+add_Core 99 GER
+add_Core 800 GER
+add_Core 800 GRP
+tag GER
+tag TUR
+pp
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+add_Core 341 BUL
+add_Core 342 BUL
+setoowner ARM 341
+setowner ARM 341
+setowner ARM 342
+annex ARM
+tag PHN
+annex PHN
+add_Core 553 TUR
+annex IRQ
+add_Core 677 TUR
+add_Core 680 TUR
+add_Core 554 TUR
+tag YEM
+annex YEM
+setowner ARM 269
+setowner ARM 268
+annex ARM
+setowner ARM 933
+annex ARM
+add_Core 323 IND
+add_Core 323 RAJ
+tag NEP
+annex IND
+add_Core 44 AFG
+add_Core 444 AFG
+tag AFG
+add_Core 445
+add_Core 442
+setowner ARM 44
+setowner ARM 445
+setowner ARM 442
+annex ARM
+setowner ARM 445
+annex ARM
+setowner ARM 444
+annex ARM
+set_ruling_party collectivist
+add_party_popularity collectivist 100
+add_Core 910 FIN
+add_Core 722 FIN
+tag NOR
+add_Core 213 FIN
+add_Core 214 FIN
+add_Core 215 FIN
+tag FIN
+setowner ARm 214
+setowner ARM 214
+annex ARM
+tag SOV
+pp
+setowner UKR 72
+tag UKR
+annex UKR
+Focus.autocomplete
+Focus.nochecks
+^xp
+xp
+tag SOV
+cp
+allowtraits
+xp
+tag SOV
+^xp
+xp
+tag CUB
+set_ruling_party collectivist
+party_popularity collectivist 100
+add_party_popularity collectivist 100
+tag SOV
+setowner ARM 937
+annex ARM
+setowner ARM 947
+annex ARM
+tag CUB
+
+tag FRA
+tag SOV
+st 100
+ws 100
+ic
+pp
+ws -10
+
+pp
+set_ruling_party libertarian_socialist
+set_ruling_party collectivist
+add_party_popularity collectivist 100
+decision.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+pp
+tag JAP
+ic
+tag SOV
+delall BRA
+delall BPS
+tdebug
+annex CHL
+annex VEN
+tp
+tag SWE
+tag SOV
+^ic
+ic
+manpower
+ic
+tag JAP
+manpower
+tag SOV
+manpower
+add_Core 786 DDR
+add_Core 786 GRP
+tag GER
+ic
+tag SOV
+threat 3
+tp
+^tp
+tp
+tag ENG
+nocb
+tag USA
+yesman
+tag SOV
+tag USA
+tag ENG
+yesman
+tag SOV
+tp
+tag JAP
+yesman
+tag SOV
+tag USA
+tag SOV
+tp
+research_on_icon_click
+nuke 3
+nukeic
+îc
+tag ENG
+op
+manpowe 12378123
+manpower 12378123
+tag GER
+pt
+tp
+tag ENG
+tag SOV
+tag SER
+yesman
+nocb
+tag GRE
+tag BUL
+tag TUR
+tag ROM
+tag HUN
+tag GER
+tp
+tag ENG
+tag SOV
+tag GER
+yesman
+tag SOV
+tag GER
+ai
+tag HUN
+tag SER
+tag GRE
+tag BUL
+tag ROM
+tag SOV
+ai
+yesman
+tag TUR
+tag SOV
+^tp
+tp
+delall SER
+delall BUL
+delall GRE
+delall HUN
+delall SLO
+delall POL
+^op
+op
+delall GER
+op
+tag FRA
+annex NFA
+annex MOR
+annex NFQ
+tag ENG
+tag ITA
+tag ENG
+tag SOV
+op
+annex FIC
+delall JAP
+op
+nocb
+yesman
+op
+tdebug
+setowner LUX 85
+setowner LUX 807
+annex LUX
+tdebug
+add_Core 286 VIN
+add_Core 961 VIN
+add_Core 741 VIN
+add_Core 962 VIN
+add_Core 963 VIN
+add_Core 670 VIN
+add_Core 960 VIN
+add_Core 959 VIN
+setowner ARM 947
+annex ARM
+setowner ARM 937
+annex ARM
+tag FRA
+tag USA
+nocb
+tag SPM
+tag POR
+tag FRA
+tag ITA
+tag ENG
+tag ARG
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag BRA
+tag BRS
+tag UBS
+tag UBR
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag TUR
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag GRE
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag ALB
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag MNT
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag BUL
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag SER
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag CRO
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag HUN
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag SLO
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag CZE
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag AUS
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag POL
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag DDR
+tag GER
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag ROM
+add_party_popularity collectivist 100
+add_party_popularity social_conservative 40
+tag FRA
+setowner ARM 773
+setowner ARM 52
+setowner ARM 53
+setowner ARM 54
+setowner ARM 55
+setowner ARM 57
+setowner ARM 59
+setowner ARM 56
+setowner ARM 51
+annex ARM
+setowner ARM 50
+setowner ARM 783
+setowner ARM 782
+annex ARM
+tag ENG
+tag USA
+tdebug
+tag SPR
+setowner ARM 462
+setowner ARM 461
+annex ARM
+tag EGY
+add_autonomy EGY 1000
+pp 500
+add_autonomy EGY 100
+manpowe 12913789
+manpower 12913789
+manpower 12913789000
+manpower 1291378
+research_on_icon_click
+tag EGY
+ic
+ale 100000000
+xp
+tag ITA
+tag GER
+tag ITA
+tag CZE
+tag ITA
+tp
+add_autonomy AOI 1000
+tag AOI
+pp 58
+add_autonomy AOI 100
+
+tag ITA
+add_autonomy LBA -1000
+add_autonomy EGY -1000
+xp
+cp
+ic
+tag ITA
+xp
+tag ITA
+xp
+tag SPR
+research_icon_click
+research_on_icon_click
+tag ITA
+add_autonomy LBA -1000
+pp
+add_autonomy AOI -1000
+add_autonomy AOI 1000
+tag AOI
+pp 100
+tag ITA
+manpower 238901
+tag EGY
+manpower 238901
+tag ITA
+tag EGY
+manpower 238901
+ale
+
+tag ITA
+tp
+xp
+ai
+ic
+tag ITA
+cp
+tag SPR
+add_Core 119
+setowner ARM 119
+annex ARm
+setowner ARM 181
+setowner ARM 179
+setowner ARM 180
+setowner ARM 112
+setowner ARM 118
+setowner ARM 697
+setowner ARM 698
+annex ARM
+add_Core 180
+add_Core 179
+add_Core 181
+add_Core 112
+add_Core 118
+add_Core 697
+add_Core 698
+tag SPR
+manpower 13891
+manpower 138910
+tag SPR
+tag FRA
+tag SPR
+pp
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+xp
+cp
+xp
+tag SPR
+ic
+tag ITA
+tdebug
+tag CZE
+tag ITA
+threat -9999999999999999999999999
+threat 99999999999999999999999999
+
+threat 99999999999999999999999999
+threat 999999999999999999999
+
+threat 999999999999999999999
+tag yug
+tp
+tag ITA
+op
+tp
+threat 999999999999
+tag POL
+nocb
+tag SOV
+tag ITA
+tag POL
+add_Core 92
+tag SOV
+tag ITA
+nocb
+op
+threat 9999999999
+
+threat 9999999999
+tag FRA
+tag ^CZE
+tag CZE
+pp 25
+nocb
+tag ITA
+threat 9999999999
+
+tdebug
+add_Core 108 YUG
+add_Core 107 YUG
+add_Core 764 YUG
+tdebug
+add_Core 163
+add_Core 103
+setowner ARM 163
+setowner ARM 103
+annex ARm
+add_autonomy CRO 1000
+tag CRO
+add_autonomy CRO -500
+tag ITA
+tag CRO
+add_party_popularity f 100
+tag ITA
+ic
+threat 999999999
+
+threat 13
+threat 13^000
+threat 13000
+threat 99999999999999999999999999999999999999999999999
+threat 13000
+threat 99999999999999999999999999999999999999999999999
+threat 13000
+threat 99999999999999999999999999999999999999999999999
+
+threat 99999999999999999999999999999999999999999999
+ic
+^ic
+ic
+manpower 123138
+manpower 1231388
+threat 9999999999
+tag ENG
+tag CZE
+nocb
+tag POL
+tag GER
+tag ITA
+tag FRA
+tag ITa
+decision.nochecks
+nocb
+^ic
+ic
+threat 99999999999999999999999999999999999999
+tag ENG
+tag FRA
+tag ITA
+threat 9999999
+threat 99999999999999999999999999999999
+manpower 319033
+threat 99999999999999
+delall PRC
+manpower 12389012
+manpower 123890120000
+manpower 123890
+manpower 1238900
+tag CRO
+manpower 23897
+manpower 238970
+ale 1
+tag ITA
+tag CRO
+tag ITA
+yesman
+ic
+i
+ic
+yesman
+tp
+delall CHI
+yesman
+nocb
+yesman
+manpower 1230812
+tp
+delall ROm
+op
+annex ROM
+tag ROM
+annex ROM
+tag ITA
+tp
+delall NOR
+ic
+yesman
+op
+tag SOV
+annex LIT
+annex LAT
+annex EST
+
+tag ITA
+tp
+ic
+tag GER
+Focus.autocomplete
+tag ITA
+delall IRQ
+ic
+delall HOL
+ic
+tp
+setowner ARM 99
+annex ARM
+delall SWI
+tag GER
+pp
+tag ITA
+delall CHI
+delall PRC
+ai
+tag JAP
+op
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+pp
+setowner ARM 598
+setowner ARM 597
+setowner ARM 596
+setowner ARM 595
+setowner ARM 594
+setowner ARM 593
+setowner ARM 592
+setowner ARM 591
+annex ARM
+setowner ARM 609
+setowner ARM 608
+setowner ARM 614
+annex ARM
+tag CHI
+pp 34
+tag ITA
+ai
+Focus.autocomplete
+tag BEL
+tag GER
+tag ITA
+tag HUN
+set_ruling_party f
+tag ITA
+setowner ARM 104
+annex ARM
+setowner CRO 104
+setcontroller CRO 104
+setowner ARM 106
+setowner ARM 108
+setowner ARM 764
+annex ARM
+op
+setonwer ARM 104
+tag CRO
+setowner ARM 104
+annex ARm
+tag ITA
+delall TUR
+tp
+tag SOV
+ptp
+tp
+tag ITA
+tp
+op
+delall SOV
+op
+yesman
+delall FRA
+delall ENG
+delall BEL
+op
+ic
+tag SOV
+tag GER
+ic
+tag ENG
+ic
+tag GER
+ic
+setowner ARM 461
+setowner ARM 462
+annex ARM
+tag USA
+ic
+manpower 12389
+manpower 123890
+manpower 1238903
+add_Core 629
+research_on_icon_click
+tag USA
+tag MEX
+add_party_popularity d 100
+set_ruling_party d
+tag BRA
+add_party_popularity d 100
+set_ruling_party d
+tag PRU
+add_party_popularity d 100
+
+set_ruling_party d
+tag ARG
+set_ruling_party d
+add_party_popularity d 100
+tag BRA
+setowner ARM 687
+setowner ARM 309
+setowner ARM 310
+annex ARM
+tag ENG
+ic
+manpower 1239812
+tag ENG
+add_Core 113
+add_Core 134
+add_Core 135
+annex IRE
+tag ENG
+add_party_popularity d 100
+tag GER
+add_Core 97 SOV
+tag POL
+tag GER
+tag JAP
+research_on_icon_click
+i
+ic
+tag GER
+tag JAP
+ic
+tag GER
+tag D01
+tag GER
+tag ENG
+tag GER
+Focus.autocomplete
+threat 999999999999999999999999999
+tag POL
+nocb
+tag SOV
+tag GER
+tag POL
+add_Core 92
+tag SOV
+tag GER
+threat 999999999999999999999999999
+nocb
+tag ITA
+nocb
+tag ROM
+tag CZE
+tag GER
+threat 99999999999999999
+ic
+nocb
+ic
+tag ENG
+threat 999999999999999999
+
+threat 999999999999999999
+
+threat 999999999999999999
+tag GER
+tag SOV
+tag GER
+yesman
+manpower
+ic
+tag ENG
+nocb
+tag SOV
+annex LIT
+annex LAT
+annex EST
+tag GER
+nocb
+ic
+^
+tag ENG
+nocb
+tag SIV
+tag SOV
+tag GER
+threat 9999999999999999999999999999999999999999999
+tag ENG
+threat 9999999999999999999999999999999999999999999
+tag ROm
+tag GER
+
+tag ITA
+annex CRO
+add_Core 103
+add_Core 163
+setowner ARm 103
+setowner ARM 103
+setowner ARM 163
+annex ARM
+tag GER
+tag ITA
+tag GER
+tag SOV
+annex IRQ
+annex TUR
+annex PEr
+annex AFG
+tag GER
+tag ITA
+annex GRE
+tag GER
+tag ITA
+tag GER
+setower ARM 108
+setowner ARM 108
+setowner ARM 106
+annex ARM
+tag FRa
+add_party_popularity d 20
+tag GEr
+ai
+tag JAP
+delall CHI
+delall PRC
+op
+Focus.autocomplete
+pp
+setowner ARM 592
+setowner ARM 594
+setowner ARM 593
+setowner ARM 595
+setowner ARM 596
+setowner ARM 598
+setowner ARM 597
+setowner ARM 614
+setowner ARM 608
+annex ARM
+tag CHI
+pp
+tag GER
+ai
+manpower
+^op
+op
+tp
+ic
+tp
+ic
+tp
+yesman
+tag USA
+tag ENG
+tag GER
+tp
+yesman
+delall SWI
+op
+delall SWI
+setowneR ARM 99
+annex ARm
+tp
+tag AUS
+set_Ruling_party authoritarian_democrat
+add_party_popularity authoritarian_democrat 100
+decision.nochecks
+add_Core 736
+add_Core 770
+add_Core 774
+add_Core 39
+tag ITA
+setowner CRO 102
+setowner ARM 39
+setowner ARM 774
+annex ARM
+tag CRO
+annex CRO
+tag SER
+tag CZE
+tag ROM
+add_Core 82 HUN
+add_Core 83 HUN
+add_Core 84 HUN
+add_Core 750 HUN
+tag HUN
+add_core 71+
+add_core 71
+add_core 70
+tag SLO
+add_Core 80 GAL
+add_Core 80 GLC
+add_Core 80
+add_Core 91
+add_Core 89
+add_Core 799
+add_Core 88
+tag POL
+tag SOV
+tag SLO
+add_Core 985 HUN
+tag SER
+tag GER
+set_Ruling_party authoritarian_democrat
+add_party_popularity authoritarian_democrat 100
+tag TUR
+tag AUS
+ai
+annex HUN
+annex SLO
+annex CRO
+annex CZE
+
+^
+ic
+tp
+ic
+delall BEL
+delall HOL
+delall LUX
+delall FRA
+delall ENG
+setowner ARM 99
+annex ARm
+tp
+tag USA
+tag GER
+ic
+
+decision.nochecks
+ic
+tp
+delall SWI
+tag D02
+pp
+manpower 1239721
+st 10
+tag GER
+yesman
+Focus.autocomplete
+tag SOV
+tp
+tag GER
+tp
+yesman
+nocb
+yesman
+decision.nochecks
+BP_event_germany.30
+event BP_germany.30
+tag UKR
+tag RKU
+Focus.autocompletw
+Focus.autocomplet
+Focus.autocomplete
+Focus.nochecks
+event BP_germany.30
+event BP_germany.514
+event BP_germany.515
+event BP_germany.516
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+annex POL
+annex CZE
+annex AUS
+annex BEL
+annex LUX
+annex DEN
+annex SWE
+annex HOL
+annex FIN
+annex NOR
+annex EST
+annex LAT
+annex LIT
+pp
+decision.nochecks
+tag RKU
+Focus.autocomplete
+Focus.nochecks
+event BP_germany 596
+event BP_germany 518
+event BP_germany 517
+event BP_germany 516
+event BP_germany 513
+event BP_germany.514
+event BP_germany.509
+event BP_germany.508
+event BP_germany.507
+event BP_germany.506
+event BP_germany.505
+event BP_germany.504
+event BP_germany.503
+event BP_germany.502
+event BP_germany.501
+event BP_germany.499
+event BP_germany.50
+event BP_germany.550
+event BP_germany.519
+event BP_germany.499
+event BP_germany.498
+event BP_germany.497
+event BP_germany.496
+event BP_germany.495
+Focus.autocomplete
+Focus.nochecks
+add_Core 69
+add_Core 74
+add_Core 153
+add_Core 152
+add_Core 151
+add_Core 4
+add_Core 86
+add_Core 85
+add_Core 188
+add_Core 762
+add_Core 87
+add_Core 98
+tag POL
+add_core 97 GER
+tag CZE
+tag AUS
+annex AUS
+add_Core 99
+tag DEN
+tag GER
+setowner BEL 29
+annex BEL
+annex LUX
+annex HOL
+annex POL
+tag SOV
+add_Core 231
+add_Core 230
+add_Core 229
+add_Core 406
+add_Core 407
+add_Core 402
+add_Core 583
+add_Core 590
+add_Core 588
+add_Core 589
+add_Core 404
+add_Core 587
+add_Core 586
+add_Core 585
+add_Core 584
+add_Core 742
+add_Core 732
+add_Core 586
+add:Core 198 ROM
+tag ROM
+add_Core 766
+add_Core 192
+add_Core 198
+add_Core 78
+tag UKR
+add_Core 198 SOV
+add_Core 199 SOV
+add_Core 89 SOV
+add_Core 91 SOV
+add_Core 92 SOV
+add_Core 93 SOV
+tag MDV
+tag MOL
+add_Core 213 FIN
+add_Core 215 FIN
+add_Core 216  FIN
+add_Core 216 FIN
+add_Core 228
+add_Core 196
+add_Core 197
+add_Core 198
+add_Core 199
+add_Core 200
+add_Core 201
+add_Core 202
+add_Core 203
+add_Core 204
+add_Core 205
+add_Core 206
+add_Core 207
+add_Core 208
+add_Core 209
+add_Core 210
+
+add_Core 211
+add_Core 212
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+add_Core 212
+add_Core 213
+add_Core 214
+add_Core 215
+add_Core 216
+add_Core 217
+add_Core 218
+add_Core 219
+add_Core 220
+add_Core 221
+add_Core 222
+add_Core 223
+add_Core 224
+add_Core 225
+add_Core 226
+add_Core 227
+add_Core 228
+add_Core 229
+add_Core 230
+add_Core 231
+add_Core 232
+add_Core 233
+add_Core 234
+tag BLR
+add_Core 241
+add_Core 194
+add_Core 95
+add_Core 96
+add_Core 94
+add_Core 784
+tag LIT
+annex LIT
+annex LAT
+annex EST
+add_COre 241 SOV
+add_COre 194 SOV
+add_COre 95 SOV
+add_COre 96 SOV
+add_COre 784 SOV
+add_COre 94 SOV
+add_Core 259 SOV
+add_Core 193 SOV
+add_Core 405 SOV
+add_Core 198
+add_Core 192 SOV
+add_Core 76 HUN
+add_Core 77 BUL
+add_Core 192
+tag HUN
+add_Core 70
+add_Core 71
+add_Core 73
+add_Core 664
+add_Core 45
+tag YUG
+annex YUG
+add_Core 102 GER
+add_Core 104 CRO
+annex SER
+add_COre 106 GRE
+tag MAC
+add_COre 1
+add_COre 116
+add_Core 665 LBA
+add_Core 458 LBA
+setowner ARM 665
+setowner ARM 458
+annex ARM
+annex ETH
+add_Core 736 ITA
+tag ENG
+add_Core 549 EGY
+add_Core 547 AOI
+tag ITA
+annex YUG
+add_Core 163
+add_Core 103
+setowner ARM 163
+setowner ARM 103
+annex ARM
+tag GER
+setowner LUX 29
+annex LIX
+annex LUX
+annex BEL
+annex HOL
+annex DEN
+annex POL
+add_Core 153
+add_Core 152
+add_Core 4
+annex AUS
+add_core 69
+add_core 74
+tag CZE
+tag ROM
+tag GER
+annex CZE
+decision.nochecks
+annex LIT
+setowner ARM 137
+annex ARM
+setowner ARM 192
+setowner ARM 198
+annex ARM
+annex CZE
+tag PGG
+setowner ARM 89
+setowner ARM 91
+annex ARM
+tag RKM
+setowner ARM 262
+setowner ARM 397
+setowner ARM 214
+setowner ARM 351
+setowner ARM 253
+setowner ARM 248
+setowner ARM 651
+annex ARM
+
+add_party_Popularity f 100
+ic
+setowner ARM 652
+setowner ARM 401
+setowner ARM 251
+setowner ARM 249
+setowner ARM 250
+setowner ARM 255
+setowner ARM 254
+setowner ARM 252
+setowner ARM 256
+setowner ARM 399
+setowner ARM 398
+setowner ARM 400
+annex ARM
+tag RKU
+add_party_popularity f 100
+tag RKO
+add_party_popularity f 100
+tag DEN
+add_party_popularity f 100
+tag RKN
+tag RKKH
+tag RKH
+add_party_popularity f 100
+tag RKB
+add_party_popularity f 100
+tag GER
+setowner ARM 99
+annex ARM
+tag SOV
+observe
+tag GER
+setowner ARM 29
+annex ARM
+setowner ARM 219
+setowner ARM 217
+setowner ARM 195
+annex ARM
+setowner ARM 16
+annex ARM
+tag RKU
+setowner ARM 217
+annex ARM
+tag RKM
+setowner ARM 219
+annex ARM
+tag RKO
+setowner ARM 195
+annex ARM
+tag GER
+observe
+annex USA
+annex SOV
+add_Core 51
+add_Core 52
+add_Core 53
+add_Core 54
+28
+add_Core 28
+add_Core 8
+add_Core 188
+add_Core 99
+add_Core 751
+add_Core 793
+Focus.ignoreprerequisites
+Focus.nochecks
+Focus.autocomplete
+ai
+tag AUH
+setowner ARm 421
+setowner ARM 421
+add_Core 52
+add_Core 53
+add_Core 54
+add_Core 99
+add_Core 8
+add_Core 28
+add_Core 188
+add_Core 793
+add_Core 188
+add_Core 99
+tag RUS
+add_party_popularity n 100
+add_party_popularity c 30
+âdd_Core 215 FIN
+add_Core 215 FIN
+add_Core 213 FIN
+add_core 92
+add_core 92 POL
+add_core 10 POL
+add_core 98 POL
+add_core 87 POL
+add_core 90 POL
+add_Core 230
+add_Core 233
+tag GEO
+add_Core 231
+add_Core 231 RUS
+add_Core 353
+add_Core 354
+add_Core 680
+add_Core 677
+add_Core 554
+add_Core 553
+add_Core 454
+add_Core 453
+add_Core 455
+add_Core 679
+add_Core 747
+add_Core 676
+add_Core 291
+add_Core 675
+tag SAU
+add_Core 791
+add_Core 765
+add_Core 658
+add_Core 659
+add_Core 294
+add_Core 293
+add_Core 293 TUR
+tag EGY
+add_Core 549
+annex EGY
+tagENG
+tag ENG
+add_Core 767 EGY
+annex EGY
+add_Core 116 ITA
+add_Core 656 TUR
+add_Core 699 MOR
+add_Core 743
+add_Core 118 SPR
+tp
+tag PAL
+add_Core 790
+add_Core 164
+add_Core 341 BUL
+add_Core 788 BUL
+add_Core 756 BUL
+add_Core 757 BUL
+add_Core 184 BUL
+add_Core 761 MTN
+add_Core 759 BUL
+add_Core 759 GRE
+add_Core 758 GRE
+add_Core 106 GRE
+add_Core 760 SER
+add_Core 803 GRE
+tag ALB
+tag TUR
+setowner ALB 761
+tag GRE
+tag TUR
+setowner ALB 756
+setowner ALB 757
+setowner ALB 184
+setowner ALB 731
+setowner ALB 803
+annex ALB
+tag OMA
+annex OMA
+annex HJZ
+add_Core 659 SAU
+Focus.autocomplete
+Focus.nochecks
+ai
+add_party_popularity n 100
+set_ruling_party n
+tag BOS
+annex BOS
+add_Core 104 CRO
+add_Core 109 CRO
+add_Core 103 CRO
+add_Core 163 CRO
+tag AUH
+Focus.ignoreprerequisites
+add_party_popularity n 100
+add_party_popularity d 39
+add_party_popularity n 9
+adD_Core 764 HUn
+adD_Core 764 HUN
+adD_Core 764
+adD_Core 69
+adD_Core 74
+adD_Core 75
+adD_Core 71
+adD_Core 72
+adD_Core 73
+adD_Core 664 HUN
+adD_Core 664
+adD_Core 71 HUN
+adD_Core 70 HUN
+adD_Core 71
+adD_Core 70
+
+adD_Core 88 SLO
+adD_Core 88
+adD_Core 89 SLO
+adD_Core 91 SLO
+adD_Core 39 AUS
+adD_Core 153 AUS
+adD_Core 154 AUS
+adD_Core 4 AUS
+adD_Core 152 AUS
+tag CZE
+adD_COre 73 HUn
+adD_COre 73 HUN
+adD_COre 72 SLO
+add_Core 69 AUS
+add_Core 74 AUS
+tag AUS
+setowner ARM 154
+annex ARM
+add_Core 736
+add_Core 39
+tag AUH
+add_core 39
+add_core 736
+annex HUN
+add_Core 9
+add_Core 75
+annex aus
+annex cze
+tag POL
+tag ITA
+add_Core 163 AUH
+adD_Core 39
+adD_Core 1
+adD_Core 735
+tag FRA
+add_Core 28
+setowner ARM 28
+annex AR
+annex ARM
+add_Core 694 CUB
+tag CUB
+decision.nochecks
+tag HAI
+tag CUB
+set_Ruling_party c
+add_party_popularity c 100
+tag DOM
+add_Core 483
+add_Core 484
+add_Core 739
+add_Core 740
+add_Core 741
+setowner ARM 741
+annex ARM
+add_Core 473
+add_Core 471
+add_Core 472
+add_Core 470
+add_Core 469
+add_Core 683
+add_Core 682
+add_Core 468
+add_Core 469
+add_Core 276
+add_Core 3312
+add_Core 332
+add_Core 331
+add_Core 464
+add_Core 463
+add_Core 465
+tag ENG
+tag CAN
+annex CAN
+add_Core 467 USA
+add_Core 466 USA
+add_Core 311 GUA
+setowner ARM 311
+add_Core 475 GUA
+add_Core 474 GUA
+annex ARM
+tag ENG
+tag USA
+add_Core 29 BEL
+tag BEL
+tag LUX
+annex LUX
+setowner LUX 8
+tag LUX
+annex LUX
+tag DEN
+add_Core 751 GER
+setowner ARM 99
+annex AR
+annex ARM
+research_on_icon_click
+ic
+tag LIT
+add_Core 96 RUS
+add_Core 784 RUS
+add_Core 11 RUS
+add_Core 189 RUS
+tag POL
+tag RUS
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+tag EsT
+setowner TAN 329
+annex TAN
+add_Core 329 QIN
+add_Core 329 MON
+tag RUS
+add_core 655 JAP
+setowner LIT 11
+tag LIT
+decision.nochecks
+annex LIT
+setowner ARM 188
+annex ARN
+annex ARM
+tag RUS
+annex LIT
+tag SIA
+add_Core 336
+set_Ruling_party c
+add_party_popularity c 100
+tag FRA
+add_Core 671 VIN
+add_Core 670 VIN
+add_Core 671 VNM
+tag VIN
+set_Ruling_party c
+add_party_popularity c 100
+add_Core 670 VNM
+add_Core 741 VNM
+add_Core 640 BRM
+add_Core 288 BUR
+add_Core 288 BRM
+tag RAJ
+add_autonomy RAJ 10000
+pp
+add_autonomy RAJ -500
+annex RAJ
+add_Core 442 AFG
+add_Core 445 AFG
+add_Core 444 AFG
+add_Core 441 PAK
+add_Core 440 PAK
+add_Core 443 PAK
+add_Core 323
+add_Core 434 QIN
+add_Core 324 QIN
+tag BHU
+annex QIN
+annex BHU
+tag CHI
+tag QIN
+tag NEP
+annex NEP
+annex RAJ
+tag ARG
+add_Core 502
+add_Core 302
+tag BRA
+add_Core 300 ARG
+add_Core 301 ARG
+add_Core 688
+add_Core 487
+add_Core 310
+add_Core 309
+add_Core 687
+add_Core 488
+tag PRU
+add_Core 490
+add_Core 305
+add_Core 649
+add_Core 795
+add_Core 306
+add_Core 493
+add_Core 489
+add_Core 307
+tag VEn
+annex VEN
+annex COl
+add_Core 486 PRU
+annex ECU
+annex PRU
+annex CHL
+annex BOL
+add_Core 688 ARG
+tag ENG
+setowner ARM 687
+annex ARm
+tag HOL
+tag FRA
+setowner ARM 309
+setowner ARM 310
+annex ARM
+tag BRM
+set_ruling_party c
+add_party_popularity c 100
+tag CHI
+tag BHU
+tAg RUS
+annex QIN
+add_Core 611 CHI
+add_Core 612 CHI
+add_Core 434 CHI
+add_Core 324 CHI
+add_Core 601 CHI
+add_Core 322 CHI
+tag CHI
+setowner ARM 728
+setowner ARM 729
+setowner ARM 326
+setowner ARM 524
+setowner ARM 745
+setowner ARM 746
+setowner ARM 744
+annex ARM
+add_Core 612 PRC
+set_ruling_party c
+add_party_popularity c 100
+tag QIN
+setowner MOn 329
+setowner MON 329
+setowner MON 330
+annex MOn
+annex PRC
+tag ENG
+annex CHI
+add_Core 524 JAP
+tag CHI
+tag ENG
+setowner ARM 728
+setowner ARM 326
+setowner ARM 329
+setowner ARM 746
+annex ARM
+tag FRA
+setowner ARM 729
+setowner ARM 728
+annex ARM
+setowner ARM 735
+annex ARM
+tag BAV
+annex BAV
+annex SLO
+tag BOS
+annex BOS
+add_Core 84 HUN
+add_Core 76 HUN
+
+add_Core 83 HUN
+add_Core 82 HUN
+add_Core 76 AUH
+add_Core 82 AUH
+add_Core 83 AUH
+add_Core 85 AUH
+add_Core 84 AUH
+add_Core 82 AUH
+add_Core 766 ROM
+add_Core 192 ROM
+add_Core 199 ROM
+add_Core 198 ROM
+tag AUH
+setowner ARM 85
+annex ARm
+tag GER
+tag SWI
+add_party_popularity d 100
+tag SR
+tag SPR
+add_party_popularity d 100
+tag USA
+add_Core 538 COG
+setowner COG 538
+tag COG
+annex COG
+setowner COG 295
+add_Core 295
+add_Core 718
+add_Core 546
+add_Core 755
+add_Core 539
+add_Core 297
+add_Core 773
+add_Core 774
+add_Core 794
+add_Core 777
+add_Core 541
+add_Core 789
+tag BEL
+annex COG
+tag SPR
+tag GER
+annex COG
+add_Core 769 COG
+add_Core 768 COG
+add_party_popularity n 100
+add_party_popularity c 20
+add_party_popularity d 20
+pp
+manpower
+tag GER
+add_Core 646 JAP
+add_Core 684 JAP
+add_Core 647 JAP
+add_Core 633 JAP
+add_Core 725  JAP
+add_Core 725 JAP
+add_Core 726
+setowner ARM 726
+annex ARM
+tag AUH
+add_Core 80
+add_Core 80 SLO
+add_core 105
+add_core 761
+tag GER
+tag TUR
+tag GER
+tag TUR
+tag AUH
+tag TUR
+ic
+ai
+tag RUS
+research_on_icon_click
+Focus.autocomplete
+Focus.ignoreprerequisites
+Focus.nochecks
+tag RUS
+manpower
+tag FRA
+Focus.ignoreprerequisites
+tag FRA
+tag ROM
+add_party_populartiy d 100
+add_party_popularity d 100
+add_party_popularity c 40
+tag RUS
+annex POL
+setowner POL 88
+tag POL
+annex POL
+tag ENG
+nocb
+add_party_populartiy d 100
+add_party_popularity d 100
+tag GER
+xp
+cp
+allowtraits
+cp
+tag GER
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+annex CHI
+Focus.autocomplete
+Focus.nochecks
+delall BAV
+annex BAV
+tag RUS
+ic
+tag GER
+ic
+delall QIN
+delall CHI
+delall D02
+ic
+add_Core 324 TIB
+add_Core 434 TIB
+setowner TIB 324
+setowner TIB 434
+annex TIB
+tag DEN
+annex D02
+set_ruling_party d
+add_party_Popularity d 100
+yesman
+nocb
+tag GER
+yesman
+nocb
+tag TUR
+tp
+tag GER
+tp
+tag TUR
+tp
+tag ITA
+op
+tag GER
+delall TUR
+tp
+op
+add_Core 756 TUR
+tag TUR
+setowner ARM 756
+annex ARM
+setowner ARM 164
+annex ARM
+tag GER
+research_on_icon_click
+tag TUR
+setowner ARM 803
+setowner ARM 106
+setowner ARM 756
+setowner ARM 788
+setowner ARM 759
+setowner ARM 760
+annex ARM
+add_Core 341
+add_Core 756
+pp
+ic
+manpower 12391238
+manpower 123912380000
+manpower 123912
+tag ALB
+tag SER
+tag GER
+tag FRA
+tag GER
+tag COG
+ic
+research_on_icon_click
+add_autonomy COG 10000
+add_party_popularity n 190
+set_ruling_party d
+set_ruling_party c
+set_ruling_party f
+set_ruling_party n
+ic
+tag GER
+tag ITA
+research_on_icon_click
+ic
+research_on_icon_click
+ic
+tag GER
+tag SER
+research_on_icon_click
+tp
+^ic
+ic
+tag GER
+setowner ARM 793
+annex ARM
+tp
+tag MNT
+tag MTN
+tag GER
+yesman
+tag ITA
+Focus.autocomplete
+tag GER
+tag ITA
+annex TZ'UN
+annex ETH
+tag GER
+tag FRA
+tp
+tag GER
+ic
+yesman
+nocb
+yesman
+nocb
+tag RUS
+tp
+add_Core 13 BAT
+add_Core 13 UBD
+add_Core 13 BAL
+add_Core 13 BAT
+add_Core 13 BTC
+tag RUS
+tp
+tag GER
+op
+tp
+op
+tp
+ic
+tag QIN
+tag GER
+tag GRE
+ic
+yesman
+nocb
+add_party_popularity d 100
+set_ruling_party d
+tag FRA
+tag GRE
+tag GER
+nocb
+yesnab
+yesman
+tp
+
+annex EST
+annex LIT
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+add_Core 784
+setowner ARM 93
+annex ARm
+adD_Core 93 POL
+adD_Core 94 POL
+adD_Core 95 POL
+adD_Core 96 POL
+adD_Core 97 POL
+annex EST+
+tag EST
+annex LIT
+tag LIT
+tag GER
+annex LIT
+tag LIT
+decision.nochecks
+tag GER
+add_Core 11 UBD
+setowner UBD 11
+add_Core 11 EST
+setowner ARM 11
+annex ARM
+annex EST
+add_Core 69
+add_Core 74
+add_Core152
+add_Core 152
+add_Core 153
+add_Core 4
+add_Core 39
+add_Core 736
+add_Core 104
+tag TUR
+add_Corer 341
+add_Core 341
+add_Core 756
+setowner ARM 760
+setowner ARM 761
+setowner ARM 756
+setowner ARM 341
+setowner ARM 788
+setowner ARM 757
+setowner ARM 184
+annex AMR
+tag TUR
+setowner ARM 757
+setowner ARM 184
+setowner ARM 731
+setowner ARM 803
+setowner ARM 761
+setowner ARM 44
+tag ARM
+annex ARM
+tag TUR
+add_Core 341
+add_Core 756
+setowner ARM 341
+setowner ARM 756
+annex ARM
+setowner ARM 759+
+setowner ARM 788
+setowner ARM 106
+setowner ARM 760
+annex ARM
+ic
+tag BUL
+add_party_popularity n 100
+add_party_popularity c 30
+add_party_popularity d 30
+Focus.autocomplete
+Focus.nochecks
+tag RUS
+setowner ARm 784
+setowner ARM 784
+setowner LIT 784
+tag LIT
+setowner LIT 11
+setowner LIT 12
+setowner LIT 13
+setowner LIT 189
+setowner LIT 190
+setowner LIT 191
+annex LIT
+add_Core 191 EST
+add_Core 13 EST
+add_Core 12 EST
+add_Core 11 EST
+add_Core 189 EST
+add_Core 190 EST
+tag LIT
+add_Core 96 POL
+add_Core 95 POL
+add_Core 94 POL
+add_Core 93 POL
+add_Core 97 POL
+add_Core 784 POL
+annex EST
+setowner EST 784
+tag EST
+add_party_popularity n 100
+annex EST
+setowner ARM 758
+annex ARM
+add_Core 102 AUS
+tag SAU
+tag GER
+tag HOL
+add_party_popularity d 100
+tag DEN
+add_party_popularity d 100
+set_ruling_party d
+tag SWE
+decision.nochecks
+set_ruling_party df
+set_ruling_party f
+set_ruling_party n
+tag NOR
+decision.nochecks
+set_ruling_party f
+tag SWE
+tag NOR
+decision.nochecks
+tag SWE
+setowner ARM 37
+setowner ARM 99
+annex ARM
+add_Core 101
+add_Core 215
+add_Core 213
+add_Core 147
+add_Core 722
+annex NOR
+add_party_popularity d 100
+set_ruling_party f
+set_ruling_party c
+set_ruling_party n
+set_ruling_party d
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+tag SWE
+ic
+research_on_icon_click
+manpower 1238901
+setowner ARM 99
+annex ARM
+setowner EST 11
+tag EST
+annex EST
+tag RUS
+annex EST
+tag SWE
+setowner ARM 99
+annex ARM
+tag DEN
+setowner ARM 99
+annex ARM
+tag COG
+add_party_popularity n 100
+research_on_icon_click
+add_Core 274
+add_Core 776
+add_Core 752
+add_Core 772
+add_Core 771 POR
+add_Core 770 POR
+add_Core 547
+add_Core 548
+research_on_icon_click
+add_autonomy COG 1000
+pp
+Focus.autocomplete
+ic
+research_on_icon_click
+manpower 130123
+manpower 1301232
+add_Core 543
+tag COG
+tag SUA
+tag USA
+manpower
+tag USA
+tag GER
+add_Core 153
+add_Core 154
+add_Core 4
+setowner ARM 154
+annex ARm
+setowner ARM 152
+annex ARM
+add_Core 102
+add_Core 736
+add_Core 39
+add_Core 153
+add_Core 152
+add_Core 69
+add_Core 74
+add_Core 151
+add_Core 3
+tag RUS
+tag GER
+tag ENG
+tp
+tag COG
+ale
+research_on_icon_click
+ai
+ale
+tp
+tag GER
+ai
+tp
+research_on_icon_click
+ic
+ai
+tag COG
+
+tag GER
+tag COG
+tp
+tag GER
+tag COG
+tp
+tag GER
+tag COG
+tag GER
+add_autonomy COG 100
+tp
+tag TUR
+add_Core 341
+add_Core 756
+setowner ARM 341
+setowner ARM 756
+annex ARM
+tag GER
+tag ITA
+add_autonomy ITA 1000
+pp
+set_Ruling_party d
+add_party_popularity d 100
+tag TUR
+add_Core 559 ITA
+add_Core 550 ETH
+annex ETH
+add_Core 754 LBA
+tag ITA
+annex ETH
+annex LBA
+tag GER
+tag COG
+tag GER
+tag COG
+tag GER
+tag COG
+tag GER
+tag SWE
+tag GER
+tag COG
+tp
+tag GER
+tag BEL
+research_on_icon_click
+ic
+tag GER
+tag CIG
+tag COG
+tag GER
+add_Core 648 JAP
+tag CUB
+tag GER
+tag AUH
+tag GR
+tag GER
+tag GRE
+setowner ARM 184
+setowner ARM 757
+setowner ARM 759
+annex ARM
+tag GER
+tag GRE
+yesman
+nocb
+tag SER
+tag FRA
+yesman
+nocb
+tag GER
+add_Core 34 FRA
+add_Core 6 HOL
+add_Core 6 FRA
+add_core 434 TIB
+add_core 324 TIB
+setowner ARM 434
+setowner ARM 324
+annex ARM
+tag SWE
+ic
+research_on_icon_click
+ic
+tag GER
+tag SWE
+tag GER
+tag ITA
+manpower 1238912
+ic
+research_on_icon_click
+tag GER
+ic
+tag ITA
+tag GER
+tag SWE
+tag GER
+tag SER
+manpower 1230812
+ic
+research_on_icon_click
+tag GER
+ai
+tag ITA
+tag SER
+tag GER
+tag BUL
+tag GRE
+manpower 1237891
+tag GER
+ic
+tag SER
+tag GRE
+tag GER
+tag BUL
+tag GRE
+tag GER
+tp
+yesman
+nocb
+yesman
+tag ROM
+tag GER
+yesman
+tag SWE
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+tag GER
+Focus.autocomplete
+yesman
+nocb
+tag SWE
+nocb
+yesman
+taG GER
+tp
+yesman
+nocb
+tag AUH
+tp
+tag GER
+Focus.autocomplete
+setowner ARM 88
+annex ARM
+setowner ARM 88
+setowner POL 88
+tag POL
+annex POL
+tag GER
+tp
+delalL RUS
+tag ENG
+tp
+tag GER
+add_Core 122 WAL
+add_Core 122 WLS
+add_Core 121 SCO
+add_Core 120 SCO
+add_Core 133 SCO
+add_Core 136 SCO
+delall CHI
+delall QIN
+tag SOV
+
+annex RUS
+op
+annex LIT
+tag UKR
+setowner ARM 93
+annex ARM
+add_Core 216 FIN
+tag FIN
+tag SOV
+add_Core 216
+tag SWE
+annex FIN
+ic
+add_Core 216
+ic
+tag GER
+annex POL
+add_autonomy POL 10000
+tag POL
+pp
+set_ruling_party d
+set_ruling_party n
+add_party_popularity n 199
+add_party_popularity n d 49
+add_party_popularity d 49
+add_autonomy POL 10000
+add_autonomy POL 100
+tag GER
+tag FRA
+tp
+op
+tag GER
+tp
+setowner ARM 772
+setowner ARM 274
+setowner ARM 776
+setowner ARM 548
+setowner ARM 547
+setowner ARM 770
+setowner ARM 771
+annex ARM
+setowner ARM 789
+annex ARM
+add_Core 743 SPR
+add_Core 743 MOR
+setowner ARM 290
+setowner ARM 783
+setowner ARM 699
+annex ARM
+setowner ARM 743
+setowner ARM 118
+annex ARM
+add_Core 542 SAF
+add_Core 545 POR
+setowner ARM 542
+setowner ARM 545
+annex ARM
+add_Core 792 ETH
+add_Core 269 ETH
+add_Core 268 ETH
+setowner ARM 269
+setowner ARM 792
+setowner ARM 268
+annex ARM
+setowner ARM 271
+annex ARM
+tag GRE
+setowner ARM 731
+annex ARM
+add_Core 759
+set_ruling_party d
+add_party_popularity d 100
+tag ALB
+add_party_popularity d 100
+set_ruling_party d
+setowner ARM 160
+annex ARM
+tag BEL
+setowner ARM 29
+annex ARM
+add_autonomy BEL 1000
+add_party_popularity n 100
+add_party_popularity d 40
+tag HOL
+^tag GER
+tag GER
+setowner ARM 99
+annex ARM
+annex HOL
+tag HOL
+add_party_popularity d 40
+tag HOL
+add_party_popularity d 40
+set_ruling_party d
+tag GER
+setowner ARM 101
+setowner ARM 100
+annex ARM
+setowner ARM 696
+annex ARM
+setowner ARM 337
+annex ARM
+add_autonomy POL 10000
+tag FRA
+nocb
+tag ITA
+annex TUN
+tag GER
+setowner WLS 122
+annex WLS
+setowner WLS 134
+setowner WLS 135
+setowner WLS 119
+setowner WLS 113
+annex WLS
+setowner WLS 133
+setowner WLS 121
+setowner WLS 136
+setowner WLS 120
+annex ARM
+annex WLS
+nocb
+tag SER
+annex SER
+tag GER
+tag SOV
+nocb
+tag GER
+tp
+setowner ARM 728
+setowner ARM 729
+setowner ARM 326
+setowner ARM 746
+annex ARM
+tp
+delall QIN
+tag QIN
+annex CHI
+annex QIN
+tag GER
+tp
+tag SOV
+bocb
+nocb
+tag QIN
+set_ruling_party n
+add_party_popularity n
+add_party_popularity n 100
+tag TIB
+tag SOV
+tag GER
+annex USA
+annex POR
+annex LIB
+annex SPR
+annex ENG
+annex FRA
+annex ITA
+annex JAP
+annex NZL
+annex JAP
+annex AUS
+annex AST
+annex RAJ
+annex SAF
+annex SWE
+annex IRE
+annex GRE
+tag SOV
+op
+annex BRM
+annex CUB
+annex VIN
+annex VIE
+annex VIT
+annex VTM
+annex VTB
+annex VTN
+annex VNM
+annex SIA
+ai
+op
+add_Core 322 QIN
+ai
+tag GER
+tag FRA
+op
+setowner ARM 660
+setowner ARM 515
+setowner ARM 558
+setowner ARM 775
+setowner ARM 514
+setowner ARM 782
+setowner ARM 513
+setowner ARM460
+setowner ARM 460
+setowner ARM 459
+annex ARM
+tag GER
+setowner ARm 696
+setowner ARM 696
+setowner ARM 730
+annex ARM
+setowner ARM 658
+setowner ARM 659
+annex ARM
+add_Core 791 TUR
+setowner ARM 791
+annex ARM
+tag SWE
+annex FIN
+tag ENG
+annex AST
+annex NZL
+annex AST
+annex NZL
+tag GER
+tag ITA
+annex TUN
+annex LBA
+tag QIN
+add_party_popularity c 100
+add_autonomy QIN 1000
+pp
+add_autonomy QIN 1000
+add_autonomy QIN 100
+tag BRM
+pp
+add_party_popularity c 100
+add_autonomy BRM 1000
+tag VNM
+add_autonomy VNM 1000
+add_party_popularity c 100
+add_autonomy VNM 1000
+tag SIA
+add_party_popularity c 100
+add_autonomy SIA 1000
+tag GER
+tag SOV
+tag POL
+add_party_popularity social_democrat 10
+add_party_popularity social_democrat 100
+add_Core 96 PRS
+add_Core 86 PRS
+setowner SIK 96
+annex SIK
+tag GER
+add_Core 888
+add_Core 53
+add_Core 52
+add_Core 54
+add_Core 58
+add_Core 800
+add_Core 99
+tag RHI
+set_ruling_party islamist
+set_ruling_party fascist
+set_ruling_party nationalist
+set_ruling_party monarchist
+set_ruling_party social_democrat
+set_ruling_party communist
+set_ruling_party social_democrat
+add_party_popularity social_democrat 100
+focus.autocomplete
+focus.nochecks
+ai
+ic
+add_Core 839
+add_Core 839 GER
+tag SIL
+set_Ruling_party f
+set_Ruling_party fascist
+set_Ruling_party communist
+
+set_Ruling_party reactionary
+Focus.ignoreprerequisites
+add_Core 188
+tag GER
+civilwar conservative
+tag D01
+annex D01
+annex GER
+add_Core 65 D01
+add_Core 60 D01
+add_Core 68 D01
+add_Core 64 D01
+add_Core 62 D01
+add_Core 61 D01
+add_Core 54 D01
+add_Core 53 D01
+add_Core 52 D01
+tag BAV
+setowner SIk 65
+setowner SIK 65
+setowner SIK 64
+setowner SIK 62
+setowner SIK 61
+setowner SIK 64
+setowner SIK 68
+add_Core 68
+setowner SIK 60
+annex SIK
+tag GER
+add_Core 51
+add_Core 42
+add_Core 8
+add_Core 28
+tag FRA
+add_Core 28
+setowner SIK 28
+annex SIK
+setowner WLN 839
+tag WLN
+annex WLN
+tag AUS
+adD_Core 102
+adD_Core 786
+adD_Core 736
+adD_Core 102
+adD_Core 900
+adD_Core 69
+adD_Core 74
+adD_Core 72
+tag CZE
+add_Core 75
+tag MOR
+tag MRV
+decision.nochecks
+add_Core 849
+add_Core 850
+add_Core 851
+tag BOS
+annex BOS
+add_Core 848 CRO
+setowner SIK 800
+setowner SIK 99
+annex SIK
+tag GER
+annex RHI
+add_Core 741
+add_Core 188
+add_Core 5
+add_Core 742
+add_Core 743
+add_Core 85
+add_Core 86
+add_Core 67
+add_Core 66
+tag PRS
+add_Core 63 GER
+set_ruling_party fascist
+set_ruling_party communist
+set_ruling_party monarchist
+tag D01
+pp
+annex D01
+tag GER
+setowner SIK 839
+tag BEL
+annex BEL
+annex SIK
+add_autonomy WLN -1000
+pp
+add_autonomy FLA -1000
+add_autonomy FLN -1000
+add_autonomy FLN -500
+add_autonomy WLN -500
+nocb
+tag WLN
+set_ruling_aprty conservative
+set_ruling_party conservative
+set_ruling_party social_democrat
+set_ruling_party socialist
+set_ruling_party socialism
+set_ruling_party socialist
+set_ruling_party socialism
+set_ruling_party social_liberal
+Focus.autocomplete
+Focus.nochecks
+add_party_popularity social_liberal 100
+add_party_popularity social_liberal -10
+tag FLN
+set_Ruling_party conservative
+add_party_popularity conservative 30
+tag BUL
+Focus.ignoreprerequisites
+add_Core 899
+add_Core 791
+add_Core 184
+tag ROM
+add_Core 76 HUN
+tag TRS
+add_party_popularity libertarian 1000
+tag HUN
+add_Core 73
+add_Core 664
+add_Core 45
+tag AUS
+tag TRN
+tag SER
+add_Core 88
+add_Core 89
+add_Core 91
+tag POL
+setowner ARM 67
+setowner ARM 66
+setowner ARM 743
+setowner ARM 742
+setowner ARM 85
+setowner ARM 86
+setowner ARM 5
+annex ARM
+setowner ARM 63
+annex ARM
+annex VOJ
+tag UKR
+add_Core 80 VOJ
+add_Core 806 ROM
+add_Core 857
+add_Core 227
+tag POL
+tag ITA
+add_Core 115
+annex SLY
+annex SIY
+tag SAR
+tag SRD
+setowner ARM 1
+annex ARM
+add_Core 114 ITA
+tag CRI
+add_party_popularity reactionary 100
+add_Core 137 RUS
+add_Core 137 SOV
+add_Core 137 UKR
+tag SOV
+add_Core 796
+add_Core 231
+add_Core 797
+add_Core 877
+add_Core 229
+add_Core 832
+add_Core 790
+add_Core 230
+decision.nochecks
+tag NOV
+annex EST
+add_Core 840 SOV
+setowner SIK 67
+annex SIK
+setowner SIK 191
+setowner SIK 13
+setowner SIK 840
+annex SIK
+add_party_popularity conservative 100
+tag LAT
+add_party_popularity conservative 100
+tag LIT
+add_party_popularity conservative 100
+tag EST
+tag AZR
+annex AZR
+add_Core 878 PER
+annex CHE
+annex GEO
+annex ABK
+annex SOS
+annex NBK
+annex NGK
+annex ARM
+add_Core 232
+add_Core 233 SOV
+add_Core 234 SOV
+tag BLR
+annex BLR
+add_Core 808 SOV
+setowner ARM 88
+setowner ARM 89
+setowner ARM 80
+setowner ARM 91
+setowner ARM 67
+setowner ARM 87
+setowner ARM 10
+setowner ARM 98
+setowner ARM 97
+setowner ARM 92
+annex ARM
+setowner ARM 90
+annex ARM
+setowner ARM 741
+annex ARM
+setowner ARM 188
+annex ARM
+tag SOV
+tag LIT
+setowner ARM 188
+annex ARM
+tag SOV
+setowenr ARM 741
+setowner ARM 741
+annex ARm
+tag LOM
+add_Core 159 VNT
+add_Core 159 ITA
+add_Core 838 ITA
+add_Core 838 VNT
+add_Core 159
+tag ITA
+add_core 1
+add_Core 160
+annex VNT
+tag SLV
+annex SLV
+set_Ruling_party islamist
+add_Core 656
+^ic
+ic
+add_Core 676 IRQ
+add_Core 442
+add_Core 444
+add_Core 445
+tag PAK
+seotwner ARM 441
+setowner ARM 441
+annex ARM
+add_Core 441
+add_Core 787
+add_Core 732
+setowner ARM 732
+annex ARM
+tag KAZ
+annex KAZ
+add_COre 805 SOV
+add_COre 804 SOV
+annex UZB
+add_Core 823 SOV
+add_Core 821 SOV
+annex TRM
+add_core 799 SOV
+add_core 801 SOV
+add_core 802 SOV
+add_core 803 SOV
+annex TJI
+annex KYR
+add_Core 822 SOV
+add_Core 732 AFG
+setowner ARM 837
+setowner ARM 824
+setowner ARM 732
+annex ARM
+add_Core 732
+add_Core 824
+add_Core 837
+tag CHI
+annex MON
+setowner ARM 876
+annex ARM
+add_Core 434 PRC
+add_Core 434
+add_Core 324 PRC
+add_Core 324
+tag SOV
+add_Core 324 TIB
+setowner ARM 287
+setowner ARM 617
+setowner ARM 618
+setowner ARM 619
+annex ARM
+setowner ARM 610
+setowner ARM 611
+setowner ARM 612
+setowner ARM 715
+setowner ARM 716
+setowner ARM 328
+setowner ARM 717
+setowner ARM 714
+annex ARM
+add_Core 516
+add_Core 644
+add_Core 563
+add_Core 562
+add_Core 561
+add_Core 637
+add_Core 574
+add_Core 575
+add_Core 567
+add_Core 566
+add_Core 568
+add_Core 576
+add_Core 578
+add_Core 577
+add_Core 570
+add_Core 40
+add_Core 654
+add_Core 564
+add_Core 563
+add_Core 567
+add_Core 560
+add_Core 409
+add_Core 408
+add_Core 537 JAP
+add_Core 655 JAP
+tag SIB
+add_COre 569 SOV
+add_COre 565 SOV
+add_COre 657 SOV
+add_COre 329 MON
+add_Core 555 JAP
+add_Core 555 SOV
+add_COre 632 USA
+add_COre 631 USA
+add_Core 650 USA
+tag USA
+ai
+add_autonomy USA
+add_autonomy USA 1000
+pp
+add_autonomy USA 1000
+set_ruling_party n
+set_ruling_party reactionary
+annex USA
+tag MYA
+add_Core 432 BNG
+add_Core 789  BNG
+add_Core 789 BNG
+Focus.autocomplete
+Focus.nochecks
+add_party_popularity communist 100
+add_party_popularity communist -20
+tag SIA
+add_party_popularity communist 100
+add_party_popularity communist -20
+add_Core 336
+add_Core 816
+add_Core 817
+tag VIN
+add_Core 286
+add_Core 670
+tag LAO
+annex LAO
+tag CMB
+annex MB
+annex CMB
+tp
+annex MYA
+tag LAO
+annex LAO
+annex CMB
+tp
+annex MAY
+add_Core 333 INS
+tag NEP
+annex NEP
+add_Core 323 RAJ
+tag RAJ
+setowner ARM 788
+annex ARM
+add_Core 281
+add_Core 422
+tag SRI
+annex SRI
+tag SAU
+add_Core 658
+add_Core 852
+add_Core 856
+add_Core 825
+annex AND
+add_Core 294
+add_Core 293
+add_Core 659
+Focus.autocomplete
+Focus.nochecks
+tag AUS
+tag VOJ
+add_party_popularity conservative 100
+tag PAK
+add_Core 815 IRQ
+setowner ASY 814
+setowner ASY814
+tag SYR
+setowner ARM 827
+annex ARM
+add_party_popularity nationalist 100
+add_party_popularity islamist 40
+add_Core 915 LEB
+tag PAL
+setowner ARM 453
+annex ARM
+add_Core 454
+add_Core 810
+add_Core 812
+tag ISR
+setowner ARM 453
+annex ARM
+tp
+ic
+add_Core 914
+add_Core 810
+add_Core 812
+add_Core 811
+add_Core 454
+setowner ARM 914
+annex ARM
+pp 98
+add_party_popularity conservative 100
+set_ruling_party islamist
+set_ruling_party fascist
+set_ruling_party nationalist
+set_ruling_party monarchist
+set_ruling_party reactionary
+set_ruling_party socialist
+set_ruling_party communist
+set_ruling_party conservative
+add_party_popularity islamist 40
+add_party_popularity conservative 100
+add_party_popularity islamist 40
+tag LEB
+add_Core 553 SYR
+pp 100
+tag USA
+add_Core 484
+add_Core 483
+add_Core 467
+add_Core 739
+add_Core 740
+add_Core 276
+add_Core 465
+add_Core 468
+add_Core 464
+add_Core 331
+add_Core 332
+add_Core 276
+add_Core 466
+add_Core 682
+add_Core 467
+add_Core 683
+add_Core 469
+add_Core 472
+add_Core 470
+add_Core 473
+add_Core 471
+add_Core 463
+add_Core 371 USA
+setowner ARM 375
+setowner ARM 374
+setowner ARM 372
+setowner ARM 369
+setowner ARM 368
+setowner ARM 367
+setowner ARM 366
+setowner ARM 365
+setowner ARM 364
+setowner ARM 363
+setowner ARM 362
+setowner ARM 378
+setowner ARM 385
+setowner ARM 386
+annex ARM
+setowner ARM 370
+annex ARM
+add_Core 366
+add_Core 375
+tag TEX
+annex CAN
+annex CSA
+tag MEX
+add_Core 474 GUA
+add_Core 475 GUA
+tag BEL
+tag BLZ
+decision.nochecks
+add_Core GUA 311
+add_Core 311 GUA
+annex BLZ
+Focus.autocomplete
+Focus.nochecks
+nocb
+tag HON
+add_Core 314
+annex ELS
+tag NIC
+tag COS
+tag PAN
+set_ruling_party nationalist
+set_ruling_party islamist
+set_ruling_party monarchist
+set_ruling_party conservative
+set_ruling_party social_liberal
+pp 100
+add_Core 889 COS
+add_Core 909 PRU
+add_Core 304 PRU
+ic
+tag BRA
+add_Core 487
+add_Core 688
+add_Core 488
+add_Core 502 ARg
+add_Core 502 ARG
+add_Core 300 ARg
+add_Core 300 ARG
+tag URg
+annex URg
+annex PAR
+add_Core 301 BRA
+annex BOL
+add_Core 302 ARG
+add_Core 512
+tag PAT
+setowner ARM 507
+annex ARM
+decision.nochecks
+add_Core 861
+add_Core 860
+tag CHL
+annex CHL
+tag PRU
+add_Core 307
+add_Core 489
+add_Core 493
+add_Core 910
+add_Core 486
+add_Core 306
+add_Core 901
+add_Core 305
+add_Core 649
+tag ECU
+annex ECu
+tag VEN
+annex VEN
+annex COL
+tab BRA
+tag BRA
+tag ARG
+tag NIC
+tag GUA
+tag HON
+tag COS
+tag NIC
+tag USA
+tag CUB
+decision.nochecks
+tab BHM
+tag BHM
+annex BHM
+annex TAT
+annex STV
+add_Core 830 CUB
+add_Core 829 CUB
+add_Core 831 CUB
+tag DMN
+annex ANT
+add_Core 833 CUB
+annex DOM
+annex JAM
+annex HAI
+add_party_popularity communist 100
+add_party_popularity communist -60
+add_party_popularity communist -20
+add_party_popularity communist 20
+add_party_popularity communist -10
+tag BHU
+annex BHU
+add_party_popularity communist 100
+tag PRC
+add_party_popularity communist 100
+tag DPK
+tag KPD
+tag PDK
+tag PRK
+tag JAP
+ic
+Set_ruling_party fascist
+add_party_popularity fascist 100
+add_party_popularity conservative 40
+add_Core 555
+add_Core 876
+annex PHI
+tag PRC
+tag CHI
+add_party_popularity conservative 100
+add_party_popularity communist 45
+add_party_popularity conservative 100
+add_party_popularity communist 45
+tag GRE
+add_Core 187 TUR
+add_Core 164 TUR
+add_Core 886
+add_Core 106
+tp
+tag MLT
+add_Core 116 ITA
+annex MLT
+add_Core 854 ITA
+add_Core 3
+add_core 852
+add_Core 735
+add_Core 21
+add_Core 23
+add_Core 32
+add_Core 22
+add_Core 31
+add_Core 25
+add_Core 19
+tag OCC
+add_Core 119
+add_Core 113
+add_Core 134
+add_Core 135
+tag NIL
+tag MAC
+annex MAC
+add_Core 785
+tag KOS
+tag SER
+add_Core 105 SER
+setowner CRO 81
+setowner CRO 46
+setowner CRO 899
+setowner CRO 211
+setowner CRO 341
+setowner CRO 791
+annex CRO
+setowner CRO 796
+setowner CRO 103
+setowner CRO 102
+setowner CRO 736
+setowner CRO 900
+annex CRO
+setowner CRO 44
+setowner CRO 185
+setowner CRO 731
+setowner CRO 886
+setowner CRO 106
+setowner CRO 184
+setowner CRO 212
+setowner CRO 48
+annex CRO
+annex HUN
+annex TRS
+tag IRE
+tag BEL
+tag FRA
+tag POR
+tag SPR
+tag ITA
+tag AUS
+tag HUN
+tag TUR
+tag ROM
+tag GRE
+tag ALB
+ai
+setowner ARM 88
+setowner ARM 67
+annex ARM
+tag LAT
+setowner ARM 5
+annex  ARM
+annex ARM
+setowner ARM 12
+setowner ARM 190
+annex ARM
+tag LIT
+setowner ARM 5
+annex ARM
+setowner ARM 11
+setowner ARM 189
+annex ARM
+setowner ARM 96
+annex ARM
+setowner ARM 188
+annex ARM
+tag POL
+setowner ARM 5
+annex ARM
+tag JAP
+add_COre 721 INS
+add_COre 669 PAP
+add_COre 646
+add_COre 638
+add_COre 647
+add_COre 684
+add_COre 632
+add_COre 633
+add_COre 631
+add_COre 630
+add_COre 639
+add_COre 643
+add_COre 727
+add_COre 642
+add_Core 884 SMO
+tag ASS
+set_ruling_party fascist
+tag MAR
+set_ruling_party fascist
+set_ruling_party communist
+set_ruling_party social_liberal
+Focus.autocomplete
+Focus.nochecks
+tag PAP
+set_ruling_party communist
+tag WPA
+add_Core 634 AUS
+add_Core 634 AST
+tag SOL
+annex SOL
+tag OMA
+annex OMA
+annex UAE
+add_Core 826 SAU
+annex QAT
+annex BAH
+tag NCY
+tag TUR
+add_Core 352
+add_Core 353
+add_Core 350
+add_Core 814
+tag KUR
+tag SYR
+add_Core 814
+add_Core 680 TUR
+add_Core 677 TUR
+add_Core 554 TUR
+add_Core 553 TUR
+add_Core 881 TUR
+tag JOR
+tag SAU
+tag IRQ
+tag SYR
+tag TUR
+tag PAK
+tag AFG
+tag TUR
+tag PAL
+set_ruling_party monarchist
+nocb
+tag EGY
+set_Ruling_party monarchist
+set_Ruling_party Islamist
+tag SAU
+nocb
+tag IRQ
+tag SYR
+tag JOR
+tag AFG
+tag PAK
+tag EGY
+tag TUR
+set_ruling_party islamist
+add_party_popularity islamist 100
+add_party_popularity islamist -40
+tag SAU
+annex KUR
+setowner ISS 814
+add_Core ISS 814
+add_Core 814 ISS
+tag ISS
+annex ISS
+tag LEB
+tag PAL
+tag PER
+tag KUW
+ic
+tag FRA
+annex ALG
+ai
+annex ALG
+add_Core 769 TOG
+setower RKB 34
+setowner RKB 34
+tag RKB
+annex RKB
+annex USA
+annex URG
+annex POL
+annex CZE
+annex AUS
+annex BEL
+annex HOl
+annex LIt
+annex LAT
+annex EST
+annex SOV
+annex CAN
+annex BRA
+annex ARg
+annex PRu
+annex COL
+annex PAR
+annex VEN
+annex COL
+annex PRU
+annex ECU
+annex LUX
+annex FRA
+annex SWI
+annex ENG
+annex IRE
+annex IARG
+annex ARG
+annex BOL
+annex CHL
+pp
+ai
+tag MEX
+set_ruling_party monarchist
+set_ruling_party fascist
+set_ruling_party nationalist
+set_ruling_party islamist
+set_ruling_party communist
+set_ruling_party reactionary
+set_ruling_party socialism
+set_ruling_party socialist
+set_ruling_party social
+set_ruling_party social_democrat
+Focus.autocomplete
+Focus.nochecks
+add_Core 902 BRA
+add_Core 903 BRA
+add_Core 904 BRA
+add_Core 687 BRA
+add_Core 309 BRA
+add_Core 310 BRA
+add_Core 308 BRA
+tag BRA
+setowner ARM 308
+setowner ARM 310
+annex ARM
+setowner ARM 310
+annex ARM
+add_Core 310
+tag GUY
+delall GUY
+annex GUY
+annex SUR
+tag FRA
+add_core 747 ALG
+add_core 515 LBA
+add_Core 748 NGR
+add_Core 749 NGR
+tag NIG
+annex NIG
+tag WSH
+setowner ARM 699
+annex ARM
+annex WSH
+add_core 882 MOr
+add_core 882 MOR
+add_COre 752 NGR
+add_COre 754 NGR
+add_COre 755 NGR
+tag CHD
+annex CHD
+add_Core 753 CAF
+annex CAM
+add_core 756 CAF
+add_core 758 CAF
+add_core 760 CAF
+annex GAB
+add_Core 539 CAF
+add_Core 297 CAF
+annex EQU
+add_Core 781
+add_Core 780
+add_Core 757
+add_Core 759
+add_Core 842
+add_Core 845
+set_ruling_party communist
+set_ruling_party islamist
+add_Core 660
+tag COG
+annex COG
+add_COre 547 ETH
+tag ETH
+add_COre 550
+add_COre 559
+add_COre 807
+add_COre 269
+add_COre 268
+set_ruling_party islamist
+add_party_popularity islamist 100
+decision.nochecks
+tag ERI
+annex ERI
+annex DJI
+annex SML
+annex SOM
+annex KEN
+add_party_popularity islamist 100
+add_party_popularity islamist -20
+
+tag UGA
+set_ruling_party islamist
+add_party_popularity islamist 100
+nocb
+tag ETH
+tag CAF
+add_party_popularity islamist 100
+tag NGR
+add_party_popularity islamist 100
+set_ruling_party islamist
+tag ALG
+add_party_popularity islamist 100
+tag LBA
+add_Core 665
+add_Core 458
+tag TUN
+annex TUN
+set_ruling_party islamist
+set_ruling_party communist
+set_ruling_party islamist
+Focus.ignoreprerequisites
+add_party_popularity islamist 100
+set_ruling_party islamist
+set_ruling_party nationalist 40
+set_ruling_party nationalism 40
+add_party_popularity nationalist 40
+tag UGA
+tag SUD
+add_Core 762 SUD
+annex SUD
+tag EGY
+add_Core 551
+add_Core 549
+add_Core 762
+add_Core 761
+add_Core 763
+annex SUD
+add_core 453 SIN
+add_core 453 SNA
+add_core 453 SNI
+tag MAU
+add_Core 744
+add_Core 745
+add_Core 746
+add_Core 722
+add_Core 272
+add_Core 771
+add_Core 701
+add_Core 296
+add_Core 775
+add_Core 750
+annex MAL
+annex SEN
+annex GAM
+annex GUI
+annex GBS
+annex BKF
+add_Core 744 MRT
+add_Core 745 MRT
+add_Core 746 MRT
+add_Core 750 MRT
+add_Core 773 MRT
+add_Core 774 MRT
+add_Core 775 IVO
+add_Core 775 MRT
+add_Core 296 MRT
+add_Core 296 IVO
+add_Core 771 IVO
+add_Core 771 MRT
+add_Core 701 MRT
+add_Core 701 IVO
+add_Core 772 IVO
+add_Core 772 MRT
+tag MAU
+tag MAL
+annex MAL
+set_ruling_party islamist
+set_ruling_party nationalist
+tag SEN
+add_Core 272 MRT
+annex SIE
+add_core 700 MRT
+add_core 700 IVO
+annex LIB
+add_Core 774 IVO
+add_Core 298 IVO
+add_Core 298 MRT
+setowner ARM 774
+annex ARM
+add_core 272
+setowner ARM 272
+add_core 272
+annex ARM
+tag MRT
+tag MOR
+tag SAU
+tag DRC
+tag TOG
+set-ruling_party islamist
+set_ruling_party islamist
+tag BEN
+set_ruling_party islamist
+tag GHA
+set_ruling_party islamist
+tag BKF
+set_ruling_party islamist
+add_Core 274
+add_Core 770
+add_Core 777
+add_Core 769
+tag BEN
+annex BEN
+annex GHA
+annex TOG
+add_Core SAF 818
+add_Core 818 SAF
+add_Core 819 SAF
+add_Core 542 SAF
+add_Core 541 SAF
+tag LES
+annex LES
+tag SWZ
+annex SWZ
+annex BOT
+annex NAM
+set_Ruling_party islamist
+add_party_popularity islamist 100
+tag ZMB
+tag ZAM
+add_Core 545 ANG
+annex ZAM
+add_Core 820 MZB
+add_Core 782 MZB
+tag ANG
+set_ruling_party islamist
+Focus.autocomplete
+Focus.nochecks
+nocb
+tag MLW
+annex MLW
+annex ZMB
+annex ZIM
+tag TNZ
+add_party_popularity islamist 100
+tag FRA
+taG SAU
+annex BUR
+annex BRWA
+annex RWA
+tdebug
+add_Core 780 TNZ
+add_Core 781 TNZ
+tdebug
+tag SOV
+tag MON
+add_party_popularity communist 100
+tag PRC
+tag VIN
+tag SIA
+tag MYA
+tag BNG
+tag SOV
+Focus.autocomplete
+Focus.nochecks
+Focus.ignoreprerequistes
+Focus.ignoreprerequisites
+Focus.autocomplete
+Focus.nochecks
+Focus.ignoreprerequisites
+Focus.autocomplete
+add_party_popularity reactionary 15
+add_party_popularity communist 40
+add_party_popularity reactionary 40
+
+add_party_popularity communist 8
+add_party_popularity reactionary 4
+add_party_popularity communist 3
+pp
+st 10
+st 100
+tag PRC
+tag SOV
+nocb
+tag MON
+tag SOV
+tag BNG
+tag MYA
+tag VIN
+tag SIA
+tag PRC
+nocb
+tag SOV
+tag D01
+tag GER
+tag AUS
+tag GER
+annex AUS
+tag AUS
+annex HUN
+tag CZE
+setowner ARM 74
+setowner ARM 69
+setowner ARM 72
+annex ARM
+tag UKR
+tag POL
+annex VOJ
+setowner ARM 95
+setowner ARM 96
+setowner ARM 94
+setowner ARM 95
+setowner ARM 93
+setowner ARM 92
+setowner ARM 91
+annex ARM
+setowner ARM 808
+annex ARM
+tag TRA
+annex TRA
+add_Core 857 SOV
+annex MDV
+add_Core 78 ROM
+add-Core 722
+add_Core 722
+tag MRT
+tag MAU
+tag SOV
+annex CRI
+add_Core 137
+tag CRI
+add_party_popularity reactionary 100
+add_party_popularity communist 40
+tag SOV
+add_autonomy CRI -1000
+add_autonomy CRI -800
+tag ROM
+annex TRN
+annex TRS
+add_Core 79
+tag TRS
+setowner ARM 76
+annex ARM
+tag SER
+setowner VOJ 45
+tag VOJ
+annex VOJ
+setowner ARM 45
+annex ARM
+tag GER
+Focus.nochecks
+add_party_popularity reactionary 100
+add_party_popularity communist 30
+add_party_popularity monarchist 30
+add_party_popularity fascist 30
+add_party_popularity reactionary -100
+add_party_popularity communist 15
+add_party_popularity fascist 30
+add_party_popularity reactionary 100
+add_party_popularity reactionary -100
+add_party_popularity fascist 30
+add_party_popularity monarchist 30
+add_party_popularity communist 30
+add_party_popularity monarchist 30
+add_party_popularity fascist 30
+add_party_popularity monarchist 3
+add_party_popularity monarchist 2
+pp
+add_Core 34 BEL
+add_Core 6 BEL
+tag BEL
+tag SLO
+setowner ARM 73
+annex ARM
+tag ITA
+setowner ARM 39
+setowner ARM 900
+setowner ARM 736
+setowner ARM 786
+annex ARM
+tag SPR
+ic
+Focus.ignoreprerequites
+Focus.ignoreprerequisites
+add_Core 178
+add_Core 178 MOR
+annex CNI
+add_Core 165
+add_Core 172
+add_Core 171
+tag GLC
+add_Core 171 POR
+set_Ruling_party communist
+set_Ruling_party nationalist
+add_party_popularity nationalist 20
+add_Core 180 SPR
+tag SPR
+set_Ruling_party nationalist
+set_Ruling_party fascist
+set_Ruling_party conservative
+set_Ruling_party communist
+set_Ruling_party conservative
+add_party_popularity conservative 100
+add_party_popularity communist 30
+add_party_popularity fascist 30
+tag POR
+add_Core 898 MOR
+add_Core 897 MOR
+tag PER
+add_Core 413 SAZ
+add_Core 414 SAZ
+add_Core 412 SAZ
+add_Core 916 SAZ
+add_Core 410 SAZ
+tag SAZ
+add_Core 419 AZR
+add_Core 266
+add_Core 418
+add_Core 416
+add_Core 420
+add_Core 878
+tag PER
+add_Core 419
+annex AZR
+tag NCY
+set_Ruling_party islamist
+annex CYP
+annex NCY
+add_Core 836 TUR
+add_Core 183 TUR
+tag GRE
+tag ENG
+annex IRE
+tag USA
+tag SPR
+tag IRQ
+tag ENG
+tag IRQ
+tag SAU
+tag TUR
+tag SOV
+add_Core 146 FIN
+add_Core 215 FIN
+add_Core 213 FIN
+add_Core 147 FIN
+add_Core 722 FIN
+tag AUS
+set_ruling_party conservative
+set_ruling_party fascist
+set_ruling_party Islamist
+set_ruling_party Communist
+set_ruling_party monarchist
+add_party_popularity monarchist 100
+add_autonomy AUS 1000
+pp
+add_autonomy AUS 1000
+tag SOV
+setowner ARM 742
+annex ARM
+tp
+tag POL
+setowner ARM 742
+annex AMR
+annex ARM
+tag FRA
+set_ruling_party fascist
+set_ruling_party monarchist
+set_ruling_party reactionary
+set_ruling_party islamist
+set_ruling_party communist
+tag CUB
+tag RAJ
+tag PRC
+tag PDK
+tag PPRK
+tag PRK
+tag KOR
+tag PRK
+tag SOV
+tag PRK
+tag PHi
+tag FRA
+set_ruling_party social_democrat
+set_ruling_party conservative
+tag POL
+tag ROM
+tag SER
+tag CRO
+tag FRA
+tag CZE
+tag SLO
+tag ITA
+add_Core 151 GER
+add_Core 855 GER
+tag GER
+add_Core 39
+add_Core 153
+add_Core 152
+add_Core 4
+add_Core 102
+add_Core 736
+add_Core 69
+add_Core 74
+add_Core 72
+add_Core 900
+add_Core 786
+add_Core 796
+add_Core 39 ITA
+tag ITA
+tag FRA
+tag ENG
+tag AST
+tag NZL
+annex FJI
+annex FIJ
+tag ENG
+ic
+research_on_icon_click
+manpower 290123
+manpower 2901230
+
+tag GER
+manpower 2901230
+tag GER
+tag D01
+tag POL
+tag D01
+tag GER
+tag FRA
+add_Core 853
+tag SWI
+add_Core 855 GER
+add_Core 151 GER
+tp
+add_Core 835 ITA
+tag GER
+tag DEN
+setownr ARM 58
+setowner ARM 58
+setowner ARM 808
+setowner ARM 809
+annex AMR
+annex ARM
+tag GER
+tag POL
+Focus.nochecks
+autocomplete
+Focus.autocomplete
+Focus.ignoreprerequisites
+decision.nochecks
+st 20
+ws 100
+manpower
+tag FRA
+nocb
+tag ITA
+set_Ruling_party fascist
+set_Ruling_party nationalist
+set_Ruling_party communist
+set_Ruling_party conservative
+tag POL
+tag CRO
+set_ruling_party communist
+set_ruling_party monarchist
+set_ruling_party communist
+tag SER
+tag ROM
+tag SLO
+tag CZE
+tag FRA
+tag ENG
+tag ASt
+tag NZL
+annex FJI
+annex FIJ
+tag ENG
+tag KOR
+tag PRK
+tag PHI
+tag SOV
+tag PRC
+tag PRK
+tag RAJ
+set_ruling_party communist
+set_ruling_party reactionary
+tag PHI
+tag UKR
+tag NOR
+annex DEN
+tag NOR
+annex SWE
+annex DEN
+annex GRN
+annex ICE
+annex FAR
+annex FAI
+pp
+Focus.autocomplete
+Focus.nochecks
+annex DEN
+add_Core 100
+add_Core 101
+annex ICE
+annex GRN
+annex FAI
+add_Core 337
+add_Core 138
+add_Core 124
+add_Core 139
+add_Core 140
+add_Core 141
+add_Core 38
+add_Core 666
+add_Core 146
+add_Core 215
+add_Core 213
+add_Core 722
+add_Core 147
+add_Core 148
+add_Core 150
+add_Core 149
+add_Core 111
+tag FIN
+add_Core 150
+add_Core 111
+add_Core 149
+add_Core 148
+tag SOV
+tag NOR
+annex FIN
+ic
+tag DEN
+setowner ARM 99
+setowner ARM 800
+annex ARM
+tag UKR
+nocb
+tag FRA
+tag GER
+tag LUX
+tag HOL
+tag FRA
+tag GER
+xp
+ai
+tag SOV
+annex D02
+annex LIT
+tag GER
+^ai
+ai
+ale 1000
+cp
+allowtraits
+ic
+tag ENg
+tp
+tag GER
+tp
+tag GER
+tag D01
+research_on_icon_click
+ale 1000000000
+tag GER
+ale 1000000000
+ale 100
+ale 10000000
+f 10000
+fuel 1000
+fuel 1000000
+allowtraits
+manpower
+ai
+annex D01
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+ic
+tag SOV
+annex UKR
+tag GER
+Focus.autocomplete
+tag SOV
+tag GER
+tag SOV
+pp
+tag GER
+pp
+ic
+FOcus.autocomplete
+setowner ARM 67
+annex ARM
+tag CRO
+tag SER
+tag SLO
+tag POr
+tag SLO
+tag GER
+tag POL
+nocb
+yesman
+nocb
+tag GER
+setowner ARM 800
+setowner ARM 900
+setowner ARM 39
+annex ARM
+setowner ARM 786
+setowner ARM 736
+annex ARM
+add-Core 736
+add_core 736
+add_core 786
+add_core 900
+add_core 39
+annex GRE
+annex gRE
+annex CZE
+annex TRS
+add_Core 152
+add_Core 153
+add_Core 4
+add_Core 3
+add_Core 151
+add_Core 102
+add_Core 69
+add_Core 74
+add_Core 72
+annex LIC
+annex SWI
+annex AUS
+set_ruling_party fascist
+set_ruling_party communist
+set_ruling_party monarchist
+annex HOL
+annex FLN
+annex WLS
+annex WLN
+setowner ARm 3
+setowner ARM 3
+setowner ARM 17
+setowner ARM 18
+setowner ARM 29
+annex ARM
+annex FRI
+add_Core 69
+add_Core 74
+add_Core 72
+add_Core 9
+add_Core 75
+add_core 216
+add_core 195
+add_Core 34
+add_Core 6
+add_Core 7
+add_Core 35
+add_Core 36
+add_Core 99
+add_Core 37
+add_Core 774
+tag DEN
+add_Core 89
+add_Core 80
+add_Core 91
+add_Core 88
+add_Core 92
+add_Core 90
+add_Core 10
+setowner POL 93
+tag POL
+annex POL
+ai
+tag POL
+annex GGN
+setowner ARM 97
+setowner ARM 93
+setowner ARM 94
+setowner ARM 95
+setowner ARM 96
+setowner ARM 87
+setowner ARM 98
+setowner ARM 85
+setowner ARM 86
+annex ARM
+tag GER
+setowner GGN 88
+setowner GGN 90
+tag GGN
+annex GGN
+tag BCZE
+tag CZE
+annex CZE
+tag DEN
+setowner POL 774
+annex POL
+add_Core 37 GER
+add_Core 99 GER
+tag HOL
+add-Core 35 GER
+add_Core 35 GER
+add_Core 36 GER
+add_Core 37 GER
+add_Core 6 GER
+add_Core 7 GER
+add_Core 34 GER
+add_Core 18 GER
+add_Core 17 GER
+add_Core 29 GER
+annex HOL
+tag SSO
+tag BGD
+tag BUR
+tag BRG
+annex BRG
+tag FRA
+add_autonomy FRA 1000
+pp
+add_autonomy FRA 1000
+annex FRA
+add_Core 788 GER
+add_Core 16 GER
+add_Core 15 GER
+add_Core 27 GER
+tag BRT
+annex BRT
+tag GER
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+add_Core 94
+add_Core 93
+add_Core 95
+add_Core 96
+add_Core 97
+add_Core 98
+add_Core 204
+add_Core 194
+add_Core 206
+add_Core 207
+add_Core 201
+add_Core 93
+add_Core 199
+add_Core 196
+add_Core 197
+add_Core 198
+add_Core 199
+add_Core 200
+add_Core 201
+add_Core 202
+add_Core 203
+add_Core 204
+add_Core 205
+add_Core 206
+add_Core 207
+add_Core 208
+add_Core 209
+add_Core 210
+add_Core 211
+add_Core 212
+add_Core 213
+add_Core 214
+add_Core 215
+add_Core 216
+add_Core 217
+add_Core 218
+add_Core 219
+add_Core 195
+add_Core 196
+add_Core 197
+add_Core 198
+add_Core 199
+add_Core 220
+add_Core 221
+add_Core 222
+add_Core 223
+add_Core 224
+add_Core 225
+add_Core 226
+add_Core 227
+add_Core 228
+add_Core 229
+add_Core 230
+add_Core 231
+add_Core 232
+add_Core 233
+add_Core 234
+add_Core 235
+add_Core 236
+add_Core 237
+add_Core 238
+add_Core 239
+add_Core 240
+add_Core 241
+add_Core 242
+add_Core 243
+add_Core 244
+add_Core 24
+add_Core 25
+add_Core 26
+add_Core 245
+add_Core 246
+add_Core 247
+add_Core 248
+add_Core 249
+setowner ARM 24
+setowner ARM 25
+setowner ARM 26
+annex ARM
+add_Core 744
+add_Core 151
+add_Core 3
+add_Core 1370
+add_Core 1371 ITA
+add_Core 250
+add_Core 251
+add_Core 252
+add_Core 253
+add_Core 254
+add_Core 255
+add_Core 256
+add_Core 257
+add_Core 258
+add_Core 259
+add_Core 260
+add_Core 261
+add_Core 262
+add_Core 263
+add_Core 264
+add_Core 265
+add_Core 266
+add_Core 267
+add_Core 268
+add_Core 269
+add_Core 270
+add_Core 271
+add_Core 272
+add_Core 273
+add_Core 274
+add_Core 275
+add_Core 276
+add_Core 277
+add_Core 278
+add_Core 279
+add_Core 280
+add_Core 281
+add_Core 282
+add_Core 283
+add_Core 284
+add_Core 285
+add_Core 286
+add_Core 287
+add_Core 288
+add_Core 289
+setowner ARM 282
+setowner ARM 281
+setowner ARM 277
+setowner ARM 273
+setowner ARM 274
+setowner ARM 275
+setowner ARM 276
+setowner ARM 277
+setowner ARM 278
+setowner ARM 279
+setowner ARM 280
+setowner ARM 281
+setowner ARM 282
+setowner ARM 283
+setowner ARM 284
+setowner ARM 285
+setowner ARM 286
+setowner ARM 287
+setowner ARM 288
+setowner ARM 289
+annex ARM+
+annex ARM
+add_Core 193
+setowner ARM 198
+annex ARM
+setowner UKR 198
+tag UKR
+annex UKR
+setowner ROU 203
+setowner RKU 203
+add_core 773 GER
+tag TUR
+add_COre 1339 BUL
+setowner GEO 783
+tag GEO
+annex GEO
+setowner ARM 230
+tag ARM
+annex ARM
+setowner 229 AZR
+annex CAU
+add_Core 783 GER
+tag ITA
+add_Core 273
+add_Core 105
+add_Core 746
+add_Core 103
+add_Core 1352
+add_Core 1365
+tag CRO
+annex CRO
+tag GRE
+annex GRE
+add_Core 184 BUL
+add_Core 1338 BUL
+add_Core 1337 BUL
+add_Core 731 BUL
+add_Core 1335 BUL
+tag ROM
+add_Core 1355 BUL
+add_Core 943 GER
+tag GER
+setowner LEN 195
+setowner PET 195
+tag PET
+annex PET
+setowner MOS 219
+tag MOS
+annex MOS
+setowner PEN 254
+tag PEN
+annex PEN
+setowner ORY 223
+setowner ORO 223
+setowner ORL 223
+tag ORL
+annex ORl
+tag RKM
+tag MSC
+tag MCW
+annex MCW
+setowner PSK 209
+tag PSK
+annex PSK
+setowner SMO 205
+tag MSO
+tag SMO
+annex SMO
+tag MCW
+setowner VOL 217
+tag VOL
+annex VOL
+tag MCW
+annex OSt
+add_Core 863
+add_Core 581
+add_Core 866
+add_Core 406
+add_Core 407
+add_Core 357
+add_Core 401
+add_Core 239
+add_Core 755
+add_Core 652
+add_Core 847
+add_Core 848
+add_Core 849
+add_Core 850
+add_Core 851
+add_Core 852
+add_Core 853
+add_Core 854
+add_Core 855
+add_Core 856
+add_Core 857
+add_Core 858
+add_Core 859
+add_Core 860
+add_Core 861
+add_Core 862
+add_Core 863
+add_Core 864
+add_Core 865
+add_Core 866
+add_Core 867
+add_Core 868
+add_Core 869
+add_Core 870
+add_Core 871
+add_Core 872
+add_Core 873
+add_Core 874
+add_Core 351
+add_Core 397
+add_Core 398
+add_Core 753
+add_Core 273
+tag DOn
+annex DON
+tag KOM
+tag VOr
+tag TWR
+tdebug
+tag WRS
+add_Core 752 GER
+add_Core 399 GER
+add_Core 400 GER
+annex KIR
+annex MIR
+annex ORN
+annex ORE
+tag ORN
+tag ORE
+annex UKH
+annex PRM
+annex URL
+annex ZAR
+annex TAR
+add_Core 651 GER
+add_Core 215
+add_Core 213
+add_Core 896
+tag NOR
+annex NOR
+tag GER
+add_Core 568
+add_Core 758
+add_Core 575
+add_Core 761
+add_Core 516
+add_Core 569
+add_Core 757
+add_Core 654
+add_Core 40
+add_Core 570
+add_Core 578
+add_Core 887
+add_Core 588
+add_Core 888
+add_Core 576
+add_Core 577
+add_Core 578
+add_Core 742
+add_Core 405
+add_Core 585
+add_Core 584
+add_Core 750
+add_Core 586
+add_Core 732
+add_Core 844
+add_Core 579
+add_Core 756
+add_Core 580
+add_Core 845
+add_Core 653
+add_Core 573
+add_Core 754
+add_Core 582
+add_Core 846
+add_Core 402
+add_Core 587
+add_Core 589
+add_Core 404
+add_Core 590
+add_Core 583
+add_Core 572
+add_Core 403
+add_Core 571
+tag TOM
+tag TMS
+tag TSK
+tag TMK
+tag ERS
+annex ISH
+annex TOB
+tag FAV
+annex DER
+annex ORS
+annex UDM
+tag MAN
+add_Core 563
+add_Core 56
+add_Core 561
+setowner ARM 561
+annex ARm
+setowner ARM 56
+annex ARM
+add_Core 561
+add_Core 562
+add_Core 644
+add_Core 637
+add_Core 891
+add_Core 759
+add_Core 889
+add_Core 574
+add_Core 760
+add_Core 565
+add_Core 564
+add_Core 566
+add_Core 567
+add_Core 890
+add_Core add_Core 717 JAP
+add_Core 717 JAP
+add_Core 801 JAP
+add_Core 810 JAP
+add_Core 716 JAP
+add_Core 715 JAP
+add_Core 328 JAP
+add_Core 714 JAP
+add_Core 610 JAP
+add_Core 609 JAP
+add_Core 809
+add_Core 809 JAP
+tag JAP
+add_Core 1094
+add_Core 811
+add_Core 812
+add_Core 813
+add_Core 591
+add_Core 592
+add_Core 593
+add_Core 594
+add_Core 1089
+add_Core 593
+add_Core 729
+add_Core 326
+add_Core 595
+add_Core 596
+add_Core 613
+add_Core 598
+add_Core 597
+add_Core 1093
+add_Core 1092
+add_Core 614
+add_Core 608
+tag CHI
+add_Core 1091 JAP
+add_Core 959 JAP
+add_Core 622
+add_Core 283
+add_Core 906
+add_Core 604
+add_Core 601
+add_Core 964
+add_Core 905
+add_Core 325
+add_Core 960
+add_Core 603
+add_Core 605
+add_Core 599
+tag GXC
+annex GXC
+tag GNG
+annex GNG
+add_Core 616 MEN
+add_Core 764 CHI
+tag XSM
+annex XSM
+tag YAA
+add_Core 956 CHI
+tag MOn
+setowner ARM 815
+annex ARm
+tag SVO
+setowner TAN 330
+tag TAN
+annex TAN
+add_Core 329 MEN
+add_Core 330 MEN
+add_Core814 MEN
+add_Core 814 MEN
+add_core 886 MAN
+add_Core 873
+add_Core 874
+add_Core 842
+add_Core 751
+add_Core 806
+add_Core 805
+add_Core 804
+add_Core 336
+add_Core 803
+add_Core 840
+add_Core 843
+add_Core 802
+add_Core 800
+tag SVo
+tag SYO
+add_Core 333 INS
+add_Core 807 INS
+add_Core 808 INS
+tab BUR
+tab BRM
+tab BRG
+tab BUR
+tag BUR
+add_Core 872
+taG BEN
+tag AFG
+add_Core 267
+add_Core 323 BEN
+tag NEP
+annex nEP
+annex RAJ
+tag GER
+add_Core 765 CHI
+add_Core 324 CHI
+add_Core 322 CHI
+add_Core 958 CHI
+add_Core 619 CHI
+add_Core 957 CHI
+add_Core 617 CHI
+add_Core 618 CHI
+tag ETR
+annex SIK
+setowner SIK 604
+tag SIK
+annex SIK
+tag MEN
+add_Core 434 CHI
+nocb
+yesman
+tag BEN
+tag PER
+add_Core 266
+tag JAp
+ic
+add_Core 93
+add_Core 94
+add_Core 95
+add_Core 96
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+add_Core 79
+add_Core 766
+add_Core 78
+add_Core 80
+add_Core 89
+add_Core 91
+add_Core 784
+ic
+tag POL
+add_Core 762 GER
+add_Core 85 GER
+add_Core 86 GER
+add_Core 99 GER
+tag DEN
+setowner ALG 99
+annex ALG
+tag SOV
+add_core 241
+add_core 194
+add_core 11
+add_core 12
+add_core 13
+add_core 189
+add_core 190
+add_core 191
+add_core 188 GER
+tag ROM
+add_Core 87 HUN
+add_Core 77 BUL
+add_Core 76 HUN
+tag POL
+setonwer ALG 85
+setowner ALG 85
+setowner ALG 86
+setowner ALG 762
+annex ALG
+add_Core 87
+add_Core 89
+add_Core 91
+add_Core 92
+add_Core 93
+add_Core 94
+add_Core 95
+add_Core 784
+setowner ALG 89
+setowner ALG 91
+setowner ALG 92
+setowner ALG 93
+setowner ALG 94
+setowner ALG 95
+setowner ALG 784
+annex ALG
+tag SOV
+add_core 89
+add_core 91
+add_core 92
+add_core 93
+add_core 94
+add_core 95
+add_core 96
+add_core 784
+add_core 204
+add_core 206
+add_core 207
+add_core 230
+add_core 231
+add_core 229
+add_core 78
+add_core 766
+add_core 192
+add_core 198
+add_core 199
+add_core 91
+add_core 89
+add_core 201
+add_core 202
+add_core 203
+add_core 204
+add_core 205
+add_core 206
+add_core 207
+add_core 208
+add_core 197
+add_core 190
+add_core 191
+add_core 192
+add_core 193
+add_core 194
+add_core 195
+add_core 196
+add_core 197
+add_core 198
+add_core 199
+add_core 200
+add_core 201
+add_core 202
+add_core 203
+add_core 204
+add_core 205
+add_core 206
+add_core 207
+add_core 208
+add_core 227
+add_core 228
+add_core 221
+add_core 226
+add_core 259
+add_core 225
+add_core 406
+add_core 407
+add_core 402
+add_core 586
+add_core 587
+add_core 588
+add_core 589
+add_core 404
+add_core 402
+add_core 583
+add_core 590
+add_core 732
+add_core 742
+add_core 405
+add_core 585
+add_core 584
+tag KAZ
+annex LIT
+annex EST
+annex LAT
+add_Core 664
+add_Core 73
+add_Core 45
+add_Core 104 CRO
+add_Core 163 CRO
+add_Core 184 BUL
+tag GRE
+add_Core 106
+tag YUG
+tag ALB
+annex YUG
+setowner BOS 104
+tag BOs
+annex BOS
+add_Core 102 AUS
+setowner ARM 736
+annex ARM
+setowner ARM 45a
+setowner ARM 45
+annex ARM
+setowner ARM 102
+setowner YUG 102
+tag YUG
+annex YUG
+annex SER
+annex CRO
+annex MNT
+tag XSM
+add_Core 69 AUS
+add_Core 74 AUS
+tag CZE
+setowner ARM 73
+setowner ARM 664
+setowner ARM 74
+setowner ARM 69
+annex ARM
+tag SHX
+setowner ARm 564
+setowner ARM 564
+annex ARm
+setowner ARM 615
+setowner ARM 746
+setowner ARM 621
+annex ARM
+tag XSM
+setowner ARM 564
+annex ARm
+setowner ARm 753
+setowner ARM 753
+setowner ARM 283
+setowner ARM 616
+setowner ARM 755
+setowner ARM 756
+setowner ARM 754
+setowner ARM 604
+annex ARM
+tag YUN
+setowner ARM 564
+annex ARM
+setowner ARM 325
+annex ARM
+setowner ARM 747
+annex ARM
+tag GXC
+setowner ARM 564
+annex ARM
+setowner ARM 593
+setowner ARM 592
+setowner ARM 591
+setowner ARM 594
+annex ARM
+setowner ARM 599
+annex ARM
+taG PRC
+research_on_icon_click
+Focus.autocomplete
+Focus.nochecks
+ic
+Focus.autocomplete
+Focus.nochecks
+xp
+cp
+allowtraits
+^allowtraits
+cp
+^allowtraits
+allowtraits
+ic
+tag CHI
+ic
+tag XSM
+tag SHX
+tag PRC
+pp
+^manpower 12390
+manpower 123190
+Focus.autocomplete
+annex SHX
+annex xSM
+tag CHIO
+tag CHI
+annex GXC
+annex YUN
+tag PRC
+ic
+annex SIK
+ic
+add_Core 329 MON
+decision.nochecks
+ae 1
+ae
+ale 1
+decision.nochecks
+Focus.autocomplete
+ic
+add_Core 322
+add_Core 757
+add_Core 758
+ic
+tdebug
+nocb
+delall AUS
+op
+manpower 123931
+manpower 1239310
+ic
+research_on_icon_click
+ic
+focus.autocomplete
+focus.nochecks
+focus.autocomplete
+research_on_icon_click
+ic
+^xp
+xp
+manpower
+ale
+ale 10000000000
+ale 10000000
+nocb
+op
+delall CNM
+tdebug
+delall EQC
+op
+tdebug
+op
+dellal EQU
+dellal EQI
+dellal EQS
+dellal EST
+tdebug
+dellal EQS
+delall EQS
+op
+ic
+annex YAK
+annex CHA
+annex CHN
+tdebug
+annex PLB
+annex PIN
+annex PNG
+annex GFF
+tdebug
+^op
+annex BHU
+annex DRA
+annex DRG
+tag EQ
+tag EQS
+tdebug
+set_Ruling_party n
+set_Ruling_party d
+set_Ruling_party c
+set_Ruling_party f
+set_Ruling_party d
+Focus.autocomplete
+Focus.nochecks
+research_on_icon_click
+tag GER
+ic
+tag GER
+xp
+add_Core 762
+add_Core 85
+add_Core 86
+add_Core 188
+add_Core 99
+add_Core 28
+tag POL
+setowner ARM 762
+setowner ARM 86
+setowner ARM 85
+annex ARM
+tag TUR
+Focus.autocomplete
+Focus.nochecks
+decision.nochecks
+tag ROM
+add_Core 76 HUN
+tdebug
+add_Core 77 BUL
+tdebug
+add_Core 766
+add_Core 192
+add_Core 198
+add_Core 78
+tdebug
+tag UKR
+tdebug
+setowner ARM 228
+setowner ARM 227
+setowner ARM 221
+setowner ARM 225
+setowner ARM 193
+setowner ARM 202
+setowner ARM 201
+setowner ARM 199
+setowner ARM 198
+setowner ARM 192
+setowner ARM 197
+setowner ARM 203
+setowner ARM 226
+setowner ARM 19
+setowner ARM 196
+annex ARM
+setowner ARM 200
+setowner ARM 137
+setowner ARM 259
+annex ARm
+setowner ARM 241
+setowner ARM 207
+setowner ARM 204
+setowner ARM 205
+setowner ARM 206
+setowner ARM 194
+annex ARM
+add_Core 89 SOV
+add_Core 91 SOV
+add_Core 93 SOV
+add_Core 94 SOV
+add_Core 95 SOV
+add_Core 96 SOV
+add_Core 229
+add_Core 230
+add_Core 231
+add_Core 406
+add_Core 407
+add_Core 502
+add_Core 587
+add_Core 585
+add_Core 586
+add_Core 584
+add_Core 405
+add_Core 742
+add_Core 732
+add_Core 589
+add_Core 588
+add_Core 590
+add_Core 583
+add_Core 402
+add_Core 404
+tag AZR
+tag SOV
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+add_Core 784
+tag LIT
+setowner ARM 11
+setowner ARM 189
+annex ARM
+tag LAT
+setowner ARM 188
+annex ARM
+setowner ARM 12
+setowner ARM 190
+annex ARm
+tag EST
+setowner ARM 188
+annex ARm
+setowner ARM 13
+setowner ARM 191
+annex ARM
+tag DEN
+setowner ARM 99
+annex ARM
+tag POL
+setowner ARM 96
+setowner ARM 95
+setowner ARM 94
+setowner ARM 93
+setowner ARM 92
+setowner ARM 91
+setowner ARM 784
+annex ARM
+setowner ARM 89
+annex ARM
+tag MOL
+add_Core 184 BUL
+add_Core 106
+add_Core 792
+tag ALB
+tag YUG
+tag ITA
+setowner ARM 102
+annex ARM
+add_Core 550 AOI
+add_Core 559 AOI
+tag SOM
+tag AOI
+annex AOI
+add_Core 271
+add_Core 547
+add_Core 269
+add_Core 268
+tag FRA
+annex ALG
+tag DIJ
+tag DJI
+setowner SOM 269
+tag SOM
+annex SOM
+add_Core 1
+add_Core 116
+add_Core 103
+add_Core 163
+annex AOI
+tag YUG
+add_Core 109
+add_Core 104
+add_Core 103
+add_Core 105
+add_Core 764
+add_Core 107
+add_Core 108
+tag MAC
+add_Core 104 CRO
+add_Core 45
+add_Core 45 HUn
+add_Core 45 HUN
+setowner ARM 45
+annex ARm
+add_Core 102 AUS
+add_Core 736 ITA
+annex CRO
+annex MNT
+tag SER
+tag YUG
+add_Core 103
+add_Core 105 ITA
+setowner CRO 103
+annex CRO
+annex SER
+setowner ARm 102
+setowner ARM 102
+annex ARm
+tag AUS
+
+add_Core 736
+add_Core 39
+add_Core 69
+add_Core 74
+tag CZE
+add_Core 664 HUN
+add_Core 73 HUN
+setowner ARM 664
+setowner ARM 73
+setowner ARM 76
+setowner ARM 75
+setowner ARM 74
+setowner ARM 69
+annex ARM
+setowner ARM 664
+setowner ARM 73
+annex ARM
+tag ROM
+setowner ARM 76
+annex ARm
+tag GER
+add_Core 39
+add_COre 69
+add_COre 74
+add_COre 39
+add_COre 153
+add_COre 154
+add_COre 152
+add_COre 4
+setowner ARM 154
+annex ARm
+add_Core 151
+add_Core 3
+pp
+manpower
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+ic
+tag LIT
+setowner ARM 188
+annex ARM
+tag GEr
+fuel
+fuel 100000
+fuel 10000000000
+fuel 1000000
+fuel 100000
+add_Core 118 SPR
+tag USA
+add_Core 739
+add_Core 740
+add_Core 741
+setowner ARM 741
+annex ARm
+add_Core 483
+add_Core 484
+add_Core 468
+add_Core 465
+add_Core 464
+add_Core 33
+add_Core 331
+add_Core 332
+setowner ARm 33
+annex ARm
+setowner ARM 33
+annex ARm
+add_Core 730
+add_Core 466
+add_Core 276
+add_Core 682
+add_Core 683
+add_Core 467
+add_Core 469
+add_Core 472
+add_Core 470
+add_Core 473
+add_Core 471
+add_Core 463
+tag MEX
+add_Core 474 GUA
+add_Core 475 GUA
+tag CAN
+setowner ARM 331
+setowner ARM 332
+annex ARM
+annex CAN
+tag XSM
+
+annex XSM
+tag SHX
+tag GXC
+annex GXC
+annex YUn
+annex CAM
+add_Core 323 RAj
+add_Core 323 RAJ
+tag NEP
+annex NEP
+add_Core 44 ITA
+tag FRA
+setowner ARM 1
+annex ARm
+tag POR
+add_Core 721 INS
+tag SPR
+setowner ARM 118
+setowner ARM 462
+setowner ARM 461
+annex ARM
+tag PRU
+add_Core 305
+add_Core 649
+add_Core 486
+add_Core 307
+add_Core 487
+add_Core 489
+add_Core 493
+add_Core 306
+tag ARG
+add_Core 302
+add_Core 506
+add_Core 279
+add_Core 507
+add_Core 300
+add_Core 502
+add_Core 501
+tag URG
+annex URG
+add_Core 487
+add_Core 688
+add_Core 301
+add_Core 488
+tag PAR
+annex BOL
+annex CHL
+tag VEN
+annex VEN
+annex COL
+annex ECU
+tag GER
+^cp
+cp
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+tdebug
+Focus.autocomplete
+nocb
+tdebug
+add_Core 89 SLO
+add_Core 91 SLO
+add_Core 80 SLO
+add_Core 88 SLO
+tdebug
+annex LIT
+annex LAT
+annex EST
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+tag AUS
+add_party_popularity n 100
+tag CZE
+add_party_popularity n 100
+tag GER
+tag AUS
+tag GER
+tdebug
+Focus.autocomplete
+tag ITA
+add_party_popularity n 40
+add_party_popularity n 10
+tag GER
+Focus.autocomplete
+tag AUS
+tag GEr
+add_Core 89 AUS
+add_Core 80 AUS
+add_Core 104 AUS
+add_Core 103 AUS
+add_Core 163 AUS
+add_Core 84 AUS
+add_Core 83 AUS
+add_Core 82 AUS
+add_Core 109 AUS
+add_Core 91 AUS
+add_Core 88 AUS
+annex SLO
+nocb
+tag AUS
+tag GER
+nocb
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+op
+delall ENG
+op
+delall ENG
+annex SWI
+decision.nochecks
+debug
+tdebug
+setowner VIN 741
+setowner VIN 670
+annex VIN
+annex MAL
+annex INS
+tdebug
+add_Core 741 INS
+add_Core 670 INS
+tdebug
+tag FRA
+research_on_icon_click
+ic
+manpower 123890
+setowner NIR 119
+tag NIR
+annex NIR
+tag SOV
+add_Core 655 JAP
+add_Core 537 JAP
+tag AUS
+set_ruling_party f
+set_ruling_party c
+set_ruling_party d
+tag FRA
+tag ENG
+tag JAP
+add_Core 326
+add_Core 524
+add_Core 728
+add_Core 729
+add_Core 591
+add_Core 592
+add_Core 593
+add_Core 594
+add_Core 595
+add_Core 596
+add_Core 613
+add_Core 597
+add_Core 598
+add_Core 599
+add_Core 614
+add_Core 608
+add_Core 609
+add_Core 716+#
+add_Core 716
+add_Core 745
+add_Core 328
+add_Core 717
+add_Core 714
+add_Core 761
+add_Core 715
+add_Core 610
+tag GER
+cp
+allowtraits
+cp
+tdebug
+ic
+tag ITA
+tag GER
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+ic
+^tp
+tp
+nocb
+yesman
+nocb
+^tp
+^^p
+tp
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+tdebug
+add_Core 743 JAP
+tdebug
+add_Core 736
+add_Core 102
+ic
+tag JAP
+focus.autocomplete
+tag GER
+tag JAP
+annex PRC
+ai
+annex CHI
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+tag GER
+ai
+tag JAP
+annex SIK
+ai
+annex SIK
+annex MAN
+annex SIK
+tag CHI
+tdebug
+setowner ARM 615
+setowner ARM 622
+setowner ARM 283
+setowner ARM 753
+setowner ARM 755
+setowner ARM 754
+setowner ARM 755
+annex ARM
+tag GER
+tag CHI
+setowner ARM 604
+annex ARM
+tag GER
+tdebug
+tag JAP
+ai
+tag CHI
+add_autonomy CHI 1000
+pp
+add_autonomy CHI 1000
+tag JAP
+tdebug
+ssetowner ARM 598
+setowner ARM 598
+setowner ARM 597
+setowner ARM 614
+setowner ARM 608
+annex ARM
+setowner ARM 594
+annex ARM
+tag NOR
+ic
+tag GER
+ic
+tag CZE
+add_party_popularity f 100
+tag GER
+ic
+tag SOV
+tag GER
+Focus.autocomplete
+annex CRO
+Focus.autocomplete
+tag ITA
+annex CRO
+add_Core 103
+setowner ARM 103
+annex ARm
+tag GER
+delall ETH
+tag ITA
+tag GER
+setowner ARM 103
+annex ARM
+^ic
+ic
+tag SOV
+ic
+add_Core 80
+ic
+tag GER
+tag SOV
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+tag POL
+ai
+tag SOV
+
+Focus.autocomplete
+tag GER
+tag SOV
+tag GER
+tp
+tag LBA
+manpower 123809
+tag AOI
+tag GEr
+tag LBA
+tag GER
+ai
+tag LBA
+tag GER
+Tag SOV
+annex LAT
+annex EST
+tag GER
+tag FRA
+tag ENG
+tag SOV
+tag GER
+tag SOV
+tag GER
+tag TUR
+pp
+add_party_popularity n 100
+add_party_popularity f 33
+set_ruling_party n
+tag GER
+tag TIB
+tag GER
+tag TIB
+tag JAP
+tag GER
+yesman
+tag ROM
+ai
+tag SOV
+tag ROM
+nocb
+tag SOV
+tag GER
+ai
+Focus.autocomplete
+nocb
+yesman
+tag SIA
+tag JAp
+tag GER
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+delall DEN
+op
+annex DEN
+tdebug
+add_Core 1217
+add_Core 229
+add_Core 230
+add_Core 231
+add_Core 1239
+add_Core 1238
+add_Core 1119
+add_Core 1120
+add_Core 1121
+add_Core 1237
+add_Core 1118
+add_Core 1117
+add_Core 232
+add_Core 1216
+add_Core 1123
+add_Core 233
+add_Core 1115
+tag CIR
+annex CIR
+annex CAU
+add_Core 1008 PER
+annex GEO
+add_COre 655 TSH
+add_Core 732
+add_Core 742
+add_Core 586
+add_Core 405
+add_Core 585
+add_Core 584
+add_Core 1319
+add_Core 587
+add_party_popularity autocrat 20
+add_party_popularity autocracy 10
+add_party_popularity communism 10
+add_party_popularity communist 10
+add_party_popularity vanguard_communism 10
+add_Core 146
+add_Core 150
+add_Core 111
+add_Core 149
+add_Core 148
+add_Core 722 FIN
+add_Core 213 FIN
+add_Core 215 FIN
+add_Core 147 FIN
+add_Core 216 FIN
+annex FIN
+tag AUS
+add_Core 1271 HUN
+add_Core 1320 HUN
+add_Core 1233
+add_Core 1010
+add_Core 74
+add_Core 69
+add_Core 72 GLM
+add_Core 1321 GLM
+tag BOH
+tag HUn
+add_Core 743
+add_Core 45
+tag CRO
+add_Core 1208
+add_Core 1272
+add_Core 1207
+add_Core 104
+add_Core 1206
+add_Core 1205
+add_Core 1204
+add_Core 1202
+add_Core 1942
+add_Core 942
+add_Core 1203
+tag SER
+annex SER
+tag BOS
+annex BOS
+add_Core 749
+add_Core 453
+add_Core 1197
+add_Core 164
+add_Core 187
+pp
+add_Core 957 BUL
+add_Core 1275 BUL
+add_Core 341 BUL
+tag IO
+tag IOA
+tag ION
+annex ION
+add_Core 184 BUL
+add_Core 1199 BUL
+add_COre 106
+tag OTO
+add_Core 44 ALB
+add_core 656
+add_core 679
+add_core 293
+add_core 917
+add_core 1004
+
+tag MCD
+add_Core ALB 1201
+add_Core 1201 ALB
+annex MNT
+add_Core 1202
+add_Core 1204
+add_Core 1202 AUS
+add_Core 1204 AUS
+add_Core 942 AUS
+add_Core 942
+add_Core 1203
+add_Core 1203 AUS
+setowner ISR 1202
+setowner ISR 1204
+setowner ISR 942
+setowner ISR 1203
+annex ISR
+add_COre 1127 GLM
+add_COre 1127 AUS
+tag AUS
+add_Core 1208
+add_Core 1272
+add_Core 1205
+add_Core 970
+add_Core 1206
+add_Core 1207
+add_Core 104
+add_Core 103
+add_Core 163
+add_Core 1011
+add_Core 109
+add_Core 75
+add_Core 9
+add_Core 72
+add_Core 1321
+add_Core 88
+add_Core 89
+add_Core 80
+add_Core 1055
+add_Core 1055 GLM
+add_Core 91
+add_Core 84
+add_Core 83
+add_Core 85
+setowner ISR 85
+annex ISR
+setowner ISR 967
+setowner ISR 76
+setowner ISR 82
+setowner ISR 743
+setowner ISR 1320
+setowner ISR 45
+setowner ISR 71
+setowner ISR 70
+tag HUN
+annex ISR
+tag AUS
+add_COre 82
+add_COre 743
+add_COre 1320
+add_COre 45
+add_COre 154
+add_COre 155
+add_COre 43
+add_COre 73
+add_COre 664
+add_COre 71
+add_COre 70
+add_COre 967
+annex HUN
+annex CRO
+annex CZE
+annex BHM
+annex GLM
+annex BOH
+tag MOL
+setowner SOV 570
+tag SOV
+annex SOV
+add_Core 121 SCO
+add_Core 133 SCO
+add_Core 136 SCO
+add_Core 120 SCO
+add_core 122 WAL
+add_core 122 WLS
+tag DEN
+setowner WLS 1032
+annex WLS
+add_Core 99 SCH
+add_Core 745 HAN
+add_Core 1060 HAN
+tag AFG
+add_Core 445
+add_Core 1000
+add_Core 442
+add_Core 999
+add_Core 444
+add_Core 410 PER
+tag KLT
+annex KLT
+annex RAJ
+add_Core 288 BRM
+add_Core 430 BRM
+add_Core 432 BRM
+add_Core 434 CHI
+tag SRS
+annex SRS
+add_Core 323 RAJ
+annex NEP
+annex OUD
+annex GWA
+annex TRA
+tag HYD
+annex GYD
+annex HYD
+annex BIK
+annex REW
+annex KAR
+add_Core 440 REW
+tag RAJ
+add_Core 440 PUN
+add_Core 443 SND
+annex KAS
+add_Core 441 JAM
+add_Core 441 JMK
+add_Core 441 JKS
+add_Core 441 JMU
+add_Core 441 KAS
+tag PAK
+annex KHI
+annex KOK
+annex BUK
+tag CHI
+add_Core 324
+add_Core 324 TIB
+tag MAN
+annex MAN
+add_COre 329 MON
+add_COre 329
+tag TAI
+annex TAI
+annex PTH
+annex NIE
+add_Core 409 RUS
+add_Core 657 RUS
+add_Core 560 RUS
+add_Core 561 RUS
+add_Core 1244 RUS
+add_Core 1250 RUS
+add_Core 1249 RUS
+add_Core 1247 RUS
+add_Core 1248 RUS
+add_Core 1246 RUS
+add_Core 124 RUS
+add_Core 1245 RUS
+add_Core 408 RUS
+add_COre 1229 TSH
+add_COre 524 TSH
+add_Core 595
+add_Core 593
+add_Core 613
+add_Core 606
+annex NIE
+op
+tag HVL
+tag TAI
+add_Core 943 RUS
+add_Core 946 RUS
+add_Core 945 RUS
+add_Core 944 RUS
+tag TAN
+annex TAN
+annex BHU
+annex KUW
+annex YEM
+op
+annex HJZ
+add_Core 292 NJD
+annex JBS
+annex JSH
+add_Core 1003 BER
+add_Core 1003 BRL
+add_Core 1003 BRN
+add_Core 1003 BLN
+add_Core 1003 BLRI
+add_Core 1003 BRI
+setowner BRI 1003
+tag BRI
+annex BRI
+tag PRS
+add_Core 8
+add_Core 978
+add_Core 28
+add_Core 42
+add_Core 1035
+tag OLD
+annex OLD
+add_Core 1317 BEL
+tag BEL
+setowner ARM 978
+annex ARM
+tag BAV
+tag FRA
+add_Core 35
+add_Core 1316
+add_Core 35 BEL
+add_Core 1316 BEL
+tag HOL
+tag FRA
+add_Core 977
+add_Core 6
+add_Core 1317
+add_Core 34
+annex BEL
+setowner LUX 51
+setowner LUX 984
+setowner LUX 42
+setowner LUX 1035
+setowner LUX 978
+setowner LUX 28
+annex LUX
+add_Core 735
+add_Core 822
+setowner ITA 117
+tag ITA
+annex ITA
+add_COre 117
+add_COre 156
+add_COre 997
+add_COre 115
+add_COre 812
+add_COre 2
+add_COre 751
+add_COre 114
+add_COre 1
+add_COre 822
+add_COre 735
+add_COre 158
+add_COre 981
+add_COre 159
+annex PIE
+add_Core 114
+add_Core 162
+add_Core 787
+tag SNM
+annex SNM
+add-COre 157 ITA
+add_COre 157 ITA
+add_Core 161 ITA
+tp
+add_Core 785 ITA
+add_Core 116 ITA
+tag TIS
+tag TUS
+annex TUS
+add_Core 808 ITA
+add_Core 813 ITA
+annex PRM
+annex MOD
+annex NSC
+add_Core 158
+add_Core 822
+add_Core 1153
+add_Core 1153 FRA
+add_Core 981
+add_Core 735
+add_Core 979
+add_Core 980
+add_Core 979 LVN
+tag PIE
+annex PIE
+tag ITA
+add_Core 160
+add_Core 982
+setowner ROM 446
+tag ROM
+annex ROM
+annex MOL
+pp 50
+add_Core 79
+add_Core 791
+add_Core 78
+tag RUS
+setower GER 9
+setowner GER 9
+tag GER
+annex GER
+tag FAL
+tag ALG
+add_Core 513
+add_Core 514
+tag KAG
+annex BABA
+annex BAB
+tag SEM
+annex SEM
+add_Core 1281 USA
+add_Core 1280 USA
+add_Core 1279 USA
+add_Core 1293 USA
+add_Core 1278 USA
+add_Core 1283 USA
+add_Core 471
+add_Core 472
+add_Core 463
+add_Core 739
+add_Core 740
+add_Core 473
+add_Core 470
+add_Core 469
+add_Core 467
+add_Core 683
+add_Core 682
+add_Core 466
+add_Core 331
+add_Core 332
+add_Core 468
+add_Core 464
+add_Core 465
+add_Core 1311
+add_Core 1310
+add_Core 276
+add_Core 1075
+add_Core 1292
+add_Core 1282
+add_Core 381
+add_Core 1048
+add_Core 1047
+add_Core 1045
+add_Core 1290
+add_Core 1046
+add_Core 1050
+add_Core 1052
+add_Core 1051
+add_Core 1298
+add_Core 1299
+add_Core 1291
+add_Core 387
+add_Core 1289
+add_Core 1296
+add_Core 379
+add_Core 380
+add_Core 382
+add_Core 1092
+add_Core 376
+add_Core 1288
+add_Core 1302
+add_Core 1295
+add_Core 1301
+add_Core 1294
+add_Core 1286
+add_Core 1287
+tag NAV
+annex UTA
+annex CHY
+add_Core 1049 USA
+annex SIX
+annex NZE
+annex NEZ
+add_Core 1073 USA
+annex QCI
+annex NWT
+add_Core 1137 USA
+annex VAN
+annex BCO
+annex HBC
+^
+annex NVS
+annex CAN
+annex BRK
+annex NFL
+add_Core 475 GUA
+add_Core 474 GUA
+add_Core 483 USA
+add_Core 484 USA
+tag RUS
+tag PRS
+add_core 1034
+add_core 61
+add_core 60
+add_core 1033 WUR
+tag MCK
+annex MCK
+annex THU
+add_Core 55 PRS
+add_Core 1061 PRS
+add_Core 870 PRS
+annex HES
+annex HSD
+tag PRS
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+pp
+set_ruling_party autocracy
+set_ruling_party taditional_conservatism
+set_ruling_party traditional_conservatism
+pp
+ws 100
+ic
+research_on_icon_click
+manpower
+ic
+tag PRS
+xp
+tag AUS
+tag BAV
+tag BAD
+tag WUT
+tag WUER
+tag WUR
+tag HAN
+tag SCH
+tag HAN
+tag PRS
+cp
+tag ARG
+tdebug
+add_Core 502
+decision.nochecks
+add_Core 110
+add_Core 1100
+setowner ARM 110
+annex ARm
+add_Core 1062
+add_Core 1139
+add_Core 302
+add_Core 923
+add_Core 1085
+add_Core 1924
+add_Core 924
+add_Core 1086
+add_Core 1087
+add_Core 1088
+add_Core 1089
+add_Core 1080
+add_Core 1084
+add_Core 1083
+add_Core 1105
+tag PUE
+annex PUE
+add_Core 487 BRA
+add_Core 753 BRA
+add_Core 688 BRA
+annex PAR
+add_Core 301 ARG
+add_Core 1068 ARG
+add_Core 1072 BRA
+add_Core 1138 BRA
+add_Core 1071 BRA
+add_Core 1069 BRA
+add_core 1063
+add_core 1063 BRA
+add_Core 495
+add_Core 927
+tag PRU
+
+tag  PRR
+tag PRR
+annex PRR
+add_Core 486
+add_Core 490
+add_Core 305
+add_Core 649
+add_Core 306
+add_Core 493
+add_Core 306
+add_Core 307
+add_Core 489
+add_Core 694
+add_Core 695
+add_Core 694 CUB
+tag URG
+annex URG
+add_Core 1094 BRA
+add_Core 1094 ARG
+add_Core 1095 ARG
+add_Core 1096 ARG
+add_Core 1082 ARG
+add_Core 1081 ARG
+add_Core 1097 ARG
+add_Core 300 ARG
+add_core 687 BRA
+add_core 691 PRU
+add_core 692 CUB
+add_core 308 CUB
+add_core 689 CUB
+add_core 693 CUB
+add_core 690 CUB
+tp
+add_Core 311 GUA
+tag VEN
+annex VEN
+add_Core 488 BRA
+annex ECU
+annex COL
+add_Core 304 PAN
+add_Core 685 PAN
+anneX CHL
+tag WLL
+annex WLL
+add_Core 1104 ARG
+add_Core 1103 ARG
+add_Core 1090 ARG
+add_Core 1095 ARG
+add_Core 1094 ARG
+add_Core 1098 ARG
+tag BUE
+annex BUE
+add_COre 686
+add_COre 1318
+add_COre 319
+add_COre 318
+add_COre 790
+tag HAI
+annex HAI
+annex DOM
+tp
+tag HOL
+add_Core 309 BRA
+tag FRA
+add_Core 310 BRA
+taG SIA
+add_COre 670 VIN
+add_COre 994
+add_COre 991
+add_COre 990
+add_COre 741 VIN
+add_COre 995 VIN
+add_Core 925
+add_Core 926
+add_Core 922
+add_Core 336
+tag CAM
+annex CAM
+add_Core 918 IND
+add_Core 918 INS
+add_Core 1184 INS
+add_Core 1185 INS
+tag JOH
+annex JOH
+annex NOR
+tag EGY
+setowner ARM 4546
+setowner ARM 446
+annex ARm
+tag PRS
+tag SNG
+add_Core 557
+add_Core 835
+add_Core 771
+add_Core 774
+add_Core 770
+add_Core 848
+add_Core 556
+add_Core 788
+add_Core 789
+add_Core 772
+add_Core 856
+add_Core 786
+add_Core 857
+add_Core 860
+tag MOS
+annex MOS
+add_Core 850 SNG
+adD_Core 855 SNG
+add_Core 515 GBS
+add_Core 849 SNG
+add_Core 762 SNG
+add_Core 761
+add_Core 760
+add_Core 298
+add_Core 763
+add_Core 765
+add_Core 764
+add_Core 766
+add_Core 700
+add_Core 852
+add_Core 767
+add_Core 773
+add_Core 854
+add_Core 853
+add_Core 858
+add_Core 859
+add_Core 863
+add_Core 701
+add_Core 862
+add_Core 861
+add_Core 806
+add_Core 864
+add_Core 865
+tag MSN
+add_Core 296 SNG
+tag KAB
+add_Core 851 SNG
+add_Core 1109 SNG
+tdebug
+add_Core 864
+add_Core 865
+add_Core 858
+add_Core 854
+add_Core 859
+add_Core 701
+add_Core 296
+add_Core 851
+add_Core 852
+add_Core 853
+add_Core 854
+add_Core 773
+add_Core 767
+add_Core 700
+add_Core 765
+add_Core 764
+add_Core 763
+add_Core 766
+add_Core 760
+add_Core 298
+add_Core 761
+add_Core 849
+add_Core 762
+add_Core 850
+tag BAM
+add_COre 855 SNG
+add_Core 1109 SNG
+tag TOU
+add_COre 863 SNG
+add_Core 862 SNG
+add_Core 806 SNG
+add_Core 86^1 SNG
+add_Core 861 SNG
+tag MOR
+add_Core 837 ALG
+add_Core 836 SNG
+add_Core 1029
+add_Core 1030
+add_Core 178
+tag TUG
+add_core GBS 515
+add_Core 515 GBS
+tag SKT
+add_Core 871
+add_Core 558
+add_Core 872
+add_Core 800
+add_Core 874
+add_Core 796
+add_Core 798
+tag GBS
+add_Core 660
+add_Core 838
+add_Core 832
+add_Core 539
+add_Core 893
+add_Core 88ß
+add_Core 880
+add_Core 876
+add_Core 794
+add_Core 883
+add_Core 877
+add_Core 878
+add_Core 793 KON
+tag KBO
+annex BRG
+annex ARO
+annex IJB
+annex OYO
+add_autonomy GBS 1000
+pp
+add_autonomy GBS 1000
+add_Core 886
+add_autonomy GBS -1000
+tag ENG
+tag SAF
+add_Core 1150
+add_Core 783
+add_Core 784
+add_Core 782
+add_Core 779
+add_Core 803
+add_Core 802
+add_Core 801
+add_Core 1070
+add_Core 776
+add_Core 777
+add_Core 747
+add_Core 781
+add_Core 780
+add_Core 775
+add_Core 778
+add_Core 1147
+add_Core 1146
+add_Core 1148
+add_Core 1067
+tag GBS
+add_Core 839
+tag BAG
+add_Core 885
+add_Core 890
+add_Core 889
+add_Core 881
+add_Core 879
+add_Core 891
+tag KTA
+tag BLU
+add_Core 297 GBS
+annex MOR
+add_COre 847 ASH
+add_COre 769 SNG
+tag DAH
+tag ENG
+annex SKT
+annex ASH
+tag LBA
+tdebug
+add_Core 524
+setowner ARM 524
+annex ARM
+add_Core 1013
+add_Core 1014
+add_Core 665
+add_Core 1012
+add_Core 458
+annex TUN
+add_Core 273
+annex SNS
+tag KON
+add_Core 892
+add_Core 937
+add_Core 887
+add_Core 1215
+add_Core 875
+add_Core 898
+add_Core 901
+add_Core 884
+add_Core 900
+add_Core 899
+add_Core 718
+add_Core 295
+add_Core 538
+add_Core 882
+tag HMB
+add_Core 829
+add_Core 830
+add_Core 1214
+add_Core 541
+add_Core 828
+add_Core 827
+add_Core 933 ANG
+add_Core 932 ANG
+add_Core 540 ANG
+add_Core 935 KON
+add_Core 934 ANG
+add_Core 936 ANG
+tag AHR
+add_Core 1212 ANG
+pp 100
+tag KVB
+tag KVG
+annex ANG
+tag ETH
+add_Core 983
+add_Core 550
+add_Core 821
+add_Core 559
+add_Core 559^GLD
+add_Core 559GLD
+add_Core 559 GLD
+add_Core 269
+add_Core 268
+add_Core 818
+add_Core 819
+add_Core 271
+add_COre 817 EGY
+add_Core 820
+add_Core 913
+add_Core 912
+add_Core 914
+tag MAJ
+annex HRR
+annex MED
+annex AWS
+annex GLD
+tag BDA
+add_COre 833 GBS
+add_COre 834GBS
+add_COre 834 GBS
+add_Core 833
+add_Core 834
+setowner ARM 834
+setowner ARM 833
+annex ARM
+add_core 544 MZB
+tag MZV
+tag MZB
+add_Core 930
+add_Core 928
+add_Core 844
+setowner GER 64
+tag GER
+annex GER
+tag SAF
+setowner SAF 1149
+annex SAF
+add_Core 1149
+add_Core 841
+add_Core 542
+add_Core 840
+add_Core 844
+add_Core 843
+add_Core 842
+add_Core 1143
+add_Core 1145
+add_Core 1144
+add_Core 275
+add_Core 1142
+add_Core 1141
+add_Core 1140
+tag TRV
+annex TRV
+annex OFS
+annex ZUL
+annex SOT
+annex NAT
+annex GQE
+add_Core 929 ZAN
+add_Core 908
+add_Core 904
+add_Core 905
+add_Core 546
+add_Core 826
+add_Core 906
+add_Core 896
+add_Core 907
+add_Core 897
+annex BUG
+tag NYW
+annex MOM
+add_Core 910
+add_Core 906
+add_Core 547
+add_Core 911
+add_Core 912
+add_Core 914
+add_Core 913
+add_Core 915
+tag TKN
+
+add_Core 909
+add_Core 903
+add_Core 902
+tag TOR
+add_COre 826 MOM
+add_COre 914 ETH
+add_COre 912 ETH
+add_COre 913 ETH
+add_core 897 TKN
+add_core 792 TKN
+annex NKO
+tag POR
+annex BTS
+annex ROZ
+tag MS
+tag SMS
+annex SMS
+tag GER
+tag FRA
+ic
+tag PRS
+cp
+tag RUS
+tag PRS
+tdebug
+ic
+Focus.autocompelte
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+nocb
+ale 1000
+tag SCH
+ic
+tag BAV
+tag BAD
+tag HAN
+tag GER
+tag PRS
+annex SAC
+annex SAX
+annex HAN
+annex BRE
+annex HMB
+annex HAM
+annex LBC
+annex LBK
+tdebug
+annex LCK
+ic
+tdebug
+add_Core 1128
+tag DEN
+tag PRS
+tdebug
+ic
+tag ENG
+annex SAF
+tag POR
+tag PRS
+ic
+tag AUS
+tag GER
+tag PRS
+tag AUS
+tag PRS
+pp
+tag USA
+set_ruling_party centrism
+tag PRS
+set_Ruling_party autocrat
+set_Ruling_party autocracy
+set_Ruling_party traditional_conservatism
+nocb
+tag AUS
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+ai
+tag PRS
+ai
+tag AUS
+tag PRS
+tag USA
+tag CSA
+tag PRS
+Focus.autocomplete
+tag AUS
+pp
+ta ITA
+tag ITA
+pp 200
+pp 100
+tag GER
+tag PRS
+Focus.autocomplete
+tag OTO
+add_party_popularity autocracy 100
+set_ruling_party autocracy
+tag PRS
+tag DEN
+setowner ARM 99
+annex ARm
+tdebug
+setowner ARM 58
+setowner ARM 1032
+setowner ARM 99
+annex ARM
+tdebug
+tag PRS
+annex BAG
+annex TNG
+annex ZAN
+annex GMB
+annex HMB
+annex BAH
+annex BHM
+tdebug
+annex DAH
+^op
+op
+tdebug
+annex HLS
+tdebug
+ic
+decision.nochecks
+tp
+nocb
+ale 1000000
+tag BVA
+tag BAV
+tag PRS
+FOcus.autocomplete
+tag ITA
+annex LMV
+tdebug
+annex LVN
+tag GER
+tag PRS
+ale 10000000
+tag ENG
+set_Ruling_party traditional_conservatism
+add_party_popularity  traditional_conservatism 10
+add_party_popularity traditional_conservatism 10
+add_party_popularity traditional_conservatism 100
+tag PRS
+ic
+^cp
+cp
+tp
+nocb
+tp
+tdebug
+add_COre 932
+add_COre 934
+add_COre 933
+add_COre 231
+add_COre 230
+add_COre 232
+add_COre 210
+add_COre 798
+add_COre 229
+add_COre 230
+add_COre 560
+add_COre 035
+add_COre 935
+add_COre 799
+setowner SAP 35
+setowner SMI 35
+annex SMI
+tag CHE
+add_Core 567 SOV
+add_core 732 AFG
+add_Core 804
+add_Core 586
+add_Core 405 AFG
+add_Core 887
+add_Core 585
+add_Core 888
+add_Core 886
+add_Core 1215
+add_Core 914
+add_Core 584
+add_Core 874
+setowner ARM 419
+annex ARm
+add_Core 885
+add_Core 516
+add_Core 589
+add_Core 588
+add_Core 573
+add_Core 576
+add_Core 590
+add_Core 583
+add_Core 402
+add_Core 587
+add_Core 405
+add_Core 406
+add_Core 407
+add_Core 228
+add_Core 227
+add_Core 200
+add_Core 221
+add_Core 226
+add_Core 196
+add_Core 197
+add_Core 215
+add_Core 203
+add_Core 259
+add_Core 225
+add_Core 193
+add_Core 202
+add_Core 201
+add_Core 198
+add_Core 80
+add_Core 243
+add_Core 1020
+add_Core 93
+add_Core 91
+add_Core 89
+add_Core 94
+add_Core 199
+add_Core 194
+add_Core 204
+add_Core 95
+add_Core 241
+add_Core 207
+add_Core 96
+add_Core 11
+add_Core 188
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+add_Core 1042
+add_Core 1051
+add_Core 1049
+add_Core 1052
+add_Core 1044
+tag EST
+add_Core 1041 SOV
+add-COre 1022 SOV
+add_core 1022 SOV
+add_Core 192 SOV
+add_core 73 HUN
+add_Core 206 SOV
+tag SOV
+add_Core 1245
+add_Core 79
+add_Core 78
+add_Core 911
+add_Core 949
+taG MLD
+add_party_popularity c 100
+add_party_popularity conservatism 33
+add_party_popularity d 33
+add_party_popularity c 100
+add_party_popularity conservative 33
+Focus.autocomplete
+Focus.nochecks
+add_party_popularity c 100
+add_party_popularity conservative 33
+ic
+add_Core 927 BUL
+add_Core 83 HUN
+add_Core 76 HUN
+add_Core 1246 HUN
+add_Core 1247 HUN
+tag HUN
+add_COre 664
+add_COre 71
+add_COre 1117
+add_COre 70
+add_COre 73 SLO
+add_party_popularity c 100
+tag GRE
+add_Core 184 BUL
+add_Core 106
+add_Core 1012
+add_Core 106 PDG
+add_Core 1012 PDG
+add_Core 187 TUR
+add_Core 164 TUR
+tag PGG
+tag PDG
+annex GRE
+setowner ARM 184
+setowner ARM 187
+setowner ARM 164
+annex ARM
+add_party_popularity c 100
+add_party_popularity conservative 33
+tag ITA
+set_ruling_party fascism
+set_ruling_party liberal_conservative
+set_ruling_party liberal_conservatism
+add_Core 993
+add_Core 1
+add_Core 116
+add_Core 1074
+tag KAZ
+add_Core 404 SOV
+set_ruling_party revolutionary_socialist
+set_ruling_party revolutionary_socialism
+set_ruling_party revolutionary_socialist
+set_ruling_party revolutionary_socialism
+tag CZE
+tag YUG
+add_Core 109
+add_Core 103
+add_Core 104
+add_Core 923
+add_Core 105
+add_Core 108
+add_Core 1065
+add_Core 1185
+add_Core 107
+tag Ser
+annex VOJU
+annex VOJ
+tag BOS
+add_Core 104 CRO
+add_Core 923 CRO
+annex TRI
+add_Core 756 PRA
+add_Core 756 AUS
+add_COre 102 AUS
+add_COre 736 AUS
+tag SOV
+tag ADR
+add_Core 102
+add_Core 736
+add_Core 756
+add_Core 39
+tag ENG
+add_Core 963 FRA
+tag MON
+add_Core 329
+tag MNC
+tag MOC
+annex MOC
+add_Core 995 FRA
+add_Corre 755
+add_Core 755
+add_Core 14
+annex BRT
+tag AND
+annex AND
+add_Core 1077 FRA
+tag USA
+tag ADR
+annex AUS
+add_Core 163 YUG
+add_Core 88 TRA
+add_Core 88 TRN
+add_Core 88 TRS
+setowner WLN 57
+setowner WLO 57
+setowner WAL 57
+tag WAL
+annex WOL
+annex WAL
+add_Core 57 DDR
+add_Core 57 WGR
+tag XSM
+annex XSM
+annex CHI
+annex SIK
+tag WGR
+add_Core 216 FIN
+add_Core 213 FIN
+add_Core 722 FIN
+setowner SPM 722
+setowner SAP 722
+setowner SMI 722
+tag SMI
+setowner SMI 148
+setowner SMI 666
+setowner SMI 979
+setowner SMI 144
+setowner SMI 956
+annex SMI
+add_COre 666 SCA
+add_COre 666 SCN
+add_Core 1023 WGR
+add_Core 1023 DDR
+add_Core 776 WGR
+add_Core 776 DDR
+add_Core 99 WGR
+add_Core 99 DDR
+tag DEN
+tag YUG
+add_Core 45
+annex CRO
+annex SER
+annex VOJ
+set_ruling_party c
+add_party_popularity c 100
+add_party_popularity conservative 33
+tag ALB
+add_party_popularity c 100
+set_ruling_party c
+add_party_popularity conservative 33
+tag HUN
+add_party_popularity conservative 33
+tag CZE
+set_ruling_party c
+add_party_popularity c 100
+add_party_popularity conservative 33
+tag PAK
+add_Core 440
+add_Core 441
+add_Core 779
+add_Core 779 AFG
+add_Core 442 AFG
+add_Core 445 AFG
+tag KHA
+add_Core 444 AFG
+annex KAS
+add_COre 43add_Core 1097
+add_Core 1097
+add_Core 1236
+add_Core 323
+add_Core 868
+add_Core 422
+add_Core 281
+tag KAS
+add_Core 1144 PAK
+add_Core 1243 SIk
+add_Core 1243 SIK
+add_Core 1243 PRC
+add_Core 1243 CHI
+setowner ARm 1169
+setowner ARM 1169
+annex ARM
+annex NEP
+annex SKK
+add_Core 869 MYR
+add_Core 1068 MYR
+add_Core 870 BNG
+add_Core 870 BAN
+tag PRC
+add_Core 615
+add_Core 611
+add_Core 621
+add_Core 612
+add_Core 715
+add_Core 714
+add_Core 328
+add_Core 716
+add_Core 610
+tag VIE
+add_Core 840 VIE
+add_Core 840 VIN
+add_Core 741 VIN
+add_Core 741 VIE
+add_Core 985 VIE
+add_Core 985 VIN
+add_Core 984 VIN
+add_Core 984 VIE
+add_Core 1187 VIE
+add_Core 1187 VIN
+add_Core 1191 VIN
+add_Core 1191
+add_Core 1198
+add_Core 1198 VIE
+
+add_Core 1198 VIN
+add_Core 670 VIN
+add_Core 670
+add_Core 1196
+add_Core 1196 VIN
+add_Core 841 SIA
+tag LOS
+annex LOS
+annex CAM
+tag MAL
+annex SWK
+annex MLA
+annex SGP
+add_Core 336 SIA
+add_Core 784 SIA
+add_Core 791 SIA
+add_Core 792 SIA
+add_Core 960 SIA
+add_Core 1128 SIA
+add_Core 924 SIA
+tag MAL
+annex MAL
+add_Core 785 INO
+add_Core 1212 SIA
+tag MYR
+set_ruling_party socialism
+set_ruling_party socialist
+set_ruling_party c
+set_ruling_party maoist
+set_ruling_party maoism
+add_party_popularity maoism
+add_party_popularity maoism 100
+add_party_popularity conservative 33
+tag VIN
+annex VIE
+ic
+tdebug
+add_Core 1069 TIB
+add_Core 324 TIB
+add_Core 324 CHI
+add_Core 324 PRC
+add_Core 1069
+add_Core 1069 CHI
+tag BHIU
+tag BHU
+annex BHU
+annex TIB
+tag MEN
+annex TAN
+annex MON
+add_Core 715 CHI
+add_Core 716 CHI
+add_Core 610 CHI
+add_Core 328 CHI
+add_Core 714 CHI
+setowner ARM 996
+setowner CHI 996
+setowner CHI 524
+setowner CHI 593
+tag CHI
+annex CHI
+add_Core 524 JAP
+add_Core 593 JAP
+tag SHX
+annex BLR
+tag POL
+Focus.autocomplete
+Focus.nochecks
+add_party_popularity conservative 33
+add_Core 85 WGR
+add_Core 85 DDR
+add_Core 950 DDR
+add_Core 950 WGR
+add_Core 797 WGR
+add_Core 797 DDR
+add_Core 86 DDR
+add_Core 86 WGR
+add_Core 67 WGR
+add_Core 67 DDR
+setowner ARM 67
+setowner ARM 85
+setowner ARM 86
+setowner ARM 63
+setowner ARM 797
+setowner ARM 5
+setowner ARM 795
+setowner ARM 950
+setowner ARM 66
+setowner ARM 68
+annex ARM
+tag SAU
+add_Core 1102
+add_Core 293
+add_Core 294
+add_Core 1080
+add_Core 1008
+add_Core 1237
+add_Core 898
+add_Core 964
+add_Core 1241
+add_Core 293
+tag OMA
+annex OMA
+add_Core 1169 AFg
+add_Core 1169 AFG
+annex YEm
+annex DRY
+add_COre 659 SAU
+add_COre 1239 ETH
+add_Core 658 SAU
+add_Core 1167 SAU
+add_Core 1165 SAU
+add_Core 780 SAU
+add_Core 1164 SAU
+annex UAE
+annex QAT
+annex BHR
+add_Core 777 TUR
+setowner ARM 905
+annex ARm
+tag IRQ
+add_Core 676 KUR
+add_Core 939
+add_Core 938
+add_Core 811
+tag TUR
+add_Core 793
+add_Core 354
+add_Core 352
+tag PER
+add_Core 410
+add_Core 419
+add_Core 421
+tag KUR
+add_Core 939
+add_Core 811
+add_Core 938
+add_Core 676
+tag GEO
+add_Core 188 DDR
+add_Core 188 WGR
+tag PAR
+add_core 301 ARG
+annex PAr
+add_core 1202 BRA
+add_core 488 BRA
+add_core 487BRA
+add_core 487 BRA
+add_core 688 ARG
+add_core 302 ARG
+add_Core 502 ARG
+add_core 1203 BRA
+add_core 687 BRA
+add_core 309 BRA
+add_core 308 BRA
+add_core 310 BRA
+tag USA
+add_Core 464
+add_Core 468
+add_Core 465
+add_Core 466
+add_Core 331
+add_Core 332
+add_Core 682
+add_Core 467
+add_Core 683
+add_Core 469
+add_Core 472
+add_Core 470
+add_Core 473
+add_Core 739
+add_Core 74ß
+add_Core 740
+add_Core 471
+add_Core 483
+add_Core 484
+add_Core 390
+add_Core 389
+annex LKT
+tag CAN
+annex CAN
+add_Core 276 USA
+setowner CAN 384
+setowner CAN 385
+setowner CAN 386
+setowner CAN 739
+setowner CAN 740
+annex CAN
+add_COre 1005 USA
+add_COre 475 GUA
+add_COre 474 GUA
+add_COre 877 GUA
+tag LBZ
+tag BLZ
+
+annex JAM
+add_Core 689 CUB
+add_Core 1163 CUB
+add_Core 690 CUB
+add_Core 693 CUB
+set_ruling_party nationalist
+set_ruling_party nationalism
+set_ruling_party c
+add_party_popularity c 100
+add_party_popularity conservative 33
+set_ruling_party maoism
+set_ruling_party c
+add_Core 311
+add_Core 318
+add_Core 1070
+setowner ARm 311
+setowner ARM 311
+annex ARm
+add_Core 1159
+add_Core 1160
+add_Core 319
+add_Core 686
+add_Core 1126
+add_Core 1125
+add_Core 1161
+add_Core 1162
+add_Core 308
+add_Core 1126
+add_Core 1125
+add_Core 1225
+add_Core 694
+add_Core 1224
+add_Core 1223
+add_Core 1221
+add_Core 1219
+add_Core 1220
+add_Core 692
+add_Core 1222
+add_Core 691
+add_Core 1222
+add_Core 691 PRU
+tag DOM
+annex DOM
+annex HAI
+tag GND
+annex GND
+add_Core 1226 CUB
+tag ENG
+tag HOL
+tag BRA
+tag PRU
+add_core 1071
+add_core 1222
+add_core 1050
+add_core 901
+add_core 307
+add_core 900
+add_core 489
+add_core 1204
+add_core 493
+add_core 306
+add_core 486
+add_core 490
+add_core 305
+add_core 649
+tag ECU
+annex ECU
+add_Core 695
+tag COL
+annex COl
+tag VEN
+tp
+tag ARG
+add_Core 1094
+add_Core 507
+add_Core 1093
+add_Core 1092
+add_Core 1091
+add_Core 279
+add_Core 1090
+add_Core 1089
+add_Core 1088
+add_Core 506
+add_Core 1087
+add_Core 1086
+add_Core 1021
+add_Core 300
+add_Core 1015
+tag URG
+annex URG
+annex BOL
+annex CHL
+add_Core 1134 PRU
+add_party_popularity reactionary 10
+add_party_popularity reactionar 10
+add_party_popularity Reactionary 10
+add_party_popularity Reactionar 100
+add_party_popularity Reactionarism 100
+add_party_popularity Reactionarym 100
+add_party_popularity Reactionarysm 100
+add_party_popularity Reactionary 100
+tag ARG
+set_ruling_party conservative
+set_ruling_party social_liberal
+set_ruling_party social_liberalism
+set_ruling_party nationalism
+tag BHM
+tag USA
+tag PRT
+add_Core 992 ITA
+nocb
+tag USA
+tag SOV
+annex PDG
+annex YUG
+tag YUG
+add_party_popularity c 100
+add_party_popularity conservative 33
+add_autonomy YUG 1000
+add_autonomy YUG 100
+tag PDG
+add_party_popularity c 100
+add_party_popularity conservative 33
+add_autonomy PDG 1000
+add_autonomy PDG 500
+tag SOV
+annex ADR
+setowner ARM 892
+annexARM
+annex ARM
+tag TUR
+add_COre 937 BUL
+annex KUr
+tag BUL
+add_party_popularity c 100
+add_party_popularity conservative 33
+tag BAL
+annex BAL
+research_on_icon_click
+tag SOV
+tag MON
+tag PRC
+annex VIN
+annex SIA
+annex MYR
+annex BNG
+annex BAN
+annex ASS
+annex ASA
+Focus.autocomplete
+Focus.nochecks
+setowner PRC 283
+tag PRC
+annex PRC
+annex CHI
+annex SIK
+^nocb
+nocb
+setowner ARM 611
+setowner ARM 621
+setowner ARM 612
+anex ARm
+annex ARm
+annex MON
+Focus.autocomplete
+Focus.nochecks
+ic
+annex CHI
+annex SIK
+Focus.nochecks
+nocb
+^tdebug
+tdebug
+setowner ARm 621
+setowner ARM 621
+setowner ARM 611
+setowner ARM 612
+annex ARm
+tag VIN
+set_ruling_party c
+add_party_Popularity c 100
+tag SIA
+add_party_Popularity c 100
+set_ruling_party c
+set_ruling_party maoism
+add_party_Popularity maoism 100
+tag MYR
+add_party_Popularity maoism 100
+tag BAN
+Focus.autocomplete
+Focus.nochecks
+add_party_Popularity maoism 100
+tag ASM
+tag ASS
+tag ASA
+set_ruling_party c
+add_party_Popularity c 100
+add_autonomy ASA 1000
+pp 100
+add_autonomy ASA 1000
+add_autonomy ASA 500
+tag B^An
+tag BAN
+add_autonomy BAn 1000
+add_autonomy BAN 1000
+pp 200
+add_autonomy BAN 1000
+add_autonomy BAN 500
+tag MYR
+add_autonomy MYR 1000
+pp 200
+add_autonomy MYR 1000
+add_autonomy MYR 500
+tag SIA
+add_autonomy SIA 1000
+pp 200
+add_autonomy SIA 1000
+add_autonomy SIA 500
+tag VIN
+add_autonomy VIN 1000
+pp 200
+add_autonomy VIN 1000
+add_autonomy VIN 500
+tag GRE
+annex CYP
+add_Core 912 TUR
+add_Core 182 TUR
+add_Core 183 TUR
+add_Core 91 TUR
+add_Core 915 TUR
+setowner ARM 91
+annex ARm
+tag DAr
+annex IND
+annex INS
+annex INO
+add_Core 785
+add_Core 333
+add_Core 783
+tag DAr
+add_COre 721 INO
+tag SGP
+add_Core 711 INO
+add_Core 712 INO
+annex SWJ
+annex BRU
+add_COre 858 PAPÜ
+add_COre 858 PAP
+add_COre 669 PAP
+add_COre 858 AST
+add_COre 669 AST
+add_Core 668
+tag MAU
+tag SMK
+tag PHI
+tag MLA
+tag MLY
+tag MYA
+tag MAL
+tag VIE
+setowner ARM 997
+annex ARm
+setowner ARM 1066
+annex ARm
+tag VIN
+add_Core 1024 PRC
+add_Core 1063 PRC
+add_Core 1066 PRC
+add_Core 1073 PRC
+add_Core 1107 PRC
+tag MLA
+add_Core 952 SIA
+tag INo
+tag JAP
+set_ruling_party fascist
+set_ruling_party reaction
+set_ruling_party reactionar
+set_ruling_party reactionary
+set_ruling_party reactionarism
+set_ruling_party monarchist
+set_ruling_party n
+set_ruling_party monarchism
+add_party_popularity monarchism 100
+set_ruling_party f
+set_ruling_party nationalist
+set_ruling_party nationalism
+set_ruling_party monarchism
+add_Core 665
+add_Core 655
+setowner ARM 665
+annex ARM
+tag WGR
+set_ruling_party f
+set_ruling_party c
+set_ruling_party islamist
+set_ruling_party islamism
+set_ruling_party spd
+set_ruling_party n
+set_ruling_party nationalism
+set_ruling_party monarchism
+set_ruling_party n
+tag DDR
+set_ruling_party nationalism
+set_ruling_party n
+set_ruling_party c
+set_ruling_party d
+set_ruling_party f
+set_ruling_party monarchism
+set_ruling_party c
+tag SOV
+i
+ic
+^xp
+xp
+ai
+research_on_icon_click
+
+tag SOV
+pp
+
+pp
+manpower
+tag MOL
+tag MDV
+tdebug
+tag MLD
+tag GAu
+add_core 88 GAG
+add_core 90 GAG
+add_core 89 GAG
+add_core 91 GAG
+add_core 243 GAG
+tag POL
+Focus.autocomplete
+tag POL
+annex GAG
+tag BRA
+nocb
+tag PRU
+tag ARG
+tag BRA
+tag MEX
+tag GUA
+tag HOn
+tag ELS
+tag NIC
+tag COS
+tag PAn
+tag USA
+add_Core 122 WLS
+add_Core 122 WLE
+add_Core 122 WAE
+add_Core 122 WAS
+add_Core 133 SCT
+add_Core 133 SCO
+add_Core 133 SCL
+add_Core 133 SLD
+tag ENG
+add_Core 113
+add_Core 1142
+add_Core 134
+add_Core 135
+add_Core 119
+add_party_popularity conservatism 19
+add_party_popularity conservative 19
+set_ruling_Party conservative
+tag NIR
+tag ULS
+ag IRE
+taG IRE
+set_ruling_party f
+set_ruling_party c
+set_ruling_party conservative
+
+tag ENG
+annex IRE
+tag MOR
+annex MOR
+setowner ARM 10001
+setowner ARM 1001
+setowner ARM 1002
+setowner ARM 1003
+annex ARm
+setowner ARM 699
+annex ARm
+add_Core 462 RIF
+add_Core 461 RIF
+add_Core 1002 RIF
+tag MAU
+add_Core 1001 RIF
+add_Core 699 RIF
+annex TNG
+add_Core 930
+add_Core 1056
+add_Core 929
+setowner ARM 930
+setowner ARM 929
+setowner ARM 1056
+annex ARM
+tag SOV
+tag KPA
+ic
+tag PRC
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+tag ADR
+add_Party_popularity c 100
+add_Party_popularity conservative 33
+add_autonomy ADR 1000
+pp
+add_autonomy ADR 500
+tag HUN
+ai
+Focus.autocomplete
+Focus.nochecks
+tag DDR
+tag SOV
+cp
+tdebug
+tp
+tag HLS
+tag VAT
+tag VTC
+nocb
+tag MON
+tag ADR
+tag PDG
+tag YUG
+tag POL
+tag SOV
+nocb
+tag POL
+tdebug
+setowner ARm 797
+setowner ARM 797
+setowner ARM 85
+setowner ARM 86
+setowner ARM 67
+annex ARm
+tag SOV
+tdebug
+cp
+tdebug
+add_core 778 PER
+tdebug
+tagW GR
+tag WGR
+set_Ruling_party christian_democrat
+set_Ruling_party christian_democracy
+set_Ruling_party christian_democrat
+set_Ruling_party christian_democratic
+tag SOV
+tp
+decision.nochecks
+decision.nochecks^
+decision.nocheck
+decision.nochecks
+annex KUR
+decision.nocheck
+decision.nochecks
+ic
+decision.nochecks
+tp
+tag KOR
+ic
+tag SOV
+delall KOR
+tp
+ic
+
+tag DDR
+tag WGR
+tag SOV
+Focus.autocomplete
+ale 15000
+Focus.autocompletetag PAK
+tag PAK
+
+tag SOV
+ic
+tag PDGH
+tag PDG
+ai
+tag ALB
+tag YUG
+tag BUL
+tag ADR
+ale 7000
+tag DDR
+tag SOV
+set_ruling_party n
+set_ruling_party monarchist
+set_ruling_party monarchism
+set_ruling_party f
+set_ruling_party c
+yesman
+nocb
+yesman
+nocb
+yesman
+nocb
+yesman
+nocb
+tdebug
+setowner ARM 1110
+annex ARM
+tdebug
+yesman
+nocb
+ic
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+nocb
+tag PRC
+tag SOV
+Focus.nochecks
+Focus.autocomplete
+yesman
+ic
+nocb
+tag DDR
+tag SOV
+tag PRC
+add_Party_popularity maoism 100
+tag MYR
+add_Party_popularity maoism 100
+tag BAN
+add_Party_popularity maoism 100
+tag ASM
+tag ASA
+add_Party_popularity maoism 100
+tag SIA
+add_Party_popularity maoism 100
+set_ruling_party maoism 100
+set_ruling_party maoism
+tag SOV
+tag VIE
+tag VIN
+tag MYR
+ale
+tag SOV
+tag PRC
+set_ruling_party maoism 100
+add_Party_popularity maoism 100
+tag SOV
+tdebug
+Focus.autocomplete
+Focus.nochecks
+setowner CHI 155
+setowner PRC 43
+tag PRC
+annex PRC
+set_ruling_paty totalist
+set_ruling_party totalist
+tag CHI
+annex CHI
+set_ruling_party totalist
+tdebug
+Focus.autocomplete
+Focus.nochecks
+set_ruling_party paternal_autocrat
+add_party_popularity paternal_autocrat 100
+add_party_popularity social_conservative 20
+pp
+ic
+add_party_popularity paternal_autocrat 100
+add_party_popularity social_conservative 20
+set_ruling_party paternal_autocrat
+Focus.autocomplete
+Focus.nochecks
+research_on_icon_click
+ic
+manpower 21380
+tag CZE
+annex CZE
+add_party_popularity social_liberal 100
+add_party_popularity social_conservative 30
+tag CRO
+set_ruling_party paternal_autocrat
+set_ruling_party social_liberal
+add_party_popularity social_liberal 100
+add_party_popularity social_conservative 30
+tag HUN
+annex HUN
+add_party_popularity paternal_autocrat 100
+setowner SLV 71
+setowner SLO 71
+tag SLO
+annex SLO
+setowner SVK 71
+tag SVK
+setowner SVK 70
+setowner SVK 73
+annex SVK
+add_COre 875 TRN
+add_COre 875 TRS
+add_COre 82 TRS
+add_COre 84 TRS
+add_COre 83 TRS
+add_Core 71 SVK
+add_Core 73 SVK
+add_Core 70 SVK
+setowner SVK 154
+annex SVk
+setowner TRN 84
+setowner TRS 84
+annex TRS
+tag ROM
+setowner SIK 84
+annex SIK
+setowner TRS 82
+tag HUn
+annex TRS
+add_Core 105 SER
+tag AUS
+annex HUn
+annex CZE
+ic
+add_autonomy HUN -1000
+pp
+tag CZE
+add_party_popularity social_liberal 100
+set_ruling_party social_liberal
+tag SVk
+add_party_popularity paternal_autocrat 100
+set_ruling_party paternal_autocrat
+tag GLC
+tag GAL
+set_ruling_party paternal_autocrat
+set_ruling_party authoritarian_democrat
+add_party_popularity authoritarian_democrat 100
+tag HUN
+add_party_popularity paternal_autocrat 100
+tag TRS
+set_ruling_party social_conservative
+add_party_popularity social_conservative 100
+tag BUL
+add_Core 106
+add_Core 106 GRE
+add_Core 341
+add_Core 773
+add_Core 347
+add_Core 184
+add_Core 1089
+tag OTT
+add_COre 753
+add_COre 453
+add_COre 455
+add_COre 454
+add_COre 992
+add_COre 554
+add_COre 553
+add_COre 995
+add_COre 680
+add_COre 677
+add_COre 819
+add_COre 352
+add_COre 350
+add_COre 754
+add_COre 679
+add_COre 994
+add_COre 982
+add_COre 293
+add_COre 659
+add_COre 981 SAU
+add_COre 752 SAU
+tagYEM
+tag YEM
+annex YEM
+add_Core 658
+add_Core 993
+add_Core 907
+add_Core 656
+add_Core 991
+add_Core 915
+add_Core 294
+add_Core 1024
+tag OMA
+annex OMA
+annex JBS
+add_COre 665 LBA
+add_COre 458 LBA
+add_COre 1009 LBA
+tag GER
+tp
+add_Core 99
+add_Core 189
+add_Core 190
+add_Core 191
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 880
+add_Core 880 BAT
+add_Core 11 BAT
+add_Core 189 BAT
+tag ALB
+add_COre 766 GRE
+tag GRE
+add_Core 187 OTT
+tag RUS
+add_Core 1087
+add_Core 95
+add_Core 94
+add_Core 93
+add_Core 96
+add_Core 95
+add_Core 204
+add_Core 194
+add_Core 207
+add_Core 206
+tag WHR
+annex WHR
+annex LIT
+add_Core 1088 POL
+add_Core 228 RUS
+add_Core 225 RUS
+add_Core 241 RUS
+add_Core 227 RUS
+add_Core 221 RUS
+add_Core 137 RUS
+add_COre 199 ROM
+add_COre 791 ROM
+add_COre 192  ROM
+add_COre 192 ROM
+tag RUS
+add_core 584
+add_core 405
+add_core 732
+add_core 585
+add_core 587
+add_core 402
+add_core 404
+add_core 586
+add_core 589
+add_core 810
+add_core 406
+add_core 407
+add_core 990
+add_core 229
+add_core 1081
+add_core 231
+add_core 1080
+add_core 998
+add_core 997
+add_core 999
+add_core 230
+add_core 234
+add_core 232
+add_core 787
+add_core 233
+add_core 235
+add_core 237
+add_core 238
+add_core 218
+add_core 245
+tag DOn
+tag DKB
+annex DKB
+annex GEO
+annex AZ
+annex AZE
+annex ARM
+add_Core 1082 RUS
+annex ALO
+annex TRK
+add_Core 811 RUS
+add_Core 654 RUS
+tag SHQ
+tag AOG
+annex AOG
+annex GEA
+add_Core 670
+add_Core 827
+add_Core 671
+add_Core 857
+add_Core 826
+add_Core 286
+add_Core 856
+add_Core 750
+add_Core 825
+add_Core 336 SIA
+add_Core 846 SIA
+add_Core 333 DEI
+add_Core 828 DEI
+tag SIA
+add_Core 831
+add_Core 882
+tag VIN
+tag VIE
+set_ruling_party totalist
+setowner ARM 72
+annex ARm
+add_Core 72 BRM
+add_Core 72 BUR
+add_Core 756 BUR
+add_COre 434
+add_COre 432
+add_COre 430
+set_ruling_party totalist
+add_party_popularity totalist 100
+tag BHC
+setowner CHI 858
+tag CHI
+annex CHI
+set_ruling_party totalist
+add_party_popularity totalist 100
+add_Core 693
+add_Core 693 QIE
+add_Core 858
+add_Core 858 QIE
+add_Core 324 QIE
+add_Core 324
+tag BHC
+add_COre 887
+add_COre 323
+add_COre 888
+add_COre 815
+add_COre 814
+add_COre 438
+add_COre 1057
+add_COre 437
+add_COre 433
+add_COre 428
+add_COre 443
+add_COre 440
+add_COre 891
+add_COre 890
+add_COre 441
+add_COre 424
+add_COre 320
+add_COre 422
+add_COre 281
+add_COre 867
+add_COre 423
+add_COre 425
+add_COre 321
+add_COre 868
+add_COre 427
+add_COre 429
+add_COre 893
+tag DEH
+add_COre 814
+add_COre 815
+add_COre 887
+add_COre 888
+add_COre 323
+add_COre 431
+add_COre 435
+add_COre 426
+add_COre 889
+add_COre 436
+add_COre 893
+add_COre 429
+add_COre 427
+add_COre 424
+add_COre 321
+add_COre 868
+add_COre 425
+add_COre 320
+add_COre 423
+add_COre 422
+add_COre 867
+add_COre 281
+tag MAD
+annex MAD
+annex PRG
+annex PRF
+annex NEP
+tag POR
+tag QIE
+tag SQI
+annex YUN
+annex XSM
+annex TIB
+annex PRC
+annex FNG
+annex QIE
+setowner ARM 859
+setowner ARM 524
+annex ARM
+annex LEC
+annex SQI
+tag FNG
+add_Core 287 SIK
+add_Core 1085 SIK
+add_Core 619 SIK
+add_Core 616 SIK
+add_Core 617 SIK
+add_Core 1083 SIK
+add_Core 618 SIK
+add_COre 748 TIB
+add_COre 693 TIB
+add_COre 858 TIB
+add_COre 324 TIB
+add_COre 322 TIB
+add_COre 1086 TIB
+tag MON
+add_Core 748
+add_Core 322
+add_Core 324
+add_Core 1086
+add_Core 287
+add_Core 1085
+add_Core 619
+add_Core 617
+add_Core 618
+add_Core 1083
+add_Core 353
+add_Core 604
+add_Core 774
+add_Core 348
+add_Core 616
+add_Core 621
+add_Core 612
+add_Core 608
+add_Core 609
+add_Core 611
+add_Core 610
+add_Core 716
+add_Core 745
+add_Core 328
+add_Core 886
+add_Core 885
+add_Core 717
+add_Core 714
+add_Core 883
+add_Core 884
+add_Core 715
+add_Core 614
+add_Core 622
+add_Core 283
+add_Core 788
+add_Core 601
+add_Core 325
+add_Core 816
+add_Core 603
+add_Core 1051
+add_Core 1054
+add_Core 1053
+add_Core 591
+add_Core 592
+add_Core 593
+add_Core 594
+add_Core 595
+add_Core 596
+add_Core 1056
+add_Core 728
+add_Core 326
+add_Core 599
+add_Core 1055
+add_Core 1052
+add_Core 1013
+add_Core 729
+add_Core 1012
+add_Core 801
+add_Core 1046
+add_Core 802
+add_Core 1066
+add_Core 747
+add_Core1069
+add_Core 1069
+add_Core 803
+add_Core 1068
+add_Core 1067
+add_Core 746
+add_Core 743
+add_Core 613
+add_Core 1075
+add_Core 598
+add_Core 1050
+add_Core 1047
+add_Core 744
+add_Core 996
+add_Core 1065
+add_Core 1064
+add_Core 597
+add_Core 1061
+add_Core 1062
+add_Core 1063
+add_Core 1064
+add_Core 615
+add_Core 1059
+add_Core 1058
+add_Core 607
+add_Core 602
+add_Core 1045
+add_Core 1044
+add_Core 600
+add_Core 1014
+add_Core 606
+add_Core 1048
+add_Core 620
+add_Core 1049
+add_Core 6055
+add_Core 605
+add_Core 799
+add_Core 1072
+tag QIE
+add_Core 800
+add_Core 1060
+add_Core 1015
+tag QIE
+tag DEH
+add_COre 444 AFG
+setowner ARm 445
+setowner ARm 442
+setowner ARM 445
+setowner ARM 442
+annex ARm
+tag AST
+add_party_popularity social_conservative 100
+set_ruling_party social_conservative
+tag DEH
+add_party_popularity social_conservative 100
+tag PRC
+tag CHI
+add_Core 330 QIE
+add_Core 1084 QIE
+add_Core 329 QIE
+annex QIE
+tag BHU
+annex BHU
+add_COre 326 LEC
+add_COre 592 LEC
+add_COre 729 LEC
+setowner LEC 326
+setowner LEC 592
+setowner LEC 729
+tag LEC
+annex LEC
+tag JAP
+add_Core 524
+add_Core 859
+add_Core 638
+add_Core 646
+add_Core 684
+add_Core 647
+add_Core 633
+add_Core 632
+add_Core 639
+add_Core 725
+add_Core 643
+add_Core 941
+add_Core 726
+add_Core 642
+add_Core 727
+add_Core 641
+add_Core 630
+add_Core 631
+add_Core 629
+tag USA
+add_core 646
+add_core 465
+add_core 468
+add_core 466
+add_core 276
+add_core 332
+add_core 331
+add_core 682
+add_core 467
+add_core 472
+add_core 470
+add_core 469
+add_core 473
+add_core 471
+add_core 739
+add_core 740
+add_core 434
+add_core 433
+add_core 484
+add_core 483
+setowner ARM 434
+setowner ARM 433
+annex ARm
+tag CAN
+add_Core 683 USA
+pp 100
+ic
+add_Core 464 USA
+ic
+manpower
+research_on_icon_click
+tag CAN
+tp
+tag AUS
+Focus.nochecks
+Focus.autocomplete
+annex HUN
+annex GAL
+annex CZE
+annex CRO
+annex SVK
+annex TRS
+tag MEX
+add_Core 475 GUA
+add_Core 474 GUA
+tag CUB
+set_ruling_party totalist
+add_party_popularity totalist 100
+add_COre 318
+add_COre 319
+add_COre 689
+add_COre 690
+add_COre 686
+add_COre 1077
+add_COre 694
+add_COre 308
+add_COre 692
+add_COre 691 PRU
+tag PRU
+add_COre 850
+add_COre 307
+add_COre 849
+add_COre 489
+add_COre 406
+add_COre 306
+add_COre 493
+add_COre 853
+add_COre 852
+add_COre 851
+add_COre 490
+add_COre 305
+add_COre 649
+tag BRA
+add_Core 488
+add_Core 1036
+add_Core 912
+add_Core 309
+add_Core 310
+add_Core 1037
+add_Core 1038
+add_Core 1039
+add_Core 1079
+add_Core 1078
+add_Core 687
+add_Core 502 ARG
+add_Core 487
+add_Core 847
+add_Core 302
+add_Core 1042ARG
+add_Core 1042 ARG
+add_Core 1041 ARG
+add_Core 1043 ARG
+add_Core 301 ARG
+add_Core 688 ARG
+add_Core 1027 ARG
+tag ARG
+add_Core 901
+add_Core 873
+add_Core 506
+add_Core 1073
+add_Core 848
+add_Core 874
+add_Core 279
+add_Core 507
+add_Core 512
+add_Core 1029
+add_Core 300
+tag PAR
+annex PAR
+annex BOL
+annex URG
+annex CHL
+annex FOP
+tag ECU
+annex ECU
+annex COL
+add_COre 486 PRU
+annex VEN
+add_COre 979 BEL
+tag BWI
+tag CAF
+annex CAF
+tag CAN
+annex CAF
+add_Core 695 PRU
+setowner ARM 695
+annex ARm
+tag DOM
+annex DOM
+annex HAI
+add_COre 121 SCO
+add_COre 121 SCT
+add_COre 133 SCT
+add_COre 136 SCT
+add_COre 120 SCT
+add_COre 938 SCT
+setowner SCT 938
+tag SCT
+set_ruling_party social_Conservative
+add_party_popularity social_Conservative 100
+tag ENG
+annex SCT
+add_COre 980 BEL
+add_COre 980 WLN
+add_COre 980 WLO
+add_COre 980 WAL
+add_COre 980 WLN
+add_COre 980 WLO
+add_COre 980 WAO
+add_COre 980 WLN
+setowner WAL 980
+tag WAL
+annex WAL
+add_COre 122
+add_COre 979 FLN
+add_COre 6 FLN
+add_COre 29 FLN
+add_COre 741 WLL
+add_COre 34 WLL
+add_COre 980 WLL
+ic
+tag NFA
+add_Core 558
+add_Core 878
+add_Core 913
+add_Core 274
+add_Core 296
+tag MIT
+tag MTF
+tag MAF
+tag NFA
+setowner ARM 558
+setowner ARM 878
+setowner ARM 913
+setowner ARM 274
+setowner ARM 296
+annex ARM
+tag MAFG
+tag POR
+add_COre 297 MAF
+add_COre 914 MAF
+setowner ARM 813
+setowner ARM 958
+setowner ARM 957
+setowner ARM 956
+setowner ARM 955
+setowner ARM 871
+annex ARM
+tag FIN
+add_Core 216
+add_Core 215
+add_Core 213
+add_Core 722
+add_Core 937
+add_Core 936
+tag RUS
+add_Core 138 SCA
+tag SCA
+setowner SCA 138
+tag SCA
+add_Core 124
+add_Core 139
+add_Core 140
+add_Core 141
+add_Core 38
+add_Core 778
+add_Core 666
+add_Core 960
+add_Core 909
+add_Core 145
+add_Core 110
+add_Core 142
+add_Core 143
+add_Core 144
+add_Core 937
+add_Core 936
+add_Core 844
+add_Core 722
+add_Core 213
+add_Core 214
+add_Core 215
+setowner ARM 214
+annex ARM
+setowner ARM 216
+annex ARm
+add_Core 216
+add_Core 146
+add_Core 865
+add_Core 840
+add_Core 864
+add_Core 111
+add_Core 863
+add_Core 149
+add_Core 150
+add_Core 148
+add_Core 100
+add_Core 101
+add_Core 926
+setowner ICE 100
+setowner ICE 101
+setowner ICE 926
+annex ICE
+add_Core 337
+setowner ICE 337
+annex ICE
+annex NOR
+annex SWE
+annex FIN
+pp 100
+tag DEN
+tag GER
+set_ruling_party paternal_autocrat
+add_party_popularity paternal_autocrat
+add_party_popularity paternal_autocrat 100
+add_party_popularity social_conservative 20
+add_party_popularity totalist 20
+ic
+research_on_icon_click
+xp
+manpower 1238132
+ic
+fuel
+fuel 10000
+fuel 100000
+tag GER
+fuel 100000
+cp
+xp
+nocb
+tag AUS
+pp
+xp
+manpower 1239123
+cp
+ic
+tag POL
+tag AUS
+tag GER
+tp
+annex GEA
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+add_Core 98
+ic
+delall RUS
+tag AUS
+add_Core 155
+add_Core 153
+add_Core 154
+add_Core 45
+add_Core 875
+add_Core 82
+add_Core 83
+add_Core 84
+add_Core 73
+add_Core 70
+add_Core 71
+annex SVK
+annex HUn
+annex TRS
+tag GER
+ic
+pp
+tag OTT
+ic
+research_on_icon_click
+pp
+tag RUS
+add_Core 804
+add_Core 418
+manpower 123901
+manpower 1239010
+tag RUS
+xp
+setowner SOV 255
+tag SOV
+annex SOV
+set_Ruling_party totalist
+set_Ruling_party socialist
+set_Ruling_party syndicalist
+set_Ruling_party radical_socialist
+set_Ruling_party social_democrat
+set_Ruling_party paternal_autocrat
+set_Ruling_party totalist
+add_party_popularity totalist 100
+set_Ruling_party syndicalist
+set_Ruling_party radical_socialist
+add_party_popularity radical_socialist 50
+tag RUS
+annex SOV
+tag OTT
+add_party_popularity paternal_autocrat 100
+add_party_popularity authoritarian_democrat 40
+pp
+tag SIA
+set_Ruling_party totalist
+add_party_popularity totalist 100
+tag TRM
+add_party_popularity authoritarian_democrat 40
+set_ruling_Party authoritarian_democrat
+add_party_popularity authoritarian_democrat 40
+tag JA
+tag JAP
+add_core 646
+add_core 633
+add_core 684
+add_core 647
+add_core 725
+add_core 639
+add_core 643
+tag KOR
+set_Ruling_party totalist
+add_party_popularity totalist 100
+tag PRC
+tag CHI
+add_COre 858
+tag FNG
+tag AUS
+Focus.autocomplete
+add_Core 75
+add_Core 9
+add_Core 88
+add_Core 91
+add_Core 89
+add_Core 80
+add_Core 83
+add_Core 82
+add_Core 84
+add_Core 76
+add_Core 664
+add_Core 70
+add_Core 71
+add_Core 73
+add_Core 154
+add_Core 155
+add_Core 43
+add_Core 45
+add_Core 875
+add_Core 794
+add_Core 105
+add_Core 163
+add_Core 104
+add_Core 103
+add_Core 109
+annex CRO
+annex TRS
+annex HUN
+annex CZE
+annex SVK
+annex GAL
+ic
+tag AUS
+tag SWI
+add_Core 760 FRA
+add_Core 760 NFA
+add_Core 761 ITA
+add_Core 151 GER
+add_Core 3 GER
+setowner ARM 943
+annex ARM
+tag FRA
+tag GER
+cp
+tag GEA
+annex GEA
+tag GER
+annex GEA
+tag GEA
+add_party_popularity paternal_autocrat 100
+ic
+tag SIA
+ic
+tag BUR
+tag CHI
+pp
+tag PRC
+tag CHI
+tag CHI^^
+tag CHI
+tag CHIK
+tag CHI
+fuel
+fuel 1000000
+fuel 1000000000
+fuel 100000000
+nocb
+tag GER
+pp
+ic
+tp
+delall RUS
+tag EGY
+tag USA
+tag GER
+tag DEH
+add_Core 439 BHC
+add_Core 445 AFG
+add_Core 442 AFG
+tag GER
+st 10
+tp
+tag JAP
+annex KOR
+tag GER
+nocb
+yesman
+nocb
+tp
+tag SOV
+Focus.autocomplete
+Focus.ignoreprerequisites
+Focus.autocomplete
+Focus.ignoreprerequisites
+nocb
+tag CHI
+tag SIA
+tag BUR
+tag SOV
+tag GER
+nocb
+add_party_popularity paternal_autocrat 10
+set_ruling_party Paternal_autocrat
+delall TEX
+delall CAL
+delall CSA
+Focus.autocomplete
+setowner LIT 97
+tag LIt
+annex LIT
+tag GER
+tag POL
+set_ruling_party paternal_autocrat
+add_party_popularity paternal_autocrat 100
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+tag GER
+annex LIT
+tp
+tag BAT
+yesman
+nocb
+yesman
+nocb
+tag GER
+setowner LAT 190
+setowner LAT 880
+setowner LAT 12
+setowner EST 13
+setowner EST 191
+tag EST
+annex EST
+tag LAT
+annex LAT
+setowner ARM 11
+setowner ARM 189
+annex ARM
+add_Core 406
+tag PRU
+tag GER
+
+add_Core 116 ITA
+add_Core 116 SRI
+Focus.autocomplete
+tp
+Focus.autocomplete
+tp
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+delall GRE
+tag BUR
+nocb
+tag SOV
+tag GER
+nocb
+setowner ARM 779
+annex ARM
+tag SOV
+tp
+tag GER
+tp
+ic
+tag RRM
+nocb
+tag BUL
+tag GER
+nocb
+yesman
+nocb
+tag GRE
+annex GRE
+set_ruling_party totalist
+set_ruling_party social_conservative
+add_party_popularity social_conservative 100
+tag SER
+add_party_popularity social_conservative 100
+set_ruling_party social_conservative
+annex SER
+tag GER
+tp
+ic
+tp
+tag AUH
+tag SOV
+annex UKR
+tag GER
+yesman
+nocb
+yesman
+tp
+tag SOV
+tp
+tag GER
+tp
+Focus.autocomplete
+Focus.nochecks
+annex BEL
+annex LUX
+annex HOL
+annex CZE
+annex DEN
+annex AUS
+annex POL
+annex LIT
+annex LAT
+annex ESt
+annex SOV
+annex Fra
+pp
+tdebug
+tag SOV
+tp
+tag GER
+tp
+tag RUS
+tag SOV
+tp
+tag ROM
+tag RRM
+nocb
+tag ROM
+tag GER
+nocb
+tp
+
+delall SOV
+op
+yesman
+tag POL
+op
+tag GER
+yesman
+op
+delall GRR
+delall JOR
+yesman
+tag FRA
+tp
+tag GEr
+p
+tp
+delall GRR
+delall SAU
+delall JOR
+delall EGY
+delall SOV
+delall CHI
+tag AUS
+ic
+tag GER
+op
+delall SOV
+tdebug
+add_Core 1088 POL
+tdebug
+oop
+op
+delall FRA
+delall SRI
+tag NFA
+Focus.autocomplete
+tag GEr
+delall DEN
+op
+tag POL
+tag GER
+delalL CHI
+delalL SOV
+delalL CHI
+delalL SOV
+delall PRC
+delall BUR
+delall SIA
+delall PRC
+add_Core 782
+tag SOV
+nocb
+tag PRC
+tag CHI
+tag SIA
+tag BUR
+tag SOV
+tag GER
+nocb
+st 100
+tag DEN
+annex DEN
+tag GER
+annex DEN
+tag BAT
+Focus.autocomplete
+Focus.nochecks
+Focus.autocomplete
+tag GER
+yesman
+delall ENG
+op
+delall FRA
+op
+tag SAR
+tag SRD
+ai
+annex LOM
+pp
+Focus.autocompelte
+Focus.autocomplete
+Focus.nochecks
+tag GER
+Focus.nochecks
+Focus.autocomplete
+ai
+tag CAN
+annex ENP
+annex WAL
+tag GER
+Focus.autocomplete
+Focus.nochecks
+tdebug
+annex POL
+annex AUS
+annex CZE
+pp
+annex LIT
+annex LAT
+annex EST
+annex SOV
+tag RKO
+set_ruling_party f
+research_on_icon_click
+ic
+st 100
+manpower
+tag GER
+tag GEr
+tag GER
+add_Core 85
+add_Core 188
+add_Core 86
+add_Core 762
+add_Core 28
+add_Core 99
+tag LIT
+setowner ARM 11
+annex ARM
+setowner ARM 188
+annex ARM
+tag POL
+setowner ARM 762
+setowner ARM 85
+setowner ARM 86
+annex ARM
+tag DEN
+setowner ARM 99
+annex ARm
+tag FIN
+tdebug
+add_Core 216
+add_Core 215
+add_Core 213
+tag SOV
+tag FIN
+manpower 123089123
+manpower 123089123000
+manpower 123089
+manpower 1230890
+^oo
+pp
+xp
+^oo
+pp
+tag SOV
+setowner ARM 216
+setowner ARM 215
+setowner ARM 213
+annex ARM
+tag GER
+pp
+tag BRG
+nocb
+add_Core 9
+add_Core 75
+add_Core 88
+add_Core 81
+add_Core 91
+add_Core 89
+setowner POL 67
+add_Core 90
+add_Core 92
+add_Core 10
+add_Core 76
+add_Core 75
+add_Core 74
+add_Core 69
+add_Core 99
+add_Core 17
+add_Core 18
+add_Core 29
+add_Core 34
+add_Core 6
+add_Core 35
+add_Core 36
+add_Core 7
+add_Core 87
+add_Core 85
+add_Core 86
+add_Core 97
+add_Core 774
+tag POL
+tag GGN
+annex GGN
+annex POL
+add_Core 98 GER
+annex HOL
+tag BRG
+annex BRG
+annex FRA
+add_Core 27 GER
+add_Core 788 GER
+tag CZE
+annex CZE
+tag GER
+xp
+add_Core 151
+add_Core 1371 ITA
+add_Core 3
+add_Core 1370
+add_Core 575
+add_Core 761
+add_Core 576
+add_Core 516
+add_Core 888
+add_Core 577
+add_Core 578
+add_Core 887
+add_Core 569
+add_Core 757
+add_Core 768
+add_Core 758
+add_Core 568
+add_Core 654
+add_Core 40
+add_Core 570
+add_Core 571
+add_Core 403
+add_Core 584
+add_Core 583
+add_Core 588
+add_Core 589
+add_Core 404
+add_Core 586
+add_Core 742
+add_Core 585
+add_Core 405
+add_Core 750
+add_Core 587
+add_Core 402
+add_Core 846
+add_Core 887
+add_Core 216
+add_Core 858
+add_Core 859
+setowner DON 229
+tag DOn
+annex DON
+add_Core 406 GER
+add_Core 407 GER
+add_Core 581
+add_Core 863
+add_Core 262
+add_Core 862
+add_Core 214
+add_Core 861
+add_Core 860
+add_Core 870
+add_Core 869
+add_Core 864
+add_Core 398
+add_Core 753
+add_Core 865
+add_Core 866
+add_Core 397
+add_Core 868
+add_Core 857
+add_Core 351
+add_Core 856
+add_Core 855
+add_Core 867
+add_Core 854
+add_Core 249
+add_Core 256
+add_Core 652
+add_Core 849
+add_Core 852
+add_Core 850
+add_Core 251
+add_Core 755
+add_Core 851
+add_Core 250
+add_Core 252
+add_Core 752
+add_Core 399
+add_Core 400
+add_Core 848
+add_Core 847
+annex ORS
+add_Core 11
+add_Core 12
+add_Core 13
+add_Core 189
+add_Core 190
+add_Core 191
+add_Core 943
+add_Core 96
+add_Core 95
+add_Core 94
+add_Core 194
+add_Core 204
+add_Core 206
+add_Core 207
+add_Core 93
+add_Core 199
+add_Core 201
+add_Core 773
+add_Core 203
+add_Core 197
+add_Core 196
+add_Core 200
+add_Core 227
+add_Core 218
+add_Core 228
+add_Core 221
+add_Core 226
+add_Core 259
+add_Core 225
+add_Core 193
+add_Core 202
+add_Core 230
+add_Core 783
+add_Core 231
+add_Core 229
+add_Core 233
+add_Core 232
+add_Core 233
+add_Core 235
+add_Core 234
+add_Core 238
+add_Core 237
+add_Core 236
+tag SAM
+annex UKH
+annex KOT
+annex MIR
+tag UKR
+annex UKR
+setowner DNR 228
+setowner DON 228
+setowner DOR 228
+setowner DRN 228
+annex DON
+setowner POL 228
+annex POL
+tag OST
+annex OST
+add_core 1339 BUL
+setowner ARM 353
+setowner GEO 354
+tag ARM
+annex ARM
+annex GEO
+annex CAU
+setowner GEO 231
+tag GEI
+tag GEO
+annex GEO
+setowner LEN 146
+setowner LIN 146
+setowner LNN 146
+setowner PET 146
+annex MOS
+annex MCW
+setowner SMO 244
+setowner PSK 244
+setowner MOS 244
+setowner ORO 244
+setowner ORY 244
+setowner ORL 244
+setowner PEN 244
+setowner VOL 244
+annex VOL
+add_Core 236 GER
+add_Core 237 GER
+add_Core 238 GER
+add_Core 217 GER
+add_Core 245 GER
+add_Core 265 GER
+add_Core 260 GER
+add_Core 240 GER
+add_Core 220 GER
+add_Core 258 GER
+add_Core 222 GER
+add_Core 223 GER
+add_Core 224 GER
+add_Core 205 GER
+annex MCW
+tag MCW
+tag GER
+add_Core 242
+add_Core 246
+add_Core 210
+add_Core 263
+add_Core 209
+add_Core 208
+add_Core 244
+add_Core 195
+add_Core 264
+add_Core 248
+add_Core 247
+add_Core 219
+add_Core 253
+add_Core 255
+add_Core 254
+add_Core 257
+add_Core 239
+add_Core 401
+add_Core 142
+add_Core 898
+add_Core 899
+add_Core 897
+add_Core 110
+add_Core 143
+add_Core 144
+add_Core 896 FIN
+add_Core 666
+add_Core 38
+add_Core 124
+add_Core 141
+add_Core 140
+add_Core 139
+add_Core 138
+setowner SCA 138
+tag SCA
+annex SCA
+annex NOR
+tag SMO
+add_Core 243 GER
+add_Core 241 GER
+annex ORE
+annex TAR
+add_Core 651 GER
+add_Core 853 GER
+annex PRM
+add_Core 27 FRA
+setowner LUX 76
+annex LUX
+add_Core 732
+add_Core 590
+add_Core 582
+add_Core 572
+add_Core 754
+add_Core 573
+add_Core 871
+add_Core 845
+add_Core 756
+add_Core 579
+tag SAH
+add_COre 844 GER
+annex ARL
+annex TOB
+add_core 580
+add_core GER 580
+add_core 580 GER
+add_core 653 GER
+annex der
+annex ISH
+annex UDN
+annex UDM
+annex URL
+annex BAS
+tag TAJ
+add_Core 409 JAP
+add_Core 408 JAP
+add_Core 809 JAP
+add_Core 886
+add_Core 637
+add_Core 562
+add_Core 644
+add_Core 891
+add_Core 759
+add_Core 574
+add_Core 760
+add_Core 563
+add_Core 564
+add_Core 565
+add_Core 566
+add_Core 567
+add_Core 590
+add_Core 889
+tag VIl
+add_Core 890 MAN
+add_Core 561 MAN
+add_Core 629
+add_Core 727
+add_Core 643
+add_Core 726
+add_Core 636
+add_Core 725
+add_Core 684
+add_Core 638
+add_Core 810
+add_Core 716
+add_Core 328
+add_Core 801
+add_Core 717
+add_Core 714
+add_Core 598
+add_Core 613
+add_Core 596
+add_Core 595
+add_Core 594
+add_Core 593
+add_Core 1089
+add_Core 591
+add_Core 326
+add_Core 728
+add_Core 729
+add_Core 813
+add_Core 1094
+add_Core 812
+add_Core 811
+add_Core 597
+add_Core 1092
+add_Core 1093
+add_Core 614
+add_Core 1095
+add_Core 608
+add_Core 599 CHI
+tag ChI
+add_Core 325
+add_Core 960
+add_Core 905
+add_Core 964
+add_Core 605
+add_Core 603
+add_Core 956
+add_Core 622
+add_Core 283
+add_Core 616 MEN
+add_Core 764
+add_Core 906
+add_Core 604
+add_Core 601
+tag SIK
+annex ETR
+nocb
+tag TIB
+tag HUI
+tag SIK
+tag XSM
+tag YAA
+tag MAN
+add_Core 934 JAP
+add_Core 715 JAP
+add_Core 609 JAP
+add_Core 610 JAP
+taG SYI
+taG SYO
+add_Core 751 SIA
+add_Core 806 SIA
+add_Core 805 SIA
+add_Core 804 SIA
+add_Core 336 SIA
+add_Core 803 SIA
+add_Core 794
+add_Core 334
+tag IBS
+tag INS
+add_Core 816 SYO
+tag SIA
+add_Core 843
+add_Core 841
+add_Core 840
+tag CAM
+tag LAO
+tag BUR
+add-COre 432
+add_COre 432
+add_COre 430
+add_COre 434 TIB
+add_COre 324 TIB
+add_COre 323 BEN
+add_COre 872
+tag AZ
+tag BEN
+annex BEN
+tag BEN
+tag IND
+tag RAJ
+annex BEN
+tag NEP
+setowner BEN 324
+setowner BHu 324
+setowner BHU 324
+add_COre 749 AFG
+add_COre 441 AFG
+add_COre 440 AFG
+add_COre 443 AFG
+tag BHU
+tag MEN
+add_core 330
+add_core 814
+add_core 329
+tag TAN
+tag SVO
+add_Core 1355
+add_Core 1338
+add_Core 184
+add_Core 1337
+tag ITA
+setowner YUG 156
+setowner ALB 156
+add_Core 1366 GRE
+add_Core 44
+add_Core 1367
+add_Core 103
+add_Core 746
+add_Core 105
+add_Core 1365
+add_Core 1352
+tag CRO
+annex CRO
+add_Core 104
+add_Core 102 ITA
+add_Core 736 ITA
+tag ITA
+add_Core 1
+tag YUG
+add_Core 735 ITA
+setowner ALG 102
+tag ITA
+add_Core 1221 ALG
+add_Core 1215 ALG
+add_Core 1216 ALG
+add_Core 1217 ALG
+add_Core 1218 ALG
+add_Core 1220 ALG
+add_Core 12333 ALG
+add_Core 1233 ALG
+tag IBR
+add_Core 1226 ALG
+add_Core 1224 ALG
+add_Core 1223 ALG
+add_Core 1078 ALG
+tag FRA
+
+annex ALG
+annex ZZZ
+tag SER
+annex SER
+setowner ARM 102
+annex ARm
+tag ALV
+tag ALB
+annex ALB
+add_Core 590
+tag MAN
+tag PER
+add_COre 410 AFG
+tag GRE
+add_Core 183 TUR
+tag ITA
+tag CRO
+tag HUN
+add_Core 1361
+add_Core 664
+tag SLO
+annex SLO
+tag ROM
+add_Core 81
+tag GER
+annex SCO
+annex WAL
+tag FIN
+tag BUL
+tag FRA
+annex BRI
+annex BRT
+tag ITA
+annex PET
+xp 100
+observe
+tag GER
+ic
+xp
+ic
+tag GER
+manpower
+nocb
+ale 100000
+add_Core 27
+add_Core 39
+nocb
+yesman
+tag FRA
+nocb
+tag IBR
+tag GER
+Focus.autocomplete
+nocb
+tag PRC
+tag MON
+tag SOV
+nocb
+Focus.nochecks
+Focus.autocomplete
+Focus.nochecks
+yesman
+nocb
+yesman
+nocb
+manpower
+tag FIN
+tag SOV
+tag SIA
+set_ruling_party maoism
+add_party_popularity maoism 100
+tag MYA
+tag MYR
+add_party_popularity maoism 100
+tag SOV
+taG FIN
+Focus.autocomplete
+Focus.nochecks
+Focus.ignoreprerequisites
+Focus.nochecks
+add_Core 100
+anex ICE
+annex ICE
+decision.nochecks
+Focus.ignoreprerequisites
+Focus.autocomplete
+add_Core 124
+add_Core 666
+add_Core 956
+add_Core 144
+add_Core 143
+add_Core 814
+add_Core 142
+add_Core 802
+add_Core 957
+add_Core 980
+add_Core 110
+pp 98
+add_Core 979
+add_Core 975
+add_Core 141
+add_Core 972
+add_Core 967
+add_Core 139
+add_Core 903
+add_Core 138
+add_Core 959
+add_Core 904
+add_Core 958
+add_Core 140
+add_Core 969
+add_Core 970
+add_Core 971
+add_Core 973
+add_Core 975
+add_Core 974
+add_Core 1227+
+add_Core 1227
+add_Core 928
+add_Core 1155
+add_Core 100
+add_Core 101
+add_Core 337
+setowner DEN 1146
+setowner DEN 37
+tag DEN
+annex DEN
+tag SOV
+add_Core 89
+add_Core 243
+add_Core 91
+annex GAG
+tag JAP
+add_party_popularity n 1090
+add_party_popularity monarchist 100
+add_party_popularity monarchism 100
+set_ruling_party monarchism
+tag SOV
+setowner ARM 85
+annex ARm
+setowner ARM 797
+setowner ARM 86
+setowner ARM 67
+annex ARM
+bomb 1
+nuclear 1
+nuke 1
+nuke 94
+tag POL
+setowner ARM 797
+setowner ARM 85
+setowner ARM 86
+setowner ARM 67
+annex ARM
+tag GEr
+tag SOV
+tag BUR
+tag MYR
+ale
+set_Ruling_party c
+set_Ruling_party maoism
+add_party_popularity maoism 100
+tag SIA
+tag VIN
+tag PRC
+tag SOV
+ale 100000
+ale 100000^0
+ale 1000000
+ale 100000
+tag YUG
+ale 1000
+tag SOV
+tag EGY
+tag SOV
+op
+tp
+op
+tp
+tag AÖG
+tag ALG
+manpower 100000
+tag SOV
+tag ALG
+ale 10000
+manpower 190281
+tag SOV
+tag WGR
+add_party_popularity monarchism 20
+tag SOV
+tag ALG
+tag SOV
+op
+setowner ARM 777
+annex ARm
+tag ALG
+tp
+tag SOV
+tp
+tag FRA
+annex ALG
+tag SOV
+cp
+tag YUG
+set_ruling_party revolutionary_socialist
+set_ruling_party revolutionary_socialism
+set_ruling_party trotskyism
+tag PDG
+add_party_popularity c 100
+tag BUL
+add_party_popularity c 100
+add_party_popularity social_conservative 30
+add_party_popularity conservatism 30
+add_party_popularity conservative 30
+add_party_popularity conservatism 3
+add_party_popularity conservative 3
+tag HUN
+add_party_popularity c 100
+add_party_popularity conservative 3
+add_party_popularity conservative 30
+tag ADR
+add_party_popularity c 100
+add_party_popularity conservative 33
+set_Ruling_party trotskyism
+set_Ruling_party c
+tag CZE
+set_Ruling_party trotskyism
+add_party_popularity conservative 33
+set_Ruling_party trotskyism
+set_Ruling_party maoism
+set_Ruling_party progressive
+set_Ruling_party progressiv
+set_Ruling_party d
+set_Ruling_party centrism
+set_Ruling_party liberal
+set_Ruling_party conservative
+set_Ruling_party liberal_conservatism
+set_Ruling_party c
+add_party_popularity c 100
+add_party_popularity conservative 33
+tag SOV
+tag WGR
+setowner DDR 28
+setowner DDR 85
+setowner DDR 86
+setowner DDR 67
+annex DDR
+annex LUX
+setowner DDR 20
+setowner DDR 797
+annex DDR
+setowner DDR 28
+annex DDR
+add_party_popularity christian_democrat 10
+add_party_popularity christian_democratic 10
+add_party_popularity c 30
+add_party_popularity monarchism 10
+add_party_popularity c 10
+add_party_popularity f 10
+add_party_popularity christian_democratic 10
+set_ruling_party christian_democratic
+tag SOV
+ic
+setowner ARM 915
+annex ARM
+tag WGR
+tag SOV
+tag EGY
+annex IRQ
+tag SOV
+ic
+nocb
+tag YUG
+manpower 238190
+tag SOV
+taG INO
+set_ruling_party trotskyims
+set_ruling_party trotskyism
+set_ruling_party maoism
+set_ruling_party socialism
+set_ruling_party socialist
+add_party_popularity socialist 100
+tag SOV
+tag INO
+ic
+tag SOV
+tp
+tag MYR
+add_party_Popularity c 100
+add_party_Popularity maoism 100
+manpower 12398123
+ale 10000
+tag ASS
+tag ASA
+manpower 123981
+tag BNG
+tag BAN
+tag yug
+add_party_Popularity trotskyism 100
+add_party_Popularity trotskyism -10
+tag SOV
+setowner ARM 797
+setowner ARM 85
+setowner ARM 67
+tag D02
+annex ARM
+tag SOV
+tag WGR
+add_party_popularity c 10
+add_party_popularity monarchist 10
+add_party_popularity monarchism 10
+tag SOV
+add_Core 86 POL
+add_Core 86 D02
+tp
+nocb
+tag SYR
+tag SOV
+tag POL
+add_Core 92
+add_Core 10
+add_Core 97
+add_Core 98
+add_Core 87
+tag Do2
+tag D02
+tag SOV
+tp
+tag PRc
+tag POR
+ai
+tag SOV
+tp
+nocb
+tp
+op
+tag HUN
+annex SLO
+add_autonomy HUN 1000
+pp 150
+add_autonomy HUN 1000
+add_autonomy HUN 100
+
+add_autonomy HUN 100
+add_party_popularity c 100
+add_party_popularity conservative 33
+tag SOV
+op
+tag IR
+tag IRQ
+set_ruling_party monarchism
+tag SOV
+nocb
+tag EGY
+tag IRQ
+tag SYR
+tag LEB
+tag ISr
+tag IRQ
+tag SOV
+nocb
+tag PRC
+tag MY
+tag MYR
+tag SOV
+tag CZE
+tag SOV
+annex Vie
+add_Core 405
+add_Core 799 PER
+add_Core 799
+tag D01
+add_COre 939 D01
+add_COre 811 D01
+add_COre 938 D01
+add_COre 676 D01
+tag KUR
+add_autonomy KUR 1000
+add_autonomy KUR 500
+add_party_popularity c 100
+add_party_popularity social_democrat 40
+add_party_popularity social_democracy 30
+add_party_popularity social_democratic 30
+add_party_popularity c 100
+add_party_popularity trotskyism 33
+tag TUR
+set_ruling_party nationalism
+set_ruling_party islamist
+set_ruling_party islamis#m
+set_ruling_party islamism
+add_Core 939 D01
+add_Core 811 D01
+add_Core 938 D01
+add_Core 676 D01
+tag KUR
+add_party_populartiy c 100
+add_party_popularity c 100
+add_party_popularity trotskyism 33
+add_autonomy KUR 1000
+add_autonomy KUR 500
+tag TUR
+set_ruling_party islamism
+set_ruling_party salafist
+set_ruling_party salafism
+set_ruling_party shia_islam
+set_ruling_party shia_islamism
+set_ruling_party shia_islamist
+set_ruling_party shia_islamistic
+set_ruling_party Shia_islamist
+set_ruling_party Shia_islamism
+set_ruling_party Shia_islamistic
+set_ruling_party Shia_islam
+set_ruling_party  monarchism
+set_ruling_party monarchism
+add_party_popularity monarchism 100
+add_autonomy TUR 100
+add_autonomy TUR 1000
+add_autonomy TUR 500
+tag SOV
+add_core 939 D01
+add_core 811 D01
+add_core 938 D01
+add_core 676 D01
+nocb
+tag PEr
+add_Core 419
+tag SOV
+tag PER
+tag SOV
+nocb
+tag AFG
+add_autonomy AFG 1000
+pp 100
+add_Core 405 SOV
+set_ruling_party monarchism
+set_ruling_party islamist
+set_ruling_party islamism
+set_ruling_party salafist
+set_ruling_party salafism
+add_party_popularity salafist 100
+add_party_popularity salafism 100
+add_party_popularity shia
+add_party_popularity shia 1
+add_party_popularity shial 1
+tag SOV
+tag MOn
+add_party_popularity c 100
+add_party_popularity trotskyism
+add_party_popularity trotskyism 50
+pp 150
+set_ruling_party c
+tag SOV
+tag PRK
+tag KPR
+tag KPA
+add_party_popularity c 100
+tag SOV
+add_Core 291
+tag KUR
+manpower 1231312
+tag SOV
+add_Core 939 D01
+add_Core 811 D01
+add_Core 938 D01
+add_Core 676 D01
+tag KUR
+add_autonomy D01 -1000
+add_autonomy D01 -100
+tag D01
+ic
+tag D01
+set_Ruling_party salafist
+set_Ruling_party salafism
+set_Ruling_party islamist
+set_Ruling_party islamism
+set_Ruling_party f
+set_Ruling_party d
+set_Ruling_party n
+set_Ruling_party nationalism
+set_Ruling_party c
+add_party_popularity c 100
+add_party_popularity monarchist 45
+add_party_popularity nationalism 45
+pp 150
+tag SOV
+ic
+tdebug
+tag DNZ
+set_Ruling_party c
+set_Ruling_party d
+set_Ruling_party n
+set_Ruling_party f
+tag GER
+Focus.autocomplete
+Focus.autonocheck
+Focus.autonochecks
+Focus.nochecks
+Focus.autonochecks
+Focus.autonocheck
+Focus.autocomplete
+add_core 86
+add_core 85
+add_core 794
+add_core 188
+add_core 28
+add_core 99
+add_core 67
+add_core 792
+add_core 69
+add_core 74
+add_core 72
+tag CZE
+setowner ARm 69
+setowner ARM 69
+setowner ARM 74
+annex ARm
+tag POL
+add_Core 762 GER
+setowner ARM 794
+setowner ARM 86
+setowner ARM 762
+setowner ARM 792
+setowner ARM 72
+annex ARM
+tag LIT
+setowner ARM 188
+annex ARM
+tag DEN
+setowner ARM 99
+annex ARM
+tag FRA
+setowner ARM 28
+annex ARm
+tag GER
+manpower
+ic
+research_On_icon_click
+pp
+^xp
+xp
+tag GER
+ic
+tag GEr
+add_core 8
+Focus.nochecks

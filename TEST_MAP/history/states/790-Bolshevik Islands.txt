@@ -1,0 +1,19 @@
+state={
+	id=790
+	name="Bolshevik_Islands"
+	provinces={
+		13236 
+	}
+
+	state_category = rural
+	
+	manpower=1
+	buildings_max_level_factor=1.000
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+	}
+}

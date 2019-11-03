@@ -1,0 +1,19 @@
+state={
+	id=788
+	name="Franz Josef Land"
+	provinces={
+		13234
+	}
+
+	state_category = rural
+
+	manpower=1
+	buildings_max_level_factor=1.000
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = CAN
+	}
+}
