@@ -1,0 +1,19 @@
+state={
+	id=794
+	name="Gogland"
+	manpower = 12
+	
+	state_category = town
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOV
+	}
+
+	provinces={
+		13429
+	}
+}
