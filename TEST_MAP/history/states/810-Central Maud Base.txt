@@ -1,9 +1,15 @@
 state={
 	id=810
 	name="Central Maud Base"
+	manpower=200
 	provinces={
 		13347 
 	}
-	manpower=200
-	buildings_max_level_factor=1.000
+
+	state_category = wasteland 
+	
+	history={
+		owner = ANT	
+		add_core_of = ANT
+	}
 }
