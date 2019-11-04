@@ -1,9 +1,15 @@
 state={
 	id=823
 	name="Central Wilkensland Base"
+	manpower=100
 	provinces={
 		13354 
 	}
-	manpower=100
-	buildings_max_level_factor=1.000
+	
+	state_category = wasteland 
+	
+	history={
+		owner = ANT	
+		add_core_of = ANT
+	}
 }
