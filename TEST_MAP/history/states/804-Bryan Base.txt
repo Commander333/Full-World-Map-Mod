@@ -4,6 +4,20 @@ state={
 	provinces={
 		13342 
 	}
+	
+	state_category = wasteland 
+	
 	manpower=200
 	buildings_max_level_factor=1.000
+
+	history={
+		owner = ANT	
+		add_core_of = ANT
+		buildings = {
+			infrastructure = 0
+			13342 = {
+				naval_base = 3
+			}
+		}
+	}
 }

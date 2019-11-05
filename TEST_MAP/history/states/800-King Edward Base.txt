@@ -1,15 +1,23 @@
 state={
 	id=800
 	name="King Edward Base"
-	manpower=100
 	provinces={
 		13344 
 	}
 	
 	state_category = wasteland 
 	
+	manpower=100
+	buildings_max_level_factor=1.000
+
 	history={
 		owner = ANT	
 		add_core_of = ANT
+		buildings = {
+			infrastructure = 0
+			13344 = {
+				naval_base = 3
+			}
+		}
 	}
 }

@@ -1,15 +1,23 @@
 state={
 	id=797
 	name="Alexander Island Base"
-	manpower=50
 	provinces={
 		13340 
 	}
 	
 	state_category = wasteland 
 	
+	manpower=50
+	buildings_max_level_factor=1.000
+
 	history={
 		owner = ANT	
 		add_core_of = ANT
+		buildings = {
+			infrastructure = 0
+			13340 = {
+				naval_base = 3
+			}
+		}
 	}
 }
