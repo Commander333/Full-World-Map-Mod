@@ -5916,7 +5916,7 @@
 5915;80;4;248;sea;true;ocean;0
 5916;80;6;236;sea;false;ocean;0
 5917;80;8;244;sea;false;ocean;0
-5918;36;108;146;lake;false;lakes;0
+5918;36;108;146;sea;true;ocean;0
 5919;80;15;248;sea;false;ocean;0
 5920;80;16;236;sea;false;ocean;0
 5921;80;17;244;sea;false;ocean;0
@@ -8942,7 +8942,7 @@
 8941;122;14;248;sea;true;ocean;0
 8942;122;15;236;sea;false;ocean;0
 8943;122;16;244;sea;false;ocean;0
-8944;122;18;232;sea;false;ocean;0
+8944;47;85;154;sea;false;ocean;0
 8945;122;19;240;sea;true;ocean;0
 8946;122;20;248;sea;false;ocean;0
 8947;122;22;236;sea;false;ocean;0
@@ -13265,12 +13265,12 @@
 13264;248;60;51;sea;false;ocean;0
 13265;209;87;214;sea;false;ocean;0
 13266;188;20;205;sea;false;ocean;0
-13267;26;250;135;sea;false;ocean;0
+13267;244;139;201;sea;false;ocean;0
 13268;227;195;184;sea;false;ocean;0
 13269;67;131;118;sea;false;ocean;0
 13270;45;177;244;sea;false;ocean;0
 13271;132;113;248;sea;false;ocean;0
-13272;150;115;229;sea;false;ocean;0
+13272;198;127;239;sea;false;ocean;0
 13273;29;159;9;sea;false;ocean;0
 13274;113;159;1;sea;false;ocean;0
 13275;234;33;217;sea;false;ocean;0
@@ -13279,7 +13279,7 @@
 13278;145;93;219;sea;false;ocean;0
 13279;255;74;199;sea;false;ocean;0
 13280;43;40;81;sea;false;ocean;0
-13281;171;37;61;sea;false;ocean;0
+13281;101;180;243;sea;false;ocean;0
 13282;187;228;58;sea;true;ocean;0
 13283;172;36;87;sea;false;ocean;0
 13284;172;36;107;sea;false;ocean;0
@@ -13325,8 +13325,8 @@
 13324;150;68;192;land;false;unknown;6
 13325;31;178;184;land;false;unknown;6
 13326;35;183;115;land;false;unknown;6
-13327;52;180;105;land;false;unknown;6
-13328;186;155;33;land;false;unknown;6
+13327;52;180;105;sea;false;ocean;0
+13328;186;155;33;sea;false;ocean;0
 13329;94;19;132;sea;false;ocean;0
 13330;30;132;98;land;true;plains;2
 13331;200;146;85;land;false;plains;2
@@ -13339,7 +13339,7 @@
 13338;148;119;78;land;true;plains;2
 13339;167;22;148;land;true;plains;8
 13340;165;145;86;land;true;plains;8
-13341;216;220;103;land;true;plains;8
+13341;76;126;250;land;true;plains;8
 13342;216;220;103;land;true;plains;8
 13343;59;178;201;land;true;plains;8
 13344;192;254;194;land;true;plains;8
@@ -13364,7 +13364,7 @@
 13363;203;69;149;sea;true;ocean;0
 13364;200;138;117;sea;true;ocean;0
 13365;189;201;35;sea;false;ocean;0
-13366;50;73;0;unknown;false;0;0
+13366;50;73;0;sea;false;ocean;0
 13367;84;137;8;sea;true;ocean;0
 13368;38;80;70;sea;true;ocean;0
 13369;165;102;77;sea;true;ocean;0
@@ -13448,7 +13448,7 @@
 13447;179;187;142;sea;false;ocean;0
 13448;56;186;240;sea;false;ocean;0
 13449;195;102;22;sea;false;ocean;0
-13450;42;59;10;sea;false;ocean;0
+13450;77;211;110;sea;false;ocean;0
 13451;2;121;1;sea;true;ocean;0
 13452;42;59;10;sea;true;ocean;0
 13453;235;10;153;sea;true;ocean;0
@@ -13556,7 +13556,7 @@
 13555;166;168;75;sea;false;ocean;0
 13556;51;108;183;sea;false;ocean;0
 13557;60;254;104;sea;false;ocean;0
-13558;142;87;169;sea;false;ocean;0
+13558;151;225;17;sea;false;ocean;0
 13559;116;217;227;sea;false;ocean;0
 13560;33;152;235;sea;false;ocean;0
 13561;61;83;4;sea;false;ocean;0
@@ -13608,7 +13608,7 @@
 13607;249;181;27;sea;false;ocean;0
 13608;147;170;30;sea;false;ocean;0
 13609;231;219;52;sea;false;ocean;0
-13610;91;46;137;sea;false;ocean;0
+13610;27;205;139;sea;false;ocean;0
 13611;80;183;6;sea;false;ocean;0
 13612;57;73;71;sea;false;ocean;0
 13613;159;238;37;sea;false;ocean;0
@@ -13619,7 +13619,7 @@
 13618;37;21;47;sea;false;ocean;0
 13619;121;203;190;sea;false;ocean;0
 13620;18;71;238;sea;false;ocean;0
-13621;124;38;48;sea;false;ocean;0
+13621;57;205;139;sea;false;ocean;0
 13622;91;46;137;sea;false;ocean;0
 13623;124;38;48;sea;false;ocean;0
 13624;50;227;43;sea;false;ocean;0
@@ -13682,7 +13682,7 @@
 13681;1;1;12;sea;true;ocean;0
 13682;1;1;13;sea;false;ocean;0
 13683;1;1;14;sea;true;ocean;0
-13684;1;1;15;sea;false;ocean;0
+13684;113;144;28;sea;false;ocean;0
 13685;1;1;15;sea;true;ocean;0
 13686;1;1;16;sea;true;ocean;0
 13687;1;1;17;sea;true;ocean;0
@@ -13861,7 +13861,7 @@
 13860;1;1;188;sea;false;ocean;0
 13861;1;1;189;sea;false;ocean;0
 13862;1;1;190;sea;false;ocean;0
-13863;1;1;191;sea;false;ocean;0
+13863;249;68;109;sea;false;ocean;0
 13864;1;1;191;sea;false;ocean;0
 13865;1;1;192;sea;false;ocean;0
 13866;1;1;193;sea;false;ocean;0
@@ -13894,3 +13894,4 @@
 13893;1;1;220;sea;false;ocean;0
 13894;1;1;221;sea;false;ocean;0
 13895;1;1;222;sea;false;ocean;0
+13896;17;136;115;land;false;unknown;0
