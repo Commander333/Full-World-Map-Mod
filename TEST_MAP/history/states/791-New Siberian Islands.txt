@@ -2,7 +2,7 @@ state={
 	id=791
 	name="New Siberian Islands"
 	provinces={
-		13235 
+		13235 13299 13300 13301 13325 13896 13897
 	}
 
 	state_category = rural
