@@ -1,0 +1,23 @@
+state=
+{
+	id=101
+	name="STATE_101"
+	manpower = 18000
+	
+	state_category = wasteland
+	
+	history=
+	{
+		owner = DEN
+		buildings = {
+			infrastructure = 1
+			12512 ={
+				naval_base = 1
+			}
+		}
+		add_core_of = DEN
+	}
+	provinces=
+	{
+10245 10636 12512 13058 13066 13218 13219 13220 13221 13330 13331 13332 13333 13334 13335 13336 13337 13338	}
+}
