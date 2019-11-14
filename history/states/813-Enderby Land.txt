@@ -1,0 +1,17 @@
+state={
+	id=813
+	name="STATE_813" # Enderby Land
+	manpower=1
+
+	state_category = wasteland 
+	impassable = yes
+
+	history={
+		owner = ANT	
+		add_core_of = ANT
+	}
+	
+	provinces={
+		13225 
+	}
+}

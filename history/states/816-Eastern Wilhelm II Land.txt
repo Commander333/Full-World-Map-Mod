@@ -1,0 +1,17 @@
+state={
+	id=816
+	name="STATE_816" # Eastern Wilhelm II Land
+	manpower=1
+	
+	state_category = wasteland 
+	impassable = yes
+
+	history={
+		owner = ANT	
+		add_core_of = ANT
+	}
+	
+	provinces={
+		13290 
+	}
+}
