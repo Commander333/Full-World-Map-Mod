@@ -1,6 +1,6 @@
 state={
 	id=822
-	name="STATE_822" # Vostok
+	name="STATE_822" # Casey Station
 	manpower=100
 	
 	state_category = wasteland 

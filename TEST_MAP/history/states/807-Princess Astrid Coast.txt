@@ -1,6 +1,6 @@
 state={
 	id=807
-	name="STATE_807" # Princess Astrid Coast
+	name="STATE_807" # Princess Ragnhild Coast
 	manpower=1
 
 	state_category = wasteland 

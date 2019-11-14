@@ -1,10 +1,7 @@
 state={
 	id=825
-	name="Victoria Land"
+	name="STATE_825" # Mac. Robertson Land
 	manpower=1
-	provinces={
-		13289 
-	}
 	
 	state_category = wasteland 
 	impassable = yes
@@ -12,5 +9,9 @@ state={
 	history={
 		owner = ANT	
 		add_core_of = ANT
+	}
+	
+	provinces={
+		13289 
 	}
 }

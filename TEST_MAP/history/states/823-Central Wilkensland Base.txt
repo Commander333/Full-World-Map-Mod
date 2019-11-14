@@ -1,6 +1,6 @@
 state={
 	id=823
-	name="STATE_823" # Wilkes Station
+	name="STATE_823" # Dumont d'Urville Station
 	manpower=100
 	
 	state_category = wasteland 
