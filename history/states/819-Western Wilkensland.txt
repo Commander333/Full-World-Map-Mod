@@ -1,6 +1,6 @@
 state={
 	id=819
-	name="STATE_819" # Budd Coast
+	name="Budd Coast"
 	manpower=1
 
 	state_category = wasteland 

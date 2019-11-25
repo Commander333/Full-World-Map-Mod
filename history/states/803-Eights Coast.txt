@@ -1,6 +1,6 @@
 state={
 	id=803
-	name="STATE_803" # Ellsworth Land
+	name="Ellsworth Land"
 	manpower=1
 	
 	state_category = wasteland 

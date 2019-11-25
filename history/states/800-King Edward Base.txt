@@ -1,6 +1,6 @@
 state={
 	id=800
-	name="STATE_800" # Siple Station
+	name="Siple Station"
 	manpower=100
 	
 	state_category = wasteland 

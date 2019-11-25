@@ -1,6 +1,6 @@
 state={
 	id=796
-	name="STATE_796" # Alexander Island
+	name="Alexander Island"
 	manpower=10
 	
 	state_category = wasteland 

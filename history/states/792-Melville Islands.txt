@@ -1,6 +1,6 @@
 state={
 	id=792
-	name="STATE_792" # Baffin Island
+	name="Baffin Island"
 	manpower=1
 
 	state_category = wasteland

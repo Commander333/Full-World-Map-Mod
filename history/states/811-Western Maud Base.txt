@@ -1,6 +1,6 @@
 state={
 	id=811
-	name="STATE_811" # Maudheim
+	name="Maudheim"
 	manpower=200
 	
 	state_category = wasteland 

@@ -1,6 +1,6 @@
 state={
 	id=797
-	name="STATE_797" # Fossil Bluff Station
+	name="Fossil Bluff Station"
 	manpower=50
 	
 	state_category = wasteland 

@@ -1,6 +1,6 @@
 state={
 	id=798
-	name="STATE_798" # Cape Framnes
+	name="Cape Framnes"
 	manpower=200
 	
 	state_category = wasteland 

@@ -1,6 +1,6 @@
 state={
 	id=818
-	name="STATE_818" # Progress Station
+	name="Progress Station"
 	provinces={
 		13352 
 	}

@@ -1,6 +1,6 @@
 state={
 	id=791
-	name="STATE_791" # Novosibirskiye Ostrova
+	name="Novosibirskiye Ostrova"
 	manpower=1
 
 	state_category = wasteland 

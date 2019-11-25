@@ -1,6 +1,6 @@
 state={
 	id=815
-	name="STATE_815" # Queen Mary Coast
+	name="Queen Mary Coast"
 	manpower=1
 	
 	state_category = wasteland 

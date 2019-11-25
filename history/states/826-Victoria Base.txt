@@ -1,6 +1,6 @@
 state={
 	id=826
-	name="STATE_826" # Soyuz Station
+	name="Soyuz Station"
 	manpower=1
 	
 	state_category = wasteland 

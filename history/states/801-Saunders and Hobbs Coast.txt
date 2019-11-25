@@ -1,6 +1,6 @@
 state={
 	id=801
-	name="STATE_801" # Marie Byrd Land
+	name="Marie Byrd Land"
 	manpower=1
 
 	state_category = wasteland 

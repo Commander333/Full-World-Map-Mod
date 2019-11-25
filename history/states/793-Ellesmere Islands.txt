@@ -1,6 +1,6 @@
 state={
 	id=793
-	name="STATE_793" # Queen Elizabeth Islands
+	name="Queen Elizabeth Islands"
 	manpower=1
 
 	state_category = wasteland 

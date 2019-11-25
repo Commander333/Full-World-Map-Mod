@@ -1,6 +1,6 @@
 state={
 	id=816
-	name="STATE_816" # Eastern Wilhelm II Land
+	name="Eastern Wilhelm II Land"
 	manpower=1
 	
 	state_category = wasteland 

@@ -1,6 +1,6 @@
 state={
 	id=817
-	name="STATE_817" # Mirny Station
+	name="Mirny Station"
 	manpower=200	
 	
 	state_category = wasteland 
