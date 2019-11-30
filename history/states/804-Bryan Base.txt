@@ -1,6 +1,6 @@
 state={
 	id=804
-	name="Bryan Coast"
+	name="Eights Station"
 	manpower=200
 	
 	state_category = wasteland 

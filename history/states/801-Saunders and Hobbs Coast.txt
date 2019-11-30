@@ -1,6 +1,6 @@
 state={
 	id=801
-	name="Marie Byrd Land"
+	name="Walgreens"
 	manpower=1
 
 	state_category = wasteland 

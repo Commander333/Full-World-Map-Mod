@@ -1,6 +1,6 @@
 state={
 	id=799
-	name="King Edward VII Land"
+	name="Hobbs Coast"
 	manpower=1
 	
 	state_category = wasteland 
@@ -12,6 +12,6 @@ state={
 	}
 	
 	provinces={
-		13232 
+		13232 13897 13898 13899 13900 13901 14035 14036 14037 14038 14039 14040
 	}
 }
