@@ -1,0 +1,29 @@
+
+state={
+	id=881
+	name="Ticino"
+	manpower = 54711
+	
+	
+	state_category = city
+	
+	resources={
+		aluminium=2 # was: 6
+	}
+
+	history={
+		owner = SWI
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+		}
+		victory_points = {
+			663 10 
+		}
+		add_core_of = SWI
+	}
+
+	provinces={
+		658 3641 3660 3662 9600
+	}
+}

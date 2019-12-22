@@ -1,0 +1,25 @@
+state= {
+	id=891
+	name="Bornholm"
+	manpower = 13211
+	
+	state_category = town
+
+	history=
+	{
+		owner = DEN
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 3
+			air_base = 2
+			6361 = {
+				naval_base = 3
+
+			}
+		}
+		add_core_of = DEN
+	}
+	provinces=
+	{
+	6361	}
+}

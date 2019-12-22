@@ -1,7 +1,7 @@
 state= {
 	id=99
-	name="STATE_99"
-	manpower = 1672235
+	name="Northern Jutland"
+	manpower = 557411
 	resources={
 		aluminium=6 # was: 10
 	}
@@ -12,7 +12,7 @@ state= {
 	{
 		owner = DEN
 		victory_points = {
-			6364 3 
+			3 
 		}
 		buildings = {
 			infrastructure = 8
@@ -20,14 +20,12 @@ state= {
 			air_base = 2
 			394 = {
 				naval_base = 3
-			}
-			6364 = {
-				naval_base = 1
+
 			}
 		}
 		add_core_of = DEN
 	}
 	provinces=
 	{
-316 332 394 399 3206 3277 3341 6235 6364 11251 	}
+316 394 3206 3341 6235 	}
 }

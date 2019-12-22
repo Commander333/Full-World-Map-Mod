@@ -1,0 +1,26 @@
+
+state={
+	id=883
+	name="Romandy"
+	manpower = 73122
+	
+	
+	state_category = city
+	
+	resources={
+		aluminium=2 # was: 6
+	}
+
+	history={
+		owner = SWI
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3 
+		}
+		add_core_of = SWI
+	}
+
+	provinces={
+		6666 6683 9622 11590
+	}
+}

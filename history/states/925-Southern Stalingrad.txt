@@ -1,0 +1,28 @@
+
+state={
+	id=925
+	name="Southern Stalingrad"
+	manpower = 113507
+	
+	state_category = city
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = SOV
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+			}
+		}
+	}
+
+	provinces={
+		498 6503 6527 9442 9459 9474 11447 
+	}
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=875
+	name="Eastern Meuse"
+	manpower = 23123
+	
+	state_category = city
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		3560 5291
+	}
+}

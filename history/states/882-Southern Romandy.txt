@@ -1,0 +1,26 @@
+
+state={
+	id=882
+	name="Southern Romandy"
+	manpower = 54311
+	
+	
+	state_category = city
+	
+	resources={
+		aluminium=2 # was: 6
+	}
+
+	history={
+		owner = SWI
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3 
+		}
+		add_core_of = SWI
+	}
+
+	provinces={
+		3612 9587
+	}
+}

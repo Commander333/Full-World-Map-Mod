@@ -1,0 +1,22 @@
+
+state={
+	id=873
+	name="Southern Champagne"
+	manpower = 685400
+	
+	state_category = city
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+			air_base = 10
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		551 3533 6531 9490 11732 
+	}
+}

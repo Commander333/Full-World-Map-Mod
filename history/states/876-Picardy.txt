@@ -1,0 +1,22 @@
+
+state={
+	id=876
+	name="Picardy"
+	manpower = 1053334
+	
+	state_category = city
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		454 3402 3447 11420 11549
+	}
+}

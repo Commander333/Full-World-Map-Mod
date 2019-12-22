@@ -1,0 +1,22 @@
+
+state={
+	id=908
+	name="Srem"
+	manpower = 222440
+	
+	state_category = small_town
+
+	history={
+		owner = YUG
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+		}
+		add_core_of = YUG
+		add_core_of = CRO
+	}
+
+	provinces={
+		11580
+	}
+}
