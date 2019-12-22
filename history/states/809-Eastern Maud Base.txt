@@ -1,6 +1,6 @@
 state={
 	id=809
-	name="Lazarev"
+	name="Enderby Base"
 	manpower=200
 	
 	state_category = wasteland 

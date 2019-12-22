@@ -1,6 +1,6 @@
 state={
 	id=820
-	name="Eastern Wilkensland"
+	name="Central Wilkensland"
 	manpower=1
 
 	state_category = wasteland 
