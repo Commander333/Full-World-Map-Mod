@@ -1,7 +1,7 @@
 state={
 	id=785
-	name="Northern Ile De France"
-	manpower = 526666
+	name="STATE_785"
+	manpower = 1580000
 	
 	state_category = town
 	resources={
@@ -10,6 +10,9 @@ state={
 	}
 	
 	history={
+		victory_points = {
+			11420 5
+		}
 		owner = FRA
 		add_core_of = FRA
 		buildings = {
@@ -19,6 +22,6 @@ state={
 	}
 
 	provinces={
-		6585 9561 
+		454 3402 3447 6585 9561 11420 11549
 	}
 }

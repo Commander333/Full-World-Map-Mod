@@ -1,12 +1,14 @@
 state={
 	id=85
-	name="West Prussia"
+	name="STATE_85"
 	manpower = 1080100
 	
 	state_category = city
 	history={
 		owner = POL
-
+		victory_points = {
+			362 10
+		}
 		victory_points = {
 			3295 5
 		}
@@ -30,6 +32,6 @@ state={
 	}
 
 	provinces={
-		243 279 389 3295 3324 6347 
+		243 279 334 362 389 3295 3324 6347 9263
 	}
 }

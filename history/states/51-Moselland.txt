@@ -1,10 +1,10 @@
 
 state={
 	id=51
-	name="Western Rhineland"
-	manpower = 3072371
+	name="STATE_51"
+	manpower = 6144743
 	resources={
-		steel=15 # was: 27
+		steel=30 # was: 54
 	}
 
 
@@ -12,6 +12,9 @@ state={
 	
 	history={
 		owner = GER
+		victory_points = {
+			6469 10 
+		}
 		victory_points = {
 			587 5 
 		}
@@ -46,7 +49,7 @@ state={
 	}
 
 	provinces={
-		587 3444 3547 9522 
+		529 587 3444 3512 3547 6469 6570 9482 9522 
 	}
 	
 }
